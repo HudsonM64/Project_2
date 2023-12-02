@@ -14,7 +14,6 @@ app.use(express.static(__dirname + '/public'));
 
 // Your existing code for getting parking data
 async function getParkingData() {
-  // ... (unchanged)
 }
 
 // Render the "Availability" page
