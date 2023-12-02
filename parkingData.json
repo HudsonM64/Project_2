@@ -1,0 +1,5084 @@
+[
+  {
+    "lotName": "West Stadium Lot",
+    "lotNumber": "101",
+    "totalSpaces": "221",
+    "times": [
+      "80% Full",
+      "88% Full",
+      "89% Full",
+      "79% Full"
+    ]
+  },
+  {
+    "lotName": "Bernie Moore Lot",
+    "lotNumber": "104",
+    "totalSpaces": "191",
+    "times": [
+      "25% Full",
+      "28% Full",
+      "22% Full",
+      "25% Full"
+    ]
+  },
+  {
+    "lotName": "Natatorium Lot",
+    "lotNumber": "105",
+    "totalSpaces": "315",
+    "times": [
+      "1% Full",
+      "48% Full",
+      "46% Full",
+      "40% Full"
+    ]
+  },
+  {
+    "lotName": "Touchdown Village West Lot",
+    "lotNumber": "314",
+    "totalSpaces": "1364",
+    "times": [
+      "58% Full",
+      "95% Full",
+      "99% Full",
+      "77% Full"
+    ]
+  },
+  {
+    "lotName": "Touchdown Village East Lot",
+    "lotNumber": "315",
+    "totalSpaces": "1221",
+    "times": [
+      "99% Full",
+      "100% Full",
+      "100% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "West Parker Blvd. Lot",
+    "lotNumber": "316",
+    "totalSpaces": "206",
+    "times": [
+      "5% Full",
+      "15% Full",
+      "13% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium East Lot",
+    "lotNumber": "401",
+    "totalSpaces": "328",
+    "times": [
+      "6% Full",
+      "98% Full",
+      "98% Full",
+      "11% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium West Lot",
+    "lotNumber": "401",
+    "totalSpaces": "529",
+    "times": [
+      "3% Full",
+      "98% Full",
+      "99% Full",
+      "7% Full"
+    ]
+  },
+  {
+    "lotName": "South Quad Dr. West Lot",
+    "lotNumber": "403",
+    "totalSpaces": "441",
+    "times": [
+      "1% Full",
+      "28% Full",
+      "22% Full",
+      "7% Full"
+    ]
+  },
+  {
+    "lotName": "Skip Bertman Dr. East Lot",
+    "lotNumber": "404",
+    "totalSpaces": "641",
+    "times": [
+      "1% Full",
+      "28% Full",
+      "22% Full",
+      "7% Full"
+    ]
+  },
+  {
+    "lotName": "East Parker Blvd. Lot",
+    "lotNumber": "604",
+    "totalSpaces": "504",
+    "times": [
+      "100% Full",
+      "100% Full",
+      "99% Full",
+      "99% Full"
+    ]
+  },
+  {
+    "lotName": "ECE West Lot",
+    "lotNumber": "402",
+    "totalSpaces": "285",
+    "times": [
+      "15% Full",
+      "87% Full",
+      "86% Full",
+      "36% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum Lot",
+    "lotNumber": "600",
+    "totalSpaces": "494",
+    "times": [
+      "32% Full",
+      "38% Full",
+      "95% Full",
+      "96% Full"
+    ]
+  },
+  {
+    "lotName": "West Stadium Lot",
+    "lotNumber": "101",
+    "totalSpaces": "221",
+    "times": [
+      "27% Full",
+      "16% Full",
+      "17% Full",
+      "30% Full"
+    ]
+  },
+  {
+    "lotName": "Bernie Moore Lot",
+    "lotNumber": "104",
+    "totalSpaces": "191",
+    "times": [
+      "6% Full",
+      "14% Full",
+      "15% Full",
+      "3% Full"
+    ]
+  },
+  {
+    "lotName": "Natatorium Lot",
+    "lotNumber": "105",
+    "totalSpaces": "315",
+    "times": [
+      "1% full",
+      "40% Full",
+      "40% Full",
+      "2% Full"
+    ]
+  },
+  {
+    "lotName": "Touchdown Village West Lot",
+    "lotNumber": "314",
+    "totalSpaces": "1364",
+    "times": [
+      "16% Full",
+      "93% Full",
+      "93% Full",
+      "71% Full"
+    ]
+  },
+  {
+    "lotName": "Touchdown Village East Lot",
+    "lotNumber": "315",
+    "totalSpaces": "1221",
+    "times": [
+      "12% Full",
+      "92% Full",
+      "92% Full",
+      "30% Full"
+    ]
+  },
+  {
+    "lotName": "West Parker Blvd. Lot",
+    "lotNumber": "316",
+    "totalSpaces": "206",
+    "times": [
+      "12% Full",
+      "16% Full",
+      "10% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium East Lot",
+    "lotNumber": "401",
+    "totalSpaces": "328",
+    "times": [
+      "5% Full",
+      "96% Full",
+      "97% Full",
+      "6% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium West Lot",
+    "lotNumber": "401",
+    "totalSpaces": "529",
+    "times": [
+      "4% Full",
+      "98% Full",
+      "98% Full",
+      "6% Full"
+    ]
+  },
+  {
+    "lotName": "South Quad Dr. West Lot",
+    "lotNumber": "403",
+    "totalSpaces": "441",
+    "times": [
+      "5% Full",
+      "96% Full",
+      "97% Full",
+      "6% Full"
+    ]
+  },
+  {
+    "lotName": "Skip Bertman Dr. East Lot",
+    "lotNumber": "404",
+    "totalSpaces": "641",
+    "times": [
+      "2% Full",
+      "28% Full",
+      "25% Full",
+      "20% Full"
+    ]
+  },
+  {
+    "lotName": "East Parker Blvd. Lot",
+    "lotNumber": "604",
+    "totalSpaces": "504",
+    "times": [
+      "13% Full",
+      "47% Full",
+      "42% Full",
+      "16% Full"
+    ]
+  },
+  {
+    "lotName": "ECE West Lot",
+    "lotNumber": "402",
+    "totalSpaces": "285",
+    "times": [
+      "15% Full",
+      "87% Full",
+      "86% Full",
+      "36% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum Lot",
+    "lotNumber": "600",
+    "totalSpaces": "494",
+    "times": [
+      "28% Full",
+      "100% Full",
+      "97% Full",
+      "72% Full"
+    ]
+  },
+  {
+    "lotName": "West Stadium Lot",
+    "lotNumber": "101",
+    "totalSpaces": "221",
+    "times": [
+      "19% Full",
+      "82% Full",
+      "79% Full",
+      "74% Full"
+    ]
+  },
+  {
+    "lotName": "Bernie Moore Lot",
+    "lotNumber": "104",
+    "totalSpaces": "191",
+    "times": [
+      "4% Full",
+      "89% Full",
+      "67% Full",
+      "21% Full"
+    ]
+  },
+  {
+    "lotName": "Natatorium Lot",
+    "lotNumber": "105",
+    "totalSpaces": "315",
+    "times": [
+      "27% Full",
+      "32% Full",
+      "35% Full",
+      "42% Full"
+    ]
+  },
+  {
+    "lotName": "Touchdown Village West Lot",
+    "lotNumber": "314",
+    "totalSpaces": "1364",
+    "times": [
+      "2% Full",
+      "96% Full",
+      "92% Full",
+      "65% Full"
+    ]
+  },
+  {
+    "lotName": "Touchdown Village East Lot",
+    "lotNumber": "315",
+    "totalSpaces": "1221",
+    "times": [
+      "1% Full",
+      "47% Full",
+      "41% Full",
+      "21% Full"
+    ]
+  },
+  {
+    "lotName": "West Parker Blvd. Lot",
+    "lotNumber": "316",
+    "totalSpaces": "206",
+    "times": [
+      "6% Full",
+      "16% Full",
+      "10% Full",
+      "3% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium East Lot",
+    "lotNumber": "401",
+    "totalSpaces": "328",
+    "times": [
+      "4% Full",
+      "99% Full",
+      "99% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium West Lot",
+    "lotNumber": "401",
+    "totalSpaces": "529",
+    "times": [
+      "3% Full",
+      "99% Full",
+      "99% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "South Quad Dr. West Lot",
+    "lotNumber": "403",
+    "totalSpaces": "441",
+    "times": [
+      "3% Full",
+      "97% Full",
+      "98% Full",
+      "96% Full"
+    ]
+  },
+  {
+    "lotName": "Skip Bertman Dr. East Lot",
+    "lotNumber": "404",
+    "totalSpaces": "641",
+    "times": [
+      "3% Full",
+      "26% Full",
+      "24% Full",
+      "18% Full"
+    ]
+  },
+  {
+    "lotName": "East Parker Blvd. Lot",
+    "lotNumber": "604",
+    "totalSpaces": "504",
+    "times": [
+      "16% Full",
+      "48% Full",
+      "42% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "ECE West Lot",
+    "lotNumber": "402",
+    "totalSpaces": "285",
+    "times": [
+      "20% Full",
+      "17% Full",
+      "86% Full",
+      "41% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum Lot",
+    "lotNumber": "600",
+    "totalSpaces": "494",
+    "times": [
+      "36% Full",
+      "99% Full",
+      "91% Full",
+      "73% Full"
+    ]
+  },
+  {
+    "lotName": "West Stadium Lot",
+    "lotNumber": "101",
+    "totalSpaces": "221",
+    "times": [
+      "19% Full",
+      "82% Full",
+      "79% Full",
+      "74% Full"
+    ]
+  },
+  {
+    "lotName": "Bernie Moore Lot",
+    "lotNumber": "104",
+    "totalSpaces": "191",
+    "times": [
+      "4% Full",
+      "89% Full",
+      "67% Full",
+      "21% Full"
+    ]
+  },
+  {
+    "lotName": "Natatorium Lot",
+    "lotNumber": "105",
+    "totalSpaces": "315",
+    "times": [
+      "27% Full",
+      "32% Full",
+      "35% Full",
+      "42% Full"
+    ]
+  },
+  {
+    "lotName": "Touchdown Village West Lot",
+    "lotNumber": "314",
+    "totalSpaces": "1364",
+    "times": [
+      "2% Full",
+      "96% Full",
+      "92% Full",
+      "65% Full"
+    ]
+  },
+  {
+    "lotName": "Touchdown Village East Lot",
+    "lotNumber": "315",
+    "totalSpaces": "1221",
+    "times": [
+      "1% Full",
+      "47% Full",
+      "41% Full",
+      "21% Full"
+    ]
+  },
+  {
+    "lotName": "West Parker Blvd. Lot",
+    "lotNumber": "316",
+    "totalSpaces": "206",
+    "times": [
+      "6% Full",
+      "16% Full",
+      "10% Full",
+      "3% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium East Lot",
+    "lotNumber": "401",
+    "totalSpaces": "328",
+    "times": [
+      "4% Full",
+      "99% Full",
+      "99% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium West Lot",
+    "lotNumber": "401",
+    "totalSpaces": "529",
+    "times": [
+      "3% Full",
+      "99% Full",
+      "99% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "South Quad Dr. West Lot",
+    "lotNumber": "403",
+    "totalSpaces": "441",
+    "times": [
+      "3% Full",
+      "97% Full",
+      "98% Full",
+      "96% Full"
+    ]
+  },
+  {
+    "lotName": "Skip Bertman Dr. East Lot",
+    "lotNumber": "404",
+    "totalSpaces": "641",
+    "times": [
+      "3% Full",
+      "26% Full",
+      "24% Full",
+      "18% Full"
+    ]
+  },
+  {
+    "lotName": "East Parker Blvd. Lot",
+    "lotNumber": "604",
+    "totalSpaces": "504",
+    "times": [
+      "10% Full",
+      "41% Full",
+      "43% Full",
+      "1% Full"
+    ]
+  },
+  {
+    "lotName": "ECE West Lot",
+    "lotNumber": "402",
+    "totalSpaces": "285",
+    "times": [
+      "20% Full",
+      "17% Full",
+      "86% Full",
+      "41% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum Lot",
+    "lotNumber": "600",
+    "totalSpaces": "494",
+    "times": [
+      "33% Full",
+      "90% Full",
+      "89% Full",
+      "65% Full"
+    ]
+  },
+  {
+    "lotName": "West Stadium Lot",
+    "lotNumber": "101",
+    "totalSpaces": "221",
+    "times": [
+      "80% Full",
+      "88% Full",
+      "89% Full",
+      "79% Full"
+    ]
+  },
+  {
+    "lotName": "Bernie Moore Lot",
+    "lotNumber": "104",
+    "totalSpaces": "191",
+    "times": [
+      "15% Full",
+      "8% Full",
+      "12% Full",
+      "14% Full"
+    ]
+  },
+  {
+    "lotName": "Natatorium Lot",
+    "lotNumber": "105",
+    "totalSpaces": "191",
+    "times": [
+      "1% Full",
+      "48% Full",
+      "46% Full",
+      "40% Full"
+    ]
+  },
+  {
+    "lotName": "Touchdown Village West Lot",
+    "lotNumber": "314",
+    "totalSpaces": "1364",
+    "times": [
+      "58% Full",
+      "95% Full",
+      "99% Full",
+      "57% Full"
+    ]
+  },
+  {
+    "lotName": "Touchdown Village East Lot",
+    "lotNumber": "315",
+    "totalSpaces": "1221",
+    "times": [
+      "99% Full",
+      "100% Full",
+      "100% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "West Parker Blvd. Lot",
+    "lotNumber": "316",
+    "totalSpaces": "206",
+    "times": [
+      "5% Full",
+      "15% Full",
+      "13% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium East Lot",
+    "lotNumber": "401",
+    "totalSpaces": "328",
+    "times": [
+      "6% Full",
+      "98% Full",
+      "98% Full",
+      "11% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium West Lot",
+    "lotNumber": "401",
+    "totalSpaces": "529",
+    "times": [
+      "3% Full",
+      "98% Full",
+      "99% Full",
+      "7% Full"
+    ]
+  },
+  {
+    "lotName": "South Quad Dr. West Lot",
+    "lotNumber": "403",
+    "totalSpaces": "441",
+    "times": [
+      "86% Full",
+      "90% Full",
+      "88% Full",
+      "87% Full"
+    ]
+  },
+  {
+    "lotName": "Skip Bertman Dr. East Lot",
+    "lotNumber": "404",
+    "totalSpaces": "641",
+    "times": [
+      "1% Full",
+      "28% Full",
+      "22% Full",
+      "7% Full"
+    ]
+  },
+  {
+    "lotName": "East Parker Blvd. Lot",
+    "lotNumber": "604",
+    "totalSpaces": "504",
+    "times": [
+      "9% Full",
+      "46% Full",
+      "48% Full",
+      "16% Full"
+    ]
+  },
+  {
+    "lotName": "ECE West Lot",
+    "lotNumber": "402",
+    "totalSpaces": "285",
+    "times": [
+      "7% Full",
+      "79% Full",
+      "83% Full",
+      "39% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum Lot",
+    "lotNumber": "600",
+    "totalSpaces": "494",
+    "times": [
+      "20% Full",
+      "93% Full",
+      "73% Full",
+      "54% Full"
+    ]
+  },
+  {
+    "lotName": "Canal Hall North Lot",
+    "lotNumber": "111",
+    "totalSpaces": "85",
+    "times": [
+      "96% Full",
+      "99% Full",
+      "76% Full",
+      "69% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway North Lot",
+    "lotNumber": "112",
+    "totalSpaces": "423",
+    "times": [
+      "98% Full",
+      "93% Full",
+      "90% Full",
+      "88% Full"
+    ]
+  },
+  {
+    "lotName": "Beach Volleyball Lot",
+    "lotNumber": "206",
+    "totalSpaces": "121",
+    "times": [
+      "97% Full",
+      "100% Full",
+      "100% Full",
+      "96% Full"
+    ]
+  },
+  {
+    "lotName": "Spruce Hall Lot",
+    "lotNumber": "210",
+    "totalSpaces": "125",
+    "times": [
+      "96% Full",
+      "96% Full",
+      "96% Full",
+      "95% Full"
+    ]
+  },
+  {
+    "lotName": "Alaska Street Lot (WCA West)",
+    "lotNumber": "211",
+    "totalSpaces": "427",
+    "times": [
+      "56% Full",
+      "56% Full",
+      "57% Full",
+      "55% Full"
+    ]
+  },
+  {
+    "lotName": "Kirby Smith Hall Lot",
+    "lotNumber": "211",
+    "totalSpaces": "189",
+    "times": [
+      "58% Full",
+      "59% Full",
+      "59% Full",
+      "62% Full"
+    ]
+  },
+  {
+    "lotName": "North Kirby Smith Hall Lot (WCA North)",
+    "lotNumber": "211",
+    "totalSpaces": "219",
+    "times": [
+      "3% Full",
+      "17% Full",
+      "15% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "Aster Street West Lot",
+    "lotNumber": "212",
+    "totalSpaces": "176",
+    "times": [
+      "14% Full",
+      "15% Full",
+      "13% Full",
+      "11% Full"
+    ]
+  },
+  {
+    "lotName": "Aster Street East Lot",
+    "lotNumber": "213",
+    "totalSpaces": "200",
+    "times": [
+      "63% Full",
+      "66% Full",
+      "68% Full",
+      "62% Full"
+    ]
+  },
+  {
+    "lotName": "Alaska Street East Lot (Cypress Dr. North)",
+    "lotNumber": "219",
+    "totalSpaces": "266",
+    "times": [
+      "92% Full",
+      "92% Full",
+      "100% Full",
+      "92% Full"
+    ]
+  },
+  {
+    "lotName": "Broussard Circle Lot",
+    "lotNumber": "220",
+    "totalSpaces": "19",
+    "times": [
+      "96% Full",
+      "100% Full",
+      "98% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Pentagon Lot",
+    "lotNumber": "220",
+    "totalSpaces": "65",
+    "times": [
+      "97% Full",
+      "99% Full",
+      "97% Full",
+      "90% Full"
+    ]
+  },
+  {
+    "lotName": "Broussard Lot",
+    "lotNumber": "221",
+    "totalSpaces": "73",
+    "times": [
+      "97% Full",
+      "99% Full",
+      "97% Full",
+      "90% Full"
+    ]
+  },
+  {
+    "lotName": "Acadian Lot",
+    "lotNumber": "506",
+    "totalSpaces": "141",
+    "times": [
+      "92% Full",
+      "92% Full",
+      "95% Full",
+      "96% Full"
+    ]
+  },
+  {
+    "lotName": "Blake Hall Lot",
+    "lotNumber": "507",
+    "totalSpaces": "93",
+    "times": [
+      "98% Full",
+      "98% Full",
+      "98% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "Campus Lake Gravel Lot",
+    "lotNumber": "508",
+    "totalSpaces": "134",
+    "times": [
+      "90% Full",
+      "97% Full",
+      "97% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Herget Hall Lot",
+    "lotNumber": "508",
+    "totalSpaces": "230",
+    "times": [
+      "98% Full",
+      "99% Full",
+      "99% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "Miller Hall Lot",
+    "lotNumber": "508",
+    "totalSpaces": "177",
+    "times": [
+      "99% Full",
+      "99% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Hill Farm Student Lot",
+    "lotNumber": "515",
+    "totalSpaces": "298",
+    "times": [
+      "91% Full",
+      "94% Full",
+      "96% Full",
+      "87% Full"
+    ]
+  },
+  {
+    "lotName": "Student Rec West Lot",
+    "lotNumber": "517",
+    "totalSpaces": "100",
+    "times": [
+      "84% Full",
+      "80% Full",
+      "91% Full",
+      "91% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum Lot",
+    "lotNumber": "600",
+    "totalSpaces": "494",
+    "times": [
+      "32% Full",
+      "38% Full",
+      "95% Full",
+      "96% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium Dr. East Lot",
+    "lotNumber": "601",
+    "totalSpaces": "125",
+    "times": [
+      "0% Full",
+      "97% Full",
+      "70% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 1)",
+    "lotNumber": "701",
+    "totalSpaces": "134",
+    "times": [
+      "1% Full",
+      "6% Full",
+      "6% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 2)",
+    "lotNumber": "701",
+    "totalSpaces": "146",
+    "times": [
+      "54% Full",
+      "55% Full",
+      "69% Full",
+      "60% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 3)",
+    "lotNumber": "701",
+    "totalSpaces": "170",
+    "times": [
+      "19% Full",
+      "21% Full",
+      "22% Full",
+      "25% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 4)",
+    "lotNumber": "701",
+    "totalSpaces": "171",
+    "times": [
+      "6% Full",
+      "10% Full",
+      "5% Full",
+      "5% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 5)",
+    "lotNumber": "701",
+    "totalSpaces": "178",
+    "times": [
+      "6% Full",
+      "9% Full",
+      "5% Full",
+      "5% Full"
+    ]
+  },
+  {
+    "lotName": "East Campus Apartments (East Lot)",
+    "lotNumber": "504 A",
+    "totalSpaces": "191",
+    "times": [
+      "95% Full",
+      "97% Full",
+      "96% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "East Campus Apartments (West Lot)",
+    "lotNumber": "504 B",
+    "totalSpaces": "218",
+    "times": [
+      "100% Full",
+      "100% Full",
+      "99% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Corporate Canal South Lot",
+    "lotNumber": "518 B",
+    "totalSpaces": "81",
+    "times": [
+      "85% Full",
+      "74% Full",
+      "89% Full",
+      "91% Full"
+    ]
+  },
+  {
+    "lotName": "Campus Lake - South Campus Lot (McVoy Hall)",
+    "lotNumber": "Street",
+    "totalSpaces": "18",
+    "times": [
+      "100% Full",
+      "94% Full",
+      "94% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "South Campus Street (Bridge) Lot",
+    "lotNumber": "Street",
+    "totalSpaces": "105",
+    "times": [
+      "91% Full",
+      "96% Full",
+      "90% Full",
+      "94% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+    "lotNumber": "Street",
+    "totalSpaces": "172",
+    "times": [
+      "23% Full",
+      "61% Full",
+      "56% Full",
+      "54% Full"
+    ]
+  },
+  {
+    "lotName": "Canal Hall North Lot",
+    "lotNumber": "111",
+    "totalSpaces": "85",
+    "times": [
+      "98% Full",
+      "93% Full",
+      "89% Full",
+      "87% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway North Lot",
+    "lotNumber": "112",
+    "totalSpaces": "423",
+    "times": [
+      "99% Full",
+      "97% Full",
+      "93% Full",
+      "94% Full"
+    ]
+  },
+  {
+    "lotName": "Beach Volleyball Lot",
+    "lotNumber": "206",
+    "totalSpaces": "121",
+    "times": [
+      "98% Full",
+      "100% Full",
+      "100% Full",
+      "91% Full"
+    ]
+  },
+  {
+    "lotName": "Spruce Hall Lot",
+    "lotNumber": "210",
+    "totalSpaces": "125",
+    "times": [
+      "98% Full",
+      "98% Full",
+      "99% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "Alaska Street Lot (WCA West)",
+    "lotNumber": "211",
+    "totalSpaces": "427",
+    "times": [
+      "84% Full",
+      "85% Full",
+      "87% Full",
+      "82% Full"
+    ]
+  },
+  {
+    "lotName": "Kirby Smith Hall Lot",
+    "lotNumber": "211",
+    "totalSpaces": "189",
+    "times": [
+      "99% Full",
+      "98% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "North Kirby Smith Hall Lot (WCA North)",
+    "lotNumber": "211",
+    "totalSpaces": "219",
+    "times": [
+      "33% Full",
+      "42% Full",
+      "36% Full",
+      "26% Full"
+    ]
+  },
+  {
+    "lotName": "Aster Street West Lot",
+    "lotNumber": "212",
+    "totalSpaces": "176",
+    "times": [
+      "2% Full",
+      "19% Full",
+      "23% Full",
+      "5% Full"
+    ]
+  },
+  {
+    "lotName": "Aster Street East Lot",
+    "lotNumber": "213",
+    "totalSpaces": "200",
+    "times": [
+      "11% Full",
+      "10% Full",
+      "9% Full",
+      "5% Full"
+    ]
+  },
+  {
+    "lotName": "Alaska Street East Lot (Cypress Dr. North)",
+    "lotNumber": "219",
+    "totalSpaces": "266",
+    "times": [
+      "65% Full",
+      "67% Full",
+      "69% Full",
+      "63% Full"
+    ]
+  },
+  {
+    "lotName": "Broussard Circle Lot",
+    "lotNumber": "220",
+    "totalSpaces": "19",
+    "times": [
+      "95% Full",
+      "90% Full",
+      "84% Full",
+      "95% Full"
+    ]
+  },
+  {
+    "lotName": "Pentagon Lot",
+    "lotNumber": "220",
+    "totalSpaces": "65",
+    "times": [
+      "97% Full",
+      "100% Full",
+      "98% Full",
+      "91% Full"
+    ]
+  },
+  {
+    "lotName": "Acadian Lot",
+    "lotNumber": "506",
+    "totalSpaces": "141",
+    "times": [
+      "96% Full",
+      "100% Full",
+      "100% Full",
+      "99% Full"
+    ]
+  },
+  {
+    "lotName": "Blake Hall Lot",
+    "lotNumber": "507",
+    "totalSpaces": "93",
+    "times": [
+      "99% Full",
+      "98% Full",
+      "98% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "Campus Lake Gravel Lot",
+    "lotNumber": "508",
+    "totalSpaces": "134",
+    "times": [
+      "93% Full",
+      "99% Full",
+      "98% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "Herget Hall Lot",
+    "lotNumber": "508",
+    "totalSpaces": "230",
+    "times": [
+      "98% Full",
+      "99% Full",
+      "99% Full",
+      "99% Full"
+    ]
+  },
+  {
+    "lotName": "Miller Hall Lot",
+    "lotNumber": "508",
+    "totalSpaces": "177",
+    "times": [
+      "99% Full",
+      "99% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Hill Farm Student Lot",
+    "lotNumber": "515",
+    "totalSpaces": "298",
+    "times": [
+      "0% Full",
+      "0% Full",
+      "2% Full",
+      "5% Full"
+    ]
+  },
+  {
+    "lotName": "Student Rec West Lot",
+    "lotNumber": "517",
+    "totalSpaces": "100",
+    "times": [
+      "96% Full",
+      "94% Full",
+      "98% Full",
+      "96% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum Lot",
+    "lotNumber": "600",
+    "totalSpaces": "494",
+    "times": [
+      "28% Full",
+      "100% Full",
+      "97% Full",
+      "72% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium Dr. East Lot",
+    "lotNumber": "601",
+    "totalSpaces": "125",
+    "times": [
+      "0% Full",
+      "94% Full",
+      "98% Full",
+      "0% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 1)",
+    "lotNumber": "701",
+    "totalSpaces": "134",
+    "times": [
+      "98% Full",
+      "99% Full",
+      "89% Full",
+      "92% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 2)",
+    "lotNumber": "701",
+    "totalSpaces": "146",
+    "times": [
+      "55% Full",
+      "56% Full",
+      "70% Full",
+      "61% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 3)",
+    "lotNumber": "701",
+    "totalSpaces": "170",
+    "times": [
+      "19% Full",
+      "21% Full",
+      "21% Full",
+      "24% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 4)",
+    "lotNumber": "701",
+    "totalSpaces": "171",
+    "times": [
+      "6% Full",
+      "9% Full",
+      "5% Full",
+      "6% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 5)",
+    "lotNumber": "701",
+    "totalSpaces": "178",
+    "times": [
+      "1% Full",
+      "4% Full",
+      "4% Full",
+      "2% Full"
+    ]
+  },
+  {
+    "lotName": "East Campus Apartments (East Lot)",
+    "lotNumber": "504 A",
+    "totalSpaces": "191",
+    "times": [
+      "100% Full",
+      "99% Full",
+      "98% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "East Campus Apartments (West Lot)",
+    "lotNumber": "504 B",
+    "totalSpaces": "218",
+    "times": [
+      "100% Full",
+      "99% Full",
+      "96% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Corporate Canal South Lot",
+    "lotNumber": "518 B",
+    "totalSpaces": "81",
+    "times": [
+      "85% Full",
+      "74% Full",
+      "89% Full",
+      "91% Full"
+    ]
+  },
+  {
+    "lotName": "Campus Lake - South Campus Lot (McVoy Hall)",
+    "lotNumber": "Street",
+    "totalSpaces": "18",
+    "times": [
+      "94% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "South Campus Street (Bridge) Lot",
+    "lotNumber": "Street",
+    "totalSpaces": "105",
+    "times": [
+      "93% Full",
+      "97% Full",
+      "92% Full",
+      "95% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+    "lotNumber": "Street",
+    "totalSpaces": "172",
+    "times": [
+      "63% Full",
+      "67% Full",
+      "66% Full",
+      "62% Full"
+    ]
+  },
+  {
+    "lotName": "Canal Hall North Lot",
+    "lotNumber": "111",
+    "totalSpaces": "85",
+    "times": [
+      "100% Full",
+      "88% Full",
+      "85% Full",
+      "75% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway North Lot",
+    "lotNumber": "112",
+    "totalSpaces": "423",
+    "times": [
+      "98% Full",
+      "93% Full",
+      "88% Full",
+      "86% Full"
+    ]
+  },
+  {
+    "lotName": "Beach Volleyball Lot",
+    "lotNumber": "206",
+    "totalSpaces": "121",
+    "times": [
+      "97% Full",
+      "98% Full",
+      "97% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "Spruce Hall Lot",
+    "lotNumber": "210",
+    "totalSpaces": "125",
+    "times": [
+      "98% Full",
+      "95% Full",
+      "97% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "Alaska Street Lot (WCA West)",
+    "lotNumber": "211",
+    "totalSpaces": "427",
+    "times": [
+      "85% Full",
+      "84% Full",
+      "86% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Kirby Smith Hall Lot",
+    "lotNumber": "211",
+    "totalSpaces": "189",
+    "times": [
+      "99% Full",
+      "96% Full",
+      "99% Full",
+      "99% Full"
+    ]
+  },
+  {
+    "lotName": "North Kirby Smith Hall Lot (WCA North)",
+    "lotNumber": "211",
+    "totalSpaces": "219",
+    "times": [
+      "54% Full",
+      "65% Full",
+      "53% Full",
+      "52% Full"
+    ]
+  },
+  {
+    "lotName": "Aster Street West Lot",
+    "lotNumber": "212",
+    "totalSpaces": "176",
+    "times": [
+      "5% Full",
+      "16% Full",
+      "20% Full",
+      "3% Full"
+    ]
+  },
+  {
+    "lotName": "Aster Street East Lot",
+    "lotNumber": "213",
+    "totalSpaces": "200",
+    "times": [
+      "10% Full",
+      "10% Full",
+      "11% Full",
+      "8% Full"
+    ]
+  },
+  {
+    "lotName": "Alaska Street East Lot (Cypress Dr. North)",
+    "lotNumber": "219",
+    "totalSpaces": "266",
+    "times": [
+      "65% Full",
+      "68% Full",
+      "68% Full",
+      "48% Full"
+    ]
+  },
+  {
+    "lotName": "Broussard Circle Lot",
+    "lotNumber": "220",
+    "totalSpaces": "19",
+    "times": [
+      "100% Full",
+      "100% Full",
+      "95% Full",
+      "95% Full"
+    ]
+  },
+  {
+    "lotName": "Pentagon Lot",
+    "lotNumber": "220",
+    "totalSpaces": "65",
+    "times": [
+      "100% Full",
+      "100% Full",
+      "98% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "Acadian Lot",
+    "lotNumber": "506",
+    "totalSpaces": "141",
+    "times": [
+      "96% Full",
+      "100% Full",
+      "98% Full",
+      "99% Full"
+    ]
+  },
+  {
+    "lotName": "Blake Hall Lot",
+    "lotNumber": "507",
+    "totalSpaces": "93",
+    "times": [
+      "99% Full",
+      "98% Full",
+      "98% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "Campus Lake Gravel Lot",
+    "lotNumber": "508",
+    "totalSpaces": "134",
+    "times": [
+      "92% Full",
+      "97% Full",
+      "98% Full",
+      "94% Full"
+    ]
+  },
+  {
+    "lotName": "Herget Hall Lot",
+    "lotNumber": "508",
+    "totalSpaces": "230",
+    "times": [
+      "98% Full",
+      "99% Full",
+      "98% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "Miller Hall Lot",
+    "lotNumber": "508",
+    "totalSpaces": "177",
+    "times": [
+      "99% Full",
+      "98% Full",
+      "98% Full",
+      "99% Full"
+    ]
+  },
+  {
+    "lotName": "Hill Farm Student Lot",
+    "lotNumber": "515",
+    "totalSpaces": "298",
+    "times": [
+      "0% Full",
+      "0% Full",
+      "98% Full",
+      "90% Full"
+    ]
+  },
+  {
+    "lotName": "Student Rec West Lot",
+    "lotNumber": "517",
+    "totalSpaces": "100",
+    "times": [
+      "88% Full",
+      "92% Full",
+      "90% Full",
+      "94% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum Lot",
+    "lotNumber": "600",
+    "totalSpaces": "494",
+    "times": [
+      "36% Full",
+      "99% Full",
+      "91% Full",
+      "73% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium Dr. East Lot",
+    "lotNumber": "601",
+    "totalSpaces": "125",
+    "times": [
+      "0% Full",
+      "78% Full",
+      "90% Full",
+      "0% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 1)",
+    "lotNumber": "701",
+    "totalSpaces": "134",
+    "times": [
+      "93% Full",
+      "96% Full",
+      "88% Full",
+      "78% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 2)",
+    "lotNumber": "701",
+    "totalSpaces": "146",
+    "times": [
+      "87% Full",
+      "88% Full",
+      "71% Full",
+      "55% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 3)",
+    "lotNumber": "701",
+    "totalSpaces": "170",
+    "times": [
+      "32% Full",
+      "30% Full",
+      "25% Full",
+      "24% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 4)",
+    "lotNumber": "701",
+    "totalSpaces": "171",
+    "times": [
+      "8% Full",
+      "8% Full",
+      "8% Full",
+      "6% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 5)",
+    "lotNumber": "701",
+    "totalSpaces": "178",
+    "times": [
+      "0% Full",
+      "2% Full",
+      "1% Full",
+      "0% Full"
+    ]
+  },
+  {
+    "lotName": "East Campus Apartments (East Lot)",
+    "lotNumber": "504 A",
+    "totalSpaces": "191",
+    "times": [
+      "100% Full",
+      "99% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "East Campus Apartments (West Lot)",
+    "lotNumber": "504 B",
+    "totalSpaces": "218",
+    "times": [
+      "100% Full",
+      "99% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Corporate Canal South Lot",
+    "lotNumber": "518 B",
+    "totalSpaces": "81",
+    "times": [
+      "86% Full",
+      "70% Full",
+      "84% Full",
+      "78% Full"
+    ]
+  },
+  {
+    "lotName": "Campus Lake - South Campus Lot (McVoy Hall)",
+    "lotNumber": "Street",
+    "totalSpaces": "18",
+    "times": [
+      "83% Full",
+      "83% Full",
+      "89% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "South Campus Street (Bridge) Lot",
+    "lotNumber": "Street",
+    "totalSpaces": "105",
+    "times": [
+      "93% Full",
+      "91% Full",
+      "95% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+    "lotNumber": "Street",
+    "totalSpaces": "172",
+    "times": [
+      "61% Full",
+      "73% Full",
+      "62% Full",
+      "60% Full"
+    ]
+  },
+  {
+    "lotName": "Canal Hall North Lot",
+    "lotNumber": "111",
+    "totalSpaces": "85",
+    "times": [
+      "100% Full",
+      "96% Full",
+      "88% Full",
+      "82% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway North Lot",
+    "lotNumber": "112",
+    "totalSpaces": "423",
+    "times": [
+      "97% Full",
+      "95% Full",
+      "93% Full",
+      "96% Full"
+    ]
+  },
+  {
+    "lotName": "Beach Volleyball Lot",
+    "lotNumber": "206",
+    "totalSpaces": "121",
+    "times": [
+      "100% Full",
+      "97% Full",
+      "97% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "Spruce Hall Lot",
+    "lotNumber": "210",
+    "totalSpaces": "125",
+    "times": [
+      "98% Full",
+      "95% Full",
+      "93% Full",
+      "96% Full"
+    ]
+  },
+  {
+    "lotName": "Alaska Street Lot (WCA West)",
+    "lotNumber": "211",
+    "totalSpaces": "427",
+    "times": [
+      "88% Full",
+      "89% Full",
+      "85% Full",
+      "87% Full"
+    ]
+  },
+  {
+    "lotName": "Kirby Smith Hall Lot",
+    "lotNumber": "211",
+    "totalSpaces": "189",
+    "times": [
+      "99% Full",
+      "98% Full",
+      "98% Full",
+      "99% Full"
+    ]
+  },
+  {
+    "lotName": "North Kirby Smith Hall Lot (WCA North)",
+    "lotNumber": "211",
+    "totalSpaces": "219",
+    "times": [
+      "55% Full",
+      "52% Full",
+      "52% Full",
+      "53% Full"
+    ]
+  },
+  {
+    "lotName": "Aster Street West Lot",
+    "lotNumber": "212",
+    "totalSpaces": "176",
+    "times": [
+      "2% Full",
+      "7% Full",
+      "8% Full",
+      "5% Full"
+    ]
+  },
+  {
+    "lotName": "Aster Street East Lot",
+    "lotNumber": "213",
+    "totalSpaces": "200",
+    "times": [
+      "10% Full",
+      "13% Full",
+      "14% Full",
+      "7% Full"
+    ]
+  },
+  {
+    "lotName": "Alaska Street East Lot (Cypress Dr. North)",
+    "lotNumber": "219",
+    "totalSpaces": "266",
+    "times": [
+      "67% Full",
+      "65% Full",
+      "76% Full",
+      "69% Full"
+    ]
+  },
+  {
+    "lotName": "Broussard Circle Lot",
+    "lotNumber": "220",
+    "totalSpaces": "19",
+    "times": [
+      "100% Full",
+      "100% Full",
+      "89% Full",
+      "95% Full"
+    ]
+  },
+  {
+    "lotName": "Pentagon Lot",
+    "lotNumber": "220",
+    "totalSpaces": "65",
+    "times": [
+      "100% Full",
+      "100% Full",
+      "94% Full",
+      "95% Full"
+    ]
+  },
+  {
+    "lotName": "Acadian Lot",
+    "lotNumber": "506",
+    "totalSpaces": "141",
+    "times": [
+      "99% Full",
+      "96% Full",
+      "99% Full",
+      "87% Full"
+    ]
+  },
+  {
+    "lotName": "Blake Hall Lot",
+    "lotNumber": "507",
+    "totalSpaces": "93",
+    "times": [
+      "99% Full",
+      "98% Full",
+      "97% Full",
+      "91% Full"
+    ]
+  },
+  {
+    "lotName": "Campus Lake Gravel Lot",
+    "lotNumber": "508",
+    "totalSpaces": "134",
+    "times": [
+      "96% Full",
+      "99% Full",
+      "99% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Herget Hall Lot",
+    "lotNumber": "508",
+    "totalSpaces": "230",
+    "times": [
+      "99% Full",
+      "98% Full",
+      "96% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "Miller Hall Lot",
+    "lotNumber": "508",
+    "totalSpaces": "177",
+    "times": [
+      "99% Full",
+      "98% Full",
+      "95% Full",
+      "89% Full"
+    ]
+  },
+  {
+    "lotName": "Hill Farm Student Lot",
+    "lotNumber": "515",
+    "totalSpaces": "298",
+    "times": [
+      "1% Full",
+      "2% Full",
+      "2% Full",
+      "3% Full"
+    ]
+  },
+  {
+    "lotName": "Student Rec West Lot",
+    "lotNumber": "517",
+    "totalSpaces": "100",
+    "times": [
+      "86% Full",
+      "96% Full",
+      "88% Full",
+      "94% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum Lot",
+    "lotNumber": "600",
+    "totalSpaces": "494",
+    "times": [
+      "33% Full",
+      "90% Full",
+      "89% Full",
+      "65% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium Dr. East Lot",
+    "lotNumber": "601",
+    "totalSpaces": "125",
+    "times": [
+      "0% Full",
+      "68% Full",
+      "74% Full",
+      "0% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 1)",
+    "lotNumber": "701",
+    "totalSpaces": "134",
+    "times": [
+      "97% Full",
+      "93% Full",
+      "85% Full",
+      "82% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 2)",
+    "lotNumber": "701",
+    "totalSpaces": "146",
+    "times": [
+      "82% Full",
+      "86% Full",
+      "62% Full",
+      "54% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 3)",
+    "lotNumber": "701",
+    "totalSpaces": "170",
+    "times": [
+      "26% Full",
+      "28% Full",
+      "25% Full",
+      "21% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 4)",
+    "lotNumber": "701",
+    "totalSpaces": "171",
+    "times": [
+      "7% Full",
+      "7% Full",
+      "5% Full",
+      "6% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 5)",
+    "lotNumber": "701",
+    "totalSpaces": "178",
+    "times": [
+      "1% Full",
+      "2% Full",
+      "2% Full",
+      "1% Full"
+    ]
+  },
+  {
+    "lotName": "East Campus Apartments (East Lot)",
+    "lotNumber": "504 A",
+    "totalSpaces": "191",
+    "times": [
+      "97% Full",
+      "93% Full",
+      "98% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "East Campus Apartments (West Lot)",
+    "lotNumber": "504 B",
+    "totalSpaces": "218",
+    "times": [
+      "99% Full",
+      "93% Full",
+      "96% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "Corporate Canal South Lot",
+    "lotNumber": "518 B",
+    "totalSpaces": "81",
+    "times": [
+      "81% Full",
+      "72% Full",
+      "78% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Campus Lake - South Campus Lot (McVoy Hall)",
+    "lotNumber": "Street",
+    "totalSpaces": "18",
+    "times": [
+      "89% Full",
+      "78% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "South Campus Street (Bridge) Lot",
+    "lotNumber": "Street",
+    "totalSpaces": "105",
+    "times": [
+      "94% Full",
+      "90% Full",
+      "92% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+    "lotNumber": "Street",
+    "totalSpaces": "172",
+    "times": [
+      "56% Full",
+      "65% Full",
+      "61% Full",
+      "78% Full"
+    ]
+  },
+  {
+    "lotName": "Canal Hall North Lot",
+    "lotNumber": "111",
+    "totalSpaces": "85",
+    "times": [
+      "95% Full",
+      "87% Full",
+      "81% Full",
+      "73% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway North Lot",
+    "lotNumber": "112",
+    "totalSpaces": "423",
+    "times": [
+      "93% Full",
+      "91% Full",
+      "88% Full",
+      "86% Full"
+    ]
+  },
+  {
+    "lotName": "Beach Volleyball Lot",
+    "lotNumber": "206",
+    "totalSpaces": "121",
+    "times": [
+      "93% Full",
+      "93% Full",
+      "80% Full",
+      "79% Full"
+    ]
+  },
+  {
+    "lotName": "Spruce Hall Lot",
+    "lotNumber": "210",
+    "totalSpaces": "125",
+    "times": [
+      "97% Full",
+      "95% Full",
+      "97% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Alaska street Lot (WCA West)",
+    "lotNumber": "211",
+    "totalSpaces": "427",
+    "times": [
+      "57% Full",
+      "53% Full",
+      "43% Full",
+      "36% Full"
+    ]
+  },
+  {
+    "lotName": "Kirby Smith Hall Lot",
+    "lotNumber": "211",
+    "totalSpaces": "189",
+    "times": [
+      "97% Full",
+      "95% Full",
+      "97% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "North Kirby Smith Hall Lot",
+    "lotNumber": "211",
+    "totalSpaces": "219",
+    "times": [
+      "54% Full",
+      "51% Full",
+      "51% Full",
+      "52% Full"
+    ]
+  },
+  {
+    "lotName": "Aster Street West Lot",
+    "lotNumber": "212",
+    "totalSpaces": "176",
+    "times": [
+      "4% Full",
+      "6% Full",
+      "6% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "Aster Street East Lot",
+    "lotNumber": "213",
+    "totalSpaces": "200",
+    "times": [
+      "3% Full",
+      "8% Full",
+      "9% Full",
+      "5% Full"
+    ]
+  },
+  {
+    "lotName": "Alaska Street East Lot (Cypress Dr. North)",
+    "lotNumber": "219",
+    "totalSpaces": "266",
+    "times": [
+      "57% Full",
+      "48% Full",
+      "34% Full",
+      "23% Full"
+    ]
+  },
+  {
+    "lotName": "Broussard Circle Lot",
+    "lotNumber": "220",
+    "totalSpaces": "19",
+    "times": [
+      "100% Full",
+      "94% Full",
+      "89% Full",
+      "78% Full"
+    ]
+  },
+  {
+    "lotName": "Pentagon Lot",
+    "lotNumber": "220",
+    "totalSpaces": "65",
+    "times": [
+      "98% Full",
+      "92% Full",
+      "95% Full",
+      "89% Full"
+    ]
+  },
+  {
+    "lotName": "Acadian Lot",
+    "lotNumber": "506",
+    "totalSpaces": "141",
+    "times": [
+      "95% Full",
+      "94% Full",
+      "89% Full",
+      "86% Full"
+    ]
+  },
+  {
+    "lotName": "Blake Hall Lot",
+    "lotNumber": "507",
+    "totalSpaces": "93",
+    "times": [
+      "98% Full",
+      "95% Full",
+      "82% Full",
+      "69% Full"
+    ]
+  },
+  {
+    "lotName": "Campus Lake Gravel Lot",
+    "lotNumber": "508",
+    "totalSpaces": "134",
+    "times": [
+      "91% Full",
+      "94% Full",
+      "96% Full",
+      "89% Full"
+    ]
+  },
+  {
+    "lotName": "Herget Hall Lot",
+    "lotNumber": "508",
+    "totalSpaces": "230",
+    "times": [
+      "96% Full",
+      "93% Full",
+      "72% Full",
+      "58% Full"
+    ]
+  },
+  {
+    "lotName": "Miller Hall Lot",
+    "lotNumber": "508",
+    "totalSpaces": "177",
+    "times": [
+      "96% Full",
+      "93% Full",
+      "72% Full",
+      "58% Full"
+    ]
+  },
+  {
+    "lotName": "Hill Farm Student Lot",
+    "lotNumber": "515",
+    "totalSpaces": "298",
+    "times": [
+      "87% Full",
+      "68% Full",
+      "63% Full",
+      "55% Full"
+    ]
+  },
+  {
+    "lotName": "Student Rec West Lot",
+    "lotNumber": "517",
+    "totalSpaces": "100",
+    "times": [
+      "81% Full",
+      "91% Full",
+      "89% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum Lot",
+    "lotNumber": "600",
+    "totalSpaces": "494",
+    "times": [
+      "20% Full",
+      "93% Full",
+      "73% Full",
+      "54% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium Dr. East Lot",
+    "lotNumber": "601",
+    "totalSpaces": "125",
+    "times": [
+      "10% Full",
+      "52% Full",
+      "10% Full",
+      "5% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 1)",
+    "lotNumber": "701",
+    "totalSpaces": "134",
+    "times": [
+      "96% Full",
+      "85% Full",
+      "67% Full",
+      "69% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 2)",
+    "lotNumber": "701",
+    "totalSpaces": "146",
+    "times": [
+      "69% Full",
+      "60% Full",
+      "45% Full",
+      "26% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 3)",
+    "lotNumber": "701",
+    "totalSpaces": "170",
+    "times": [
+      "24% Full",
+      "25% Full",
+      "22% Full",
+      "9% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 4)",
+    "lotNumber": "701",
+    "totalSpaces": "171",
+    "times": [
+      "5% Full",
+      "2% Full",
+      "2% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "Nicholson Gateway Garage (Level 5)",
+    "lotNumber": "701",
+    "totalSpaces": "178",
+    "times": [
+      "0% Full",
+      "1% Full",
+      "0% Full",
+      "0% Full"
+    ]
+  },
+  {
+    "lotName": "East Campus Apartments (East Lot)",
+    "lotNumber": "504 A",
+    "totalSpaces": "191",
+    "times": [
+      "96% Full",
+      "95% Full",
+      "80% Full",
+      "54% Full"
+    ]
+  },
+  {
+    "lotName": "East Campus Apartments (West Lot)",
+    "lotNumber": "504 B",
+    "totalSpaces": "218",
+    "times": [
+      "96% Full",
+      "95% Full",
+      "80% Full",
+      "54% Full"
+    ]
+  },
+  {
+    "lotName": "Corporate Canal South Lot",
+    "lotNumber": "518 B",
+    "totalSpaces": "81",
+    "times": [
+      "91% Full",
+      "74% Full",
+      "81% Full",
+      "55% Full"
+    ]
+  },
+  {
+    "lotName": "Campus Lake - South Campus Lot (McVoy Hall)",
+    "lotNumber": "Street",
+    "totalSpaces": "18",
+    "times": [
+      "39% Full",
+      "56% Full",
+      "11% Full",
+      "0% Full"
+    ]
+  },
+  {
+    "lotName": "South Campus Street (Bridge) Lot",
+    "lotNumber": "Street",
+    "totalSpaces": "105",
+    "times": [
+      "92% Full",
+      "87% Full",
+      "80% Full",
+      "75% Full"
+    ]
+  },
+  {
+    "lotName": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+    "lotNumber": "Street",
+    "totalSpaces": "172",
+    "times": [
+      "47% Full",
+      "86% Full",
+      "90% Full",
+      "75% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Circle Lot",
+    "lotNumber": "501",
+    "totalSpaces": "94",
+    "times": [
+      "79% Full",
+      "90% Full",
+      "97% Full",
+      "92% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row Central Lot",
+    "lotNumber": "521",
+    "totalSpaces": "203",
+    "times": [
+      "48% Full",
+      "38% Full",
+      "44% Full",
+      "36% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row South Lot",
+    "lotNumber": "523",
+    "totalSpaces": "84",
+    "times": [
+      "77% Full",
+      "81% Full",
+      "84% Full",
+      "74% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row North Lot",
+    "lotNumber": "524",
+    "totalSpaces": "141",
+    "times": [
+      "3% Full",
+      "29% Full",
+      "42% Full",
+      "19% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. Lot (Street)",
+    "lotNumber": "500A",
+    "totalSpaces": "25",
+    "times": [
+      "8% Full",
+      "67% Full",
+      "75% Full",
+      "67% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. Lot",
+    "lotNumber": "500A",
+    "totalSpaces": "53",
+    "times": [
+      "49% Full",
+      "72% Full",
+      "96% Full",
+      "92% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. East Lot",
+    "lotNumber": "500B",
+    "totalSpaces": "41",
+    "times": [
+      "71% Full",
+      "76% Ful",
+      "88% Full",
+      "88% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. North Lot",
+    "lotNumber": "500C",
+    "totalSpaces": "83",
+    "times": [
+      "63% Full",
+      "96% Full",
+      "98% Full",
+      "96% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row West Lot",
+    "lotNumber": "520",
+    "totalSpaces": "84",
+    "times": [
+      "96% Full",
+      "100% Full",
+      "99% Full",
+      "95% Full"
+    ]
+  },
+  {
+    "lotName": "West Lakeshore North Lot",
+    "lotNumber": "513",
+    "totalSpaces": "116",
+    "times": [
+      "97% Full",
+      "99% Full",
+      "96% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Circle Lot",
+    "lotNumber": "501",
+    "totalSpaces": "94",
+    "times": [
+      "77% Full",
+      "87% Full",
+      "93% Full",
+      "83% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row Central Lot",
+    "lotNumber": "521",
+    "totalSpaces": "203",
+    "times": [
+      "50% Full",
+      "63% Full",
+      "67% Full",
+      "43% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row South Lot",
+    "lotNumber": "523",
+    "totalSpaces": "84",
+    "times": [
+      "86% Full",
+      "87% Full",
+      "82% Full",
+      "77% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row North Lot",
+    "lotNumber": "524",
+    "totalSpaces": "141",
+    "times": [
+      "9% Full",
+      "33% Full",
+      "42% Full",
+      "25% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. Lot (Street)",
+    "lotNumber": "500A",
+    "totalSpaces": "25",
+    "times": [
+      "52% Full",
+      "68% Full",
+      "80% Full",
+      "44% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. Lot",
+    "lotNumber": "500B",
+    "totalSpaces": "53",
+    "times": [
+      "54% Full",
+      "91% Full",
+      "87% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. East Lot (Gravel)",
+    "lotNumber": "500B",
+    "totalSpaces": "41",
+    "times": [
+      "80% Full",
+      "78% Full",
+      "71% Full",
+      "66% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. North Lot",
+    "lotNumber": "500C",
+    "totalSpaces": "83",
+    "times": [
+      "63% Full",
+      "96% Full",
+      "98% Full",
+      "96% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row West Lot",
+    "lotNumber": "520",
+    "totalSpaces": "84",
+    "times": [
+      "96% Full",
+      "98% Full",
+      "99% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "West Lakeshore North Lot",
+    "lotNumber": "513",
+    "totalSpaces": "116",
+    "times": [
+      "85% Full",
+      "77% Full",
+      "74% Full",
+      "59% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Circle Lot",
+    "lotNumber": "501",
+    "totalSpaces": "94",
+    "times": [
+      "77% Full",
+      "87% Full",
+      "93% Full",
+      "83% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row Central Lot",
+    "lotNumber": "521",
+    "totalSpaces": "203",
+    "times": [
+      "44% Full",
+      "62% Full",
+      "69% Full",
+      "48% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row South Lot",
+    "lotNumber": "523",
+    "totalSpaces": "84",
+    "times": [
+      "88% Full",
+      "95% Full",
+      "96% Full",
+      "57% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row North Lot",
+    "lotNumber": "524",
+    "totalSpaces": "141",
+    "times": [
+      "0% Full",
+      "19% Full",
+      "36% Full",
+      "3% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. Lot (Street)",
+    "lotNumber": "500A",
+    "totalSpaces": "25",
+    "times": [
+      "52% Full",
+      "68% Full",
+      "80% Full",
+      "44% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. Lot",
+    "lotNumber": "500B",
+    "totalSpaces": "53",
+    "times": [
+      "54% Full",
+      "91% Full",
+      "87% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. East Lot (Gravel)",
+    "lotNumber": "500B",
+    "totalSpaces": "41",
+    "times": [
+      "80% Full",
+      "78% Full",
+      "71% Full",
+      "66% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. North Lot",
+    "lotNumber": "500C",
+    "totalSpaces": "83",
+    "times": [
+      "94% Full",
+      "96% Full",
+      "90% Full",
+      "83% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row West Lot",
+    "lotNumber": "520",
+    "totalSpaces": "84",
+    "times": [
+      "98% Full",
+      "99% Full",
+      "94% Full",
+      "57% Full"
+    ]
+  },
+  {
+    "lotName": "West Lakeshore North Lot",
+    "lotNumber": "513",
+    "totalSpaces": "116",
+    "times": [
+      "59% Full",
+      "81% Full",
+      "67% Full",
+      "64% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Circle Lot",
+    "lotNumber": "501",
+    "totalSpaces": "94",
+    "times": [
+      "81% Full",
+      "88% Full",
+      "91% Full",
+      "84% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row Central Lot",
+    "lotNumber": "521",
+    "totalSpaces": "203",
+    "times": [
+      "47% Full",
+      "61% Full",
+      "60% Full",
+      "45% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row South Lot",
+    "lotNumber": "523",
+    "totalSpaces": "84",
+    "times": [
+      "84% Full",
+      "94% Full",
+      "80% Full",
+      "41% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row North Lot",
+    "lotNumber": "524",
+    "totalSpaces": "141",
+    "times": [
+      "0% Full",
+      "15% Full",
+      "17% Full",
+      "0% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. Lot (Street)",
+    "lotNumber": "500A",
+    "totalSpaces": "25",
+    "times": [
+      "76% Full",
+      "80% Full",
+      "84% Full",
+      "56% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. Lot",
+    "lotNumber": "500B",
+    "totalSpaces": "53",
+    "times": [
+      "54% Full",
+      "75% Full",
+      "75% Full",
+      "84% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. East Lot (Gravel)",
+    "lotNumber": "500B",
+    "totalSpaces": "41",
+    "times": [
+      "53% Full",
+      "82% Full",
+      "87% Full",
+      "68% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. North Lot",
+    "lotNumber": "500C",
+    "totalSpaces": "83",
+    "times": [
+      "90% Full",
+      "95% Full",
+      "96% Full",
+      "89% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row West Lot",
+    "lotNumber": "520",
+    "totalSpaces": "84",
+    "times": [
+      "99% Full",
+      "98% Full",
+      "96% Full",
+      "76% Full"
+    ]
+  },
+  {
+    "lotName": "West Lakeshore North Lot",
+    "lotNumber": "513",
+    "totalSpaces": "116",
+    "times": [
+      "67% Full",
+      "99% Full",
+      "71% Full",
+      "66% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Circle Lot",
+    "lotNumber": "501",
+    "totalSpaces": "94",
+    "times": [
+      "69% Full",
+      "84% Full",
+      "78% Full",
+      "80% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row Central Lot",
+    "lotNumber": "521",
+    "totalSpaces": "203",
+    "times": [
+      "22% Full",
+      "27% Full",
+      "21% Full",
+      "12% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row South Lot",
+    "lotNumber": "523",
+    "totalSpaces": "84",
+    "times": [
+      "86% Full",
+      "89% Full",
+      "42% Full",
+      "2% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row North Lot",
+    "lotNumber": "524",
+    "totalSpaces": "141",
+    "times": [
+      "0% Full",
+      "0% Full",
+      "0% Full",
+      "0% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. Lot (Street)",
+    "lotNumber": "500A",
+    "totalSpaces": "25",
+    "times": [
+      "40% Full",
+      "68% Full",
+      "36% Full",
+      "44% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. Lot",
+    "lotNumber": "500B",
+    "totalSpaces": "53",
+    "times": [
+      "60% Full",
+      "74% Full",
+      "64% Full",
+      "68% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. East Lot (Gravel)",
+    "lotNumber": "500B",
+    "totalSpaces": "41",
+    "times": [
+      "66% Full",
+      "71% Full",
+      "78% Full",
+      "90% Full"
+    ]
+  },
+  {
+    "lotName": "Fraternity Ln. North Lot",
+    "lotNumber": "500C",
+    "totalSpaces": "83",
+    "times": [
+      "94% Full",
+      "96% Full",
+      "90% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Greek Row West Lot",
+    "lotNumber": "520",
+    "totalSpaces": "84",
+    "times": [
+      "67% Full",
+      "71% Full",
+      "52% Full",
+      "44% Full"
+    ]
+  },
+  {
+    "lotName": "West Lakeshore North Lot",
+    "lotNumber": "513",
+    "totalSpaces": "116",
+    "times": [
+      "76% Full",
+      "75% Full",
+      "62% Full",
+      "41% Full"
+    ]
+  },
+  {
+    "lotName": "West State St. Lot",
+    "lotNumber": "218",
+    "totalSpaces": "55",
+    "times": [
+      "62% Full",
+      "87% Full",
+      "67% Full",
+      "84% Full"
+    ]
+  },
+  {
+    "lotName": "Donahue Street Lot",
+    "lotNumber": "220",
+    "totalSpaces": "18",
+    "times": [
+      "43% Full",
+      "79% Full",
+      "86% Full",
+      "79% Full"
+    ]
+  },
+  {
+    "lotName": "Old Band Hall (Gravel) Lot",
+    "lotNumber": "222",
+    "totalSpaces": "26",
+    "times": [
+      "0% Full",
+      "4% Full",
+      "61% Full",
+      "4% Full"
+    ]
+  },
+  {
+    "lotName": "312 A (Gravel)",
+    "lotNumber": "312",
+    "totalSpaces": "30",
+    "times": [
+      "60% Full",
+      "90% Full",
+      "100% Full",
+      "57% Full"
+    ]
+  },
+  {
+    "lotName": "Public Safety Lot",
+    "lotNumber": "400",
+    "totalSpaces": "42",
+    "times": [
+      "57% Full",
+      "68% Full",
+      "75% Full",
+      "61% Full"
+    ]
+  },
+  {
+    "lotName": "Hansen's Lot",
+    "lotNumber": "420",
+    "totalSpaces": "10",
+    "times": [
+      "10% Full",
+      "20% Full",
+      "20% Full",
+      "10% Full"
+    ]
+  },
+  {
+    "lotName": "Vet Med East Lot",
+    "lotNumber": "421",
+    "totalSpaces": "170",
+    "times": [
+      "44% Full",
+      "67% Full",
+      "65% Full",
+      "83% Full"
+    ]
+  },
+  {
+    "lotName": "Vet Med West Lot",
+    "lotNumber": "422",
+    "totalSpaces": "113",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "Vet Ln. Lot",
+    "lotNumber": "423",
+    "totalSpaces": "6",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "LADDL  Lot",
+    "lotNumber": "424",
+    "totalSpaces": "57",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "Warehouse Ln. Lot",
+    "lotNumber": "425",
+    "totalSpaces": "41",
+    "times": [
+      "13% Full",
+      "30% Full",
+      "20% Full",
+      "20% Full"
+    ]
+  },
+  {
+    "lotName": "University Stores B Lot",
+    "lotNumber": "430",
+    "totalSpaces": "42",
+    "times": [
+      "20% Full",
+      "20% Full",
+      "20% Full",
+      "10% Full"
+    ]
+  },
+  {
+    "lotName": "U-High North B Lot",
+    "lotNumber": "510",
+    "totalSpaces": "88",
+    "times": [
+      "87% Full",
+      "98% Full",
+      "99% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "U-High North B Lot",
+    "lotNumber": "510",
+    "totalSpaces": "88",
+    "times": [
+      "87% Full",
+      "98% Full",
+      "99% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "U-High South B Lot",
+    "lotNumber": "511",
+    "totalSpaces": "24",
+    "times": [
+      "0% Full",
+      "21% Full",
+      "54% Full",
+      "37% Full"
+    ]
+  },
+  {
+    "lotName": "Early Learning Center B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "23",
+    "times": [
+      "54% Full",
+      "91% Full",
+      "77% Full",
+      "86% Full"
+    ]
+  },
+  {
+    "lotName": "Nelson Memorial B Lot",
+    "lotNumber": "603",
+    "totalSpaces": "29",
+    "times": [
+      "10% Full",
+      "52% Full",
+      "45% Full",
+      "52% Full"
+    ]
+  },
+  {
+    "lotName": "Tiger Band Hall B Lot",
+    "lotNumber": "214 B",
+    "totalSpaces": "6",
+    "times": [
+      "100% Full",
+      "20% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "The 5 B Lot",
+    "lotNumber": "221 A",
+    "totalSpaces": "24",
+    "times": [
+      "95% Full",
+      "92% Full",
+      "95% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Cogen Lot",
+    "lotNumber": "301 A",
+    "totalSpaces": "26",
+    "times": [
+      "54% Full",
+      "100% Full",
+      "88% Full",
+      "73% Full"
+    ]
+  },
+  {
+    "lotName": "Electrical Engineering B Lot",
+    "lotNumber": "304 A",
+    "totalSpaces": "117",
+    "times": [
+      "41% Full",
+      "95% Full",
+      "96% Full",
+      "73% Full"
+    ]
+  },
+  {
+    "lotName": "Facility Services Lot (Fieldhouse Dr.)",
+    "lotNumber": "304 C",
+    "totalSpaces": "75",
+    "times": [
+      "80% Full",
+      "97% Full",
+      "99% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Sturgis Hall B Lot (312A)",
+    "lotNumber": "312 B",
+    "totalSpaces": "70",
+    "times": [
+      "5% Full",
+      "92% Full",
+      "92% Full",
+      "77% Full"
+    ]
+  },
+  {
+    "lotName": "E.B. Doran Hall Lot",
+    "lotNumber": "312 D",
+    "totalSpaces": "44",
+    "times": [
+      "16% Full",
+      "100% Full",
+      "95% Full",
+      "74% Full"
+    ]
+  },
+  {
+    "lotName": "ECE B Lot",
+    "lotNumber": "402 B",
+    "totalSpaces": "60",
+    "times": [
+      "2% Full",
+      "6% Full",
+      "5% Full",
+      "8% Full"
+    ]
+  },
+  {
+    "lotName": "E.B Doran Hall (Gravel) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "19",
+    "times": [
+      "16% Full",
+      "100% Full",
+      "95% Full",
+      "74% Full"
+    ]
+  },
+  {
+    "lotName": "South Quad B (Gravel) Lot",
+    "lotNumber": "403 A",
+    "totalSpaces": "55",
+    "times": [
+      "1% Full",
+      "14% Full",
+      "7% Full",
+      "7% Full"
+    ]
+  },
+  {
+    "lotName": "Engineering Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "56",
+    "times": [
+      "14% Full",
+      "28% Full",
+      "39% Full",
+      "23% Full"
+    ]
+  },
+  {
+    "lotName": "Fieldhouse Dr. (Alaska St.) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "19",
+    "times": [
+      "37% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "45",
+    "times": [
+      "64% Full",
+      "96% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Forestry Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "15",
+    "times": [
+      "86% Full",
+      "86% Full",
+      "86% Full",
+      "86% Full"
+    ]
+  },
+  {
+    "lotName": "Hospital Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "16",
+    "times": [
+      "0% Full",
+      "0% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Infirmary Rd. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "38",
+    "times": [
+      "27% Full",
+      "100% Full",
+      "87% Full",
+      "87% Full"
+    ]
+  },
+  {
+    "lotName": "Tower Dr. B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "58",
+    "times": [
+      "75% Full",
+      "80% Full",
+      "80% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Parade Grounds North Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "40",
+    "times": [
+      "57% Full",
+      "95% Full",
+      "90% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Parade Grounds South Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "61",
+    "times": [
+      "53% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "North Stadium Dr. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "27",
+    "times": [
+      "22% Full",
+      "85% Full",
+      "93% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "37",
+    "times": [
+      "20% Full",
+      "92% Full",
+      "100% Full",
+      "92% Full"
+    ]
+  },
+  {
+    "lotName": "West State St. Lot",
+    "lotNumber": "218",
+    "totalSpaces": "55",
+    "times": [
+      "69% Full",
+      "85% Full",
+      "80% Full",
+      "65% Full"
+    ]
+  },
+  {
+    "lotName": "Donahue St. Lot",
+    "lotNumber": "220",
+    "totalSpaces": "18",
+    "times": [
+      "16% Full",
+      "94% Full",
+      "94% Full",
+      "77% Full"
+    ]
+  },
+  {
+    "lotName": "Old Band Hall (Gravel) Lot",
+    "lotNumber": "222",
+    "totalSpaces": "26",
+    "times": [
+      "65% Full",
+      "11% Full",
+      "19% Full",
+      "11% Full"
+    ]
+  },
+  {
+    "lotName": "312A Gravel Lot",
+    "lotNumber": "312",
+    "totalSpaces": "30",
+    "times": [
+      "63% Full",
+      "100% Full",
+      "100% Full",
+      "80% Full"
+    ]
+  },
+  {
+    "lotName": "Public Safety B Lot",
+    "lotNumber": "400",
+    "totalSpaces": "42",
+    "times": [
+      "30% Full",
+      "45% Full",
+      "57% Full",
+      "40% Full"
+    ]
+  },
+  {
+    "lotName": "Hansen's Lot",
+    "lotNumber": "420",
+    "totalSpaces": "10",
+    "times": [
+      "40% Full",
+      "40% Full",
+      "57% Full",
+      "40% Full"
+    ]
+  },
+  {
+    "lotName": "Vet Med East Lot",
+    "lotNumber": "421",
+    "totalSpaces": "170",
+    "times": [
+      "21% Full",
+      "77% Full",
+      "74% Full",
+      "67% Full"
+    ]
+  },
+  {
+    "lotName": "Vet Med West Lot",
+    "lotNumber": "422",
+    "totalSpaces": "113",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "Vet Ln. Lot",
+    "lotNumber": "423",
+    "totalSpaces": "6",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "LADDL  Lot",
+    "lotNumber": "424",
+    "totalSpaces": "57",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "Warehouse Ln. Lot",
+    "lotNumber": "425",
+    "totalSpaces": "41",
+    "times": [
+      "13% Full",
+      "30% Full",
+      "40% Full",
+      "30% Full"
+    ]
+  },
+  {
+    "lotName": "University Stores B Lot",
+    "lotNumber": "430",
+    "totalSpaces": "42",
+    "times": [
+      "20% Full",
+      "20% Full",
+      "30% Full",
+      "30% Full"
+    ]
+  },
+  {
+    "lotName": "U-High North B Lot",
+    "lotNumber": "510",
+    "totalSpaces": "88",
+    "times": [
+      "72% Full",
+      "72% Full",
+      "72% Full",
+      "72% Full"
+    ]
+  },
+  {
+    "lotName": "U-High South  B Lot",
+    "lotNumber": "511",
+    "totalSpaces": "24",
+    "times": [
+      "100% Full",
+      "54% Full",
+      "50% Full",
+      "45% Full"
+    ]
+  },
+  {
+    "lotName": "Early Learning Center B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "23",
+    "times": [
+      "54% Full",
+      "91% Full",
+      "77% Full",
+      "86% Full"
+    ]
+  },
+  {
+    "lotName": "Nelson Memorial Lot",
+    "lotNumber": "603",
+    "totalSpaces": "29",
+    "times": [
+      "31% Full",
+      "52% Full",
+      "58% Full",
+      "44% Full"
+    ]
+  },
+  {
+    "lotName": "Tiger Band Hall B Lot",
+    "lotNumber": "214 B",
+    "totalSpaces": "6",
+    "times": [
+      "16% Full",
+      "0% Full",
+      "16% Full",
+      "16% Full"
+    ]
+  },
+  {
+    "lotName": "The 5 B Lot",
+    "lotNumber": "221 A",
+    "totalSpaces": "24",
+    "times": [
+      "95% Full",
+      "92% Full",
+      "92% Full",
+      "65% Full"
+    ]
+  },
+  {
+    "lotName": "Cogen Hall Lot",
+    "lotNumber": "301 A",
+    "totalSpaces": "26",
+    "times": [
+      "30% Full",
+      "96% Full",
+      "92% Full",
+      "65% Full"
+    ]
+  },
+  {
+    "lotName": "Electrical Engineering Lot",
+    "lotNumber": "304 C",
+    "totalSpaces": "117",
+    "times": [
+      "35% Full",
+      "94% Full",
+      "93% Full",
+      "70% Full"
+    ]
+  },
+  {
+    "lotName": "Facility Services B Lot (Fieldhouse Dr.)",
+    "lotNumber": "312 B",
+    "totalSpaces": "75",
+    "times": [
+      "84% Full",
+      "92% Full",
+      "89% Full",
+      "95% Full"
+    ]
+  },
+  {
+    "lotName": "Sturgis Hall B Lot",
+    "lotNumber": "312 D",
+    "totalSpaces": "70",
+    "times": [
+      "15% Full",
+      "94% Full",
+      "98% Full",
+      "88% Full"
+    ]
+  },
+  {
+    "lotName": "E.B. Doran Hall Lot",
+    "lotNumber": "402 B",
+    "totalSpaces": "44",
+    "times": [
+      "16% Full",
+      "100% Full",
+      "95% Full",
+      "74% Full"
+    ]
+  },
+  {
+    "lotName": "ECE B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "60",
+    "times": [
+      "3% Full",
+      "10% Full",
+      "8% Full",
+      "3% Full"
+    ]
+  },
+  {
+    "lotName": "E.B.Doran Hall (Gravel) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "19",
+    "times": [
+      "16% Full",
+      "100% Full",
+      "95% Full",
+      "74% Full"
+    ]
+  },
+  {
+    "lotName": "South Quad B Lot",
+    "lotNumber": "403 A",
+    "totalSpaces": "55",
+    "times": [
+      "1% Full",
+      "14% Full",
+      "7% Full",
+      "7% Full"
+    ]
+  },
+  {
+    "lotName": "Engineering Ln. B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "56",
+    "times": [
+      "14% Full",
+      "28% Full",
+      "39% Full",
+      "23% Full"
+    ]
+  },
+  {
+    "lotName": "Fieldhouse Dr. (Alaska St.) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "19",
+    "times": [
+      "31% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "45",
+    "times": [
+      "97% Full",
+      "100% Full",
+      "95% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "Forestry Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "15",
+    "times": [
+      "53% Full",
+      "66% Full",
+      "73% Full",
+      "66% Full"
+    ]
+  },
+  {
+    "lotName": "Hospital Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "16",
+    "times": [
+      "10% Full",
+      "10% Full",
+      "80% Full",
+      "83% Full"
+    ]
+  },
+  {
+    "lotName": "Infirmary Rd. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "38",
+    "times": [
+      "5% Full",
+      "81% Full",
+      "89% Full",
+      "81% Full"
+    ]
+  },
+  {
+    "lotName": "Tower Dr. B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "58",
+    "times": [
+      "68% Full",
+      "74% Full",
+      "75% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Parade Grounds North Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "40",
+    "times": [
+      "50% Full",
+      "97% Full",
+      "97% Full",
+      "92% Full"
+    ]
+  },
+  {
+    "lotName": "Parade Grounds South Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "61",
+    "times": [
+      "21% Full",
+      "100% Full",
+      "98% Full",
+      "95% Full"
+    ]
+  },
+  {
+    "lotName": "North Stadium Dr. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "27",
+    "times": [
+      "44% Full",
+      "66% Full",
+      "81% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "37",
+    "times": [
+      "5% Full",
+      "100% Full",
+      "100% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "West State St. Lot",
+    "lotNumber": "218",
+    "totalSpaces": "55",
+    "times": [
+      "78% Full",
+      "85% Full",
+      "76% Full",
+      "73% Full"
+    ]
+  },
+  {
+    "lotName": "Donahue Street Lot",
+    "lotNumber": "220",
+    "totalSpaces": "18",
+    "times": [
+      "11% Full",
+      "100% Full",
+      "33% Full",
+      "78% Full"
+    ]
+  },
+  {
+    "lotName": "Old Band Hall (Gravel) Lot",
+    "lotNumber": "222",
+    "totalSpaces": "26",
+    "times": [
+      "73% Full",
+      "15% Full",
+      "8% Full",
+      "15% Full"
+    ]
+  },
+  {
+    "lotName": "312 A (Gravel)",
+    "lotNumber": "312",
+    "totalSpaces": "30",
+    "times": [
+      "13% Full",
+      "27% Full",
+      "100% Full",
+      "73% Full"
+    ]
+  },
+  {
+    "lotName": "Public Safety Lot",
+    "lotNumber": "400",
+    "totalSpaces": "42",
+    "times": [
+      "19% Full",
+      "19% Full",
+      "21% Full",
+      "21% Full"
+    ]
+  },
+  {
+    "lotName": "Hansen's Lot",
+    "lotNumber": "420",
+    "totalSpaces": "10",
+    "times": [
+      "20% Full",
+      "20% Full",
+      "20% Full",
+      "10% Full"
+    ]
+  },
+  {
+    "lotName": "Vet Med East Lot",
+    "lotNumber": "421",
+    "totalSpaces": "170",
+    "times": [
+      "21% Full",
+      "25% Full",
+      "75% Full",
+      "61% Full"
+    ]
+  },
+  {
+    "lotName": "Vet Med West Lot",
+    "lotNumber": "422",
+    "totalSpaces": "113",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "Vet Ln. Lot",
+    "lotNumber": "423",
+    "totalSpaces": "6",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "LADDL Lot",
+    "lotNumber": "424",
+    "totalSpaces": "57",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "Warehouse Ln. Lot",
+    "lotNumber": "425",
+    "totalSpaces": "41",
+    "times": [
+      "13% Full",
+      "30% Full",
+      "50% Full",
+      "60% Full"
+    ]
+  },
+  {
+    "lotName": "University Stores B Lot",
+    "lotNumber": "430",
+    "totalSpaces": "42",
+    "times": [
+      "20% Full",
+      "30% Full",
+      "30% Full",
+      "25% Full"
+    ]
+  },
+  {
+    "lotName": "U-High North B Lot",
+    "lotNumber": "510",
+    "totalSpaces": "88",
+    "times": [
+      "93% Full",
+      "99% Full",
+      "99% Full",
+      "98% Full"
+    ]
+  },
+  {
+    "lotName": "U-High South B Lot",
+    "lotNumber": "511",
+    "totalSpaces": "24",
+    "times": [
+      "79% Full",
+      "71% Full",
+      "75% Full",
+      "46% Full"
+    ]
+  },
+  {
+    "lotName": "Early Learning Center B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "23",
+    "times": [
+      "54% Full",
+      "91% Full",
+      "77% Full",
+      "86% Full"
+    ]
+  },
+  {
+    "lotName": "Nelson Memorial B Lot",
+    "lotNumber": "603",
+    "totalSpaces": "29",
+    "times": [
+      "31% Full",
+      "52% Full",
+      "58% Full",
+      "44% Full"
+    ]
+  },
+  {
+    "lotName": "Tiger Band Hall B Lot",
+    "lotNumber": "214 B",
+    "totalSpaces": "6",
+    "times": [
+      "17% Full",
+      "0% Full",
+      "100% Full",
+      "83% Full"
+    ]
+  },
+  {
+    "lotName": "The 5 B Lot",
+    "lotNumber": "221 A",
+    "totalSpaces": "24",
+    "times": [
+      "95% Full",
+      "92% Full",
+      "95% Full",
+      "82% Full"
+    ]
+  },
+  {
+    "lotName": "Cogen Lot",
+    "lotNumber": "301 A",
+    "totalSpaces": "26",
+    "times": [
+      "65% Full",
+      "88% Full",
+      "96% Full",
+      "62% Full"
+    ]
+  },
+  {
+    "lotName": "Electrical Engineering B Lot",
+    "lotNumber": "304 A",
+    "totalSpaces": "117",
+    "times": [
+      "40% Full",
+      "94% Full",
+      "97% Full",
+      "76% Full"
+    ]
+  },
+  {
+    "lotName": "Facility Services Lot (Fieldhouse Dr.)",
+    "lotNumber": "304 C",
+    "totalSpaces": "75",
+    "times": [
+      "67% Full",
+      "85% Full",
+      "89% Full",
+      "84% Full"
+    ]
+  },
+  {
+    "lotName": "Sturgis Hall B Lot (312A)",
+    "lotNumber": "312 B",
+    "totalSpaces": "70",
+    "times": [
+      "14% Full",
+      "94% Full",
+      "97% Full",
+      "87% Full"
+    ]
+  },
+  {
+    "lotName": "E.B. Doran Hall Lot",
+    "lotNumber": "312 D",
+    "totalSpaces": "44",
+    "times": [
+      "32% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "ECE B Lot",
+    "lotNumber": "402 B",
+    "totalSpaces": "60",
+    "times": [
+      "32% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "E.B Doran Hall (Gravel) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "19",
+    "times": [
+      "20% Full",
+      "80% Full",
+      "90% Full",
+      "75% Full"
+    ]
+  },
+  {
+    "lotName": "South Quad B (Gravel) Lot",
+    "lotNumber": "403 A",
+    "totalSpaces": "55",
+    "times": [
+      "2% Full",
+      "4% Full",
+      "5% Full",
+      "7% Full"
+    ]
+  },
+  {
+    "lotName": "Engineering Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "56",
+    "times": [
+      "14% Full",
+      "28% Full",
+      "39% Full",
+      "23% Full"
+    ]
+  },
+  {
+    "lotName": "Fieldhouse Dr. (Alaska St.) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "19",
+    "times": [
+      "21% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "45",
+    "times": [
+      "98% Full",
+      "100% Full",
+      "98% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Forestry Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "15",
+    "times": [
+      "87% Full",
+      "93% Full",
+      "93% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Hospital Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "16",
+    "times": [
+      "0% Full",
+      "17% Full",
+      "83% Full",
+      "83% Full"
+    ]
+  },
+  {
+    "lotName": "Infirmary Rd. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "38",
+    "times": [
+      "3% Full",
+      "92% Full",
+      "97% Full",
+      "95% Full"
+    ]
+  },
+  {
+    "lotName": "Tower Dr. B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "58",
+    "times": [
+      "78% Full",
+      "80% Full",
+      "95% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Parade Grounds North Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "40",
+    "times": [
+      "50% Full",
+      "100% Full",
+      "98% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Parade Grounds South Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "61",
+    "times": [
+      "31% Full",
+      "100% Full",
+      "100% Full",
+      "90% Full"
+    ]
+  },
+  {
+    "lotName": "North Stadium Dr. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "27",
+    "times": [
+      "67% Full",
+      "74% Full",
+      "56% Full",
+      "41% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "37",
+    "times": [
+      "76% Full",
+      "100% Full",
+      "100% Full",
+      "87% Full"
+    ]
+  },
+  {
+    "lotName": "West State St. Lot",
+    "lotNumber": "218",
+    "totalSpaces": "55",
+    "times": [
+      "71% Full",
+      "80% Full",
+      "78% Full",
+      "69% Full"
+    ]
+  },
+  {
+    "lotName": "Donahue Street Lot",
+    "lotNumber": "220",
+    "totalSpaces": "18",
+    "times": [
+      "39% Full",
+      "94% Full",
+      "78% Full",
+      "56% Full"
+    ]
+  },
+  {
+    "lotName": "Old Band Hall (Gravel) Lot",
+    "lotNumber": "222",
+    "totalSpaces": "26",
+    "times": [
+      "23% Full",
+      "100% Full",
+      "88% Full",
+      "50% Full"
+    ]
+  },
+  {
+    "lotName": "312 A (Gravel)",
+    "lotNumber": "312",
+    "totalSpaces": "30",
+    "times": [
+      "53% Full",
+      "73% Full",
+      "100% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "Public Safety Lot",
+    "lotNumber": "400",
+    "totalSpaces": "42",
+    "times": [
+      "19% Full",
+      "19% Full",
+      "21% Full",
+      "21% Full"
+    ]
+  },
+  {
+    "lotName": "Hansen's Lot",
+    "lotNumber": "420",
+    "totalSpaces": "10",
+    "times": [
+      "30% Full",
+      "50% Full",
+      "40% Full",
+      "20% Full"
+    ]
+  },
+  {
+    "lotName": "Vet Med East Lot",
+    "lotNumber": "421",
+    "totalSpaces": "170",
+    "times": [
+      "24% Full",
+      "77% Full",
+      "75% Full",
+      "68% Full"
+    ]
+  },
+  {
+    "lotName": "Vet Med West Lot",
+    "lotNumber": "422",
+    "totalSpaces": "113",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "Vet Ln. Lot",
+    "lotNumber": "423",
+    "totalSpaces": "6",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "LADDL Lot",
+    "lotNumber": "424",
+    "totalSpaces": "57",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "Warehouse Ln. Lot",
+    "lotNumber": "425",
+    "totalSpaces": "41",
+    "times": [
+      "13% Full",
+      "30% Full",
+      "52% Full",
+      "20% Full"
+    ]
+  },
+  {
+    "lotName": "University Stores B Lot",
+    "lotNumber": "430",
+    "totalSpaces": "42",
+    "times": [
+      "20% Full",
+      "30% Full",
+      "52% Full",
+      "20% Full"
+    ]
+  },
+  {
+    "lotName": "U-High North B Lot",
+    "lotNumber": "510",
+    "totalSpaces": "88",
+    "times": [
+      "92% Full",
+      "97% Full",
+      "97% Full",
+      "95% Full"
+    ]
+  },
+  {
+    "lotName": "U-High South B Lot",
+    "lotNumber": "511",
+    "totalSpaces": "24",
+    "times": [
+      "20% Full",
+      "50% Full",
+      "58% Full",
+      "79% Full"
+    ]
+  },
+  {
+    "lotName": "Early Learning Center B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "23",
+    "times": [
+      "54% Full",
+      "91% Full",
+      "77% Full",
+      "86% Full"
+    ]
+  },
+  {
+    "lotName": "Nelson Memorial B Lot",
+    "lotNumber": "603",
+    "totalSpaces": "29",
+    "times": [
+      "10% Full",
+      "52% Full",
+      "45% Full",
+      "52% Full"
+    ]
+  },
+  {
+    "lotName": "Tiger Band Hall B Lot",
+    "lotNumber": "214 B",
+    "totalSpaces": "6",
+    "times": [
+      "100% Full",
+      "20% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "The 5 B Lot",
+    "lotNumber": "221 A",
+    "totalSpaces": "24",
+    "times": [
+      "82% Full",
+      "92% Full",
+      "97% Full",
+      "90% Full"
+    ]
+  },
+  {
+    "lotName": "Cogen Lot",
+    "lotNumber": "301 A",
+    "totalSpaces": "26",
+    "times": [
+      "46% Full",
+      "76% Full",
+      "76% Full",
+      "61% Full"
+    ]
+  },
+  {
+    "lotName": "Electrical Engineering B Lot",
+    "lotNumber": "304 A",
+    "totalSpaces": "117",
+    "times": [
+      "35% Full",
+      "88% Full",
+      "88% Full",
+      "76% Full"
+    ]
+  },
+  {
+    "lotName": "Facility Services Lot (Fieldhouse Dr.)",
+    "lotNumber": "304 C",
+    "totalSpaces": "75",
+    "times": [
+      "70% Full",
+      "76% Full",
+      "65% Full",
+      "74% Full"
+    ]
+  },
+  {
+    "lotName": "Sturgis Hall B Lot (312A)",
+    "lotNumber": "312 B",
+    "totalSpaces": "70",
+    "times": [
+      "15% Full",
+      "100% Full",
+      "25% Full",
+      "25% Full"
+    ]
+  },
+  {
+    "lotName": "E.B. Doran Hall Lot",
+    "lotNumber": "312 D",
+    "totalSpaces": "44",
+    "times": [
+      "25% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "ECE B Lot",
+    "lotNumber": "402 B",
+    "totalSpaces": "60",
+    "times": [
+      "1% Full",
+      "6% Full",
+      "3% Full",
+      "1% Full"
+    ]
+  },
+  {
+    "lotName": "E.B Doran Hall (Gravel) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "19",
+    "times": [
+      "10% Full",
+      "25% Full",
+      "20% Full",
+      "20% Full"
+    ]
+  },
+  {
+    "lotName": "South Quad B (Gravel) Lot",
+    "lotNumber": "403 A",
+    "totalSpaces": "55",
+    "times": [
+      "10% Full",
+      "25% Full",
+      "20% Full",
+      "20% Full"
+    ]
+  },
+  {
+    "lotName": "Engineering Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "56",
+    "times": [
+      "14% Full",
+      "28% Full",
+      "39% Full",
+      "23% Full"
+    ]
+  },
+  {
+    "lotName": "Fieldhouse Dr. (Alaska St.) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "19",
+    "times": [
+      "84% Full",
+      "94% Full",
+      "89% Full",
+      "89% Full"
+    ]
+  },
+  {
+    "lotName": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "45",
+    "times": [
+      "95% Full",
+      "97% Full",
+      "93% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Forestry Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "15",
+    "times": [
+      "46% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Hospital Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "16",
+    "times": [
+      "66% Full",
+      "100% Full",
+      "50% Full",
+      "50% Full"
+    ]
+  },
+  {
+    "lotName": "Infirmary Rd. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "38",
+    "times": [
+      "47% Full",
+      "60% Full",
+      "76% Full",
+      "68% Full"
+    ]
+  },
+  {
+    "lotName": "Tower Dr. B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "58",
+    "times": [
+      "70% Full",
+      "75% Full",
+      "85% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Parade Grounds North Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "40",
+    "times": [
+      "57% Full",
+      "85% Full",
+      "93% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Parade Grounds South Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "61",
+    "times": [
+      "53% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "North Stadium Dr. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "27",
+    "times": [
+      "22% Full",
+      "85% Full",
+      "93% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "37",
+    "times": [
+      "20% Full",
+      "92% Full",
+      "100% Full",
+      "92% Full"
+    ]
+  },
+  {
+    "lotName": "West State St. Lot",
+    "lotNumber": "218",
+    "totalSpaces": "55",
+    "times": [
+      "75% Full",
+      "78% Full",
+      "85% Full",
+      "71% Full"
+    ]
+  },
+  {
+    "lotName": "Donahue Street Lot",
+    "lotNumber": "220",
+    "totalSpaces": "18",
+    "times": [
+      "39% Full",
+      "94% Full",
+      "67% Full",
+      "39% Full"
+    ]
+  },
+  {
+    "lotName": "Old Band Hall (Gravel) Lot",
+    "lotNumber": "222",
+    "totalSpaces": "26",
+    "times": [
+      "35% Full",
+      "100% Full",
+      "100% Full",
+      "73% Full"
+    ]
+  },
+  {
+    "lotName": "312 A (Gravel)",
+    "lotNumber": "312",
+    "totalSpaces": "30",
+    "times": [
+      "90% Full",
+      "83% Full",
+      "77% Full",
+      "70% Full"
+    ]
+  },
+  {
+    "lotName": "Public Safety Lot",
+    "lotNumber": "400",
+    "totalSpaces": "42",
+    "times": [
+      "19% Full",
+      "19% Full",
+      "21% Full",
+      "21% Full"
+    ]
+  },
+  {
+    "lotName": "Hansen's Lot",
+    "lotNumber": "420",
+    "totalSpaces": "10",
+    "times": [
+      "20% Full",
+      "20% Full",
+      "10% Full",
+      "10% Full"
+    ]
+  },
+  {
+    "lotName": "Vet Med East Lot",
+    "lotNumber": "421",
+    "totalSpaces": "170",
+    "times": [
+      "19% Full",
+      "70% Full",
+      "70% Full",
+      "62% Full"
+    ]
+  },
+  {
+    "lotName": "Vet Med West Lot",
+    "lotNumber": "422",
+    "totalSpaces": "113",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "Vet Ln. Lot",
+    "lotNumber": "423",
+    "totalSpaces": "6",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "LADDL Lot",
+    "lotNumber": "424",
+    "totalSpaces": "57",
+    "times": [
+      "No Data",
+      "No Data",
+      "No Data",
+      "No Data"
+    ]
+  },
+  {
+    "lotName": "Warehouse Ln. Lot",
+    "lotNumber": "425",
+    "totalSpaces": "41",
+    "times": [
+      "13% Full",
+      "30% Full",
+      "45% Full",
+      "30% Full"
+    ]
+  },
+  {
+    "lotName": "University Stores B Lot",
+    "lotNumber": "430",
+    "totalSpaces": "42",
+    "times": [
+      "20% Full",
+      "30% Full",
+      "45% Full",
+      "30% Full"
+    ]
+  },
+  {
+    "lotName": "U-High North B Lot",
+    "lotNumber": "510",
+    "totalSpaces": "88",
+    "times": [
+      "92% Full",
+      "94% Full",
+      "93% Full",
+      "94% Full"
+    ]
+  },
+  {
+    "lotName": "U-High South B Lot",
+    "lotNumber": "511",
+    "totalSpaces": "24",
+    "times": [
+      "25% Full",
+      "46% Full",
+      "67% Full",
+      "50% Full"
+    ]
+  },
+  {
+    "lotName": "Early Learning Center B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "23",
+    "times": [
+      "54% Full",
+      "91% Full",
+      "77% Full",
+      "86% Full"
+    ]
+  },
+  {
+    "lotName": "Nelson Memorial B Lot",
+    "lotNumber": "603",
+    "totalSpaces": "29",
+    "times": [
+      "31% Full",
+      "52% Full",
+      "58% Full",
+      "44% Full"
+    ]
+  },
+  {
+    "lotName": "Tiger Band Hall B Lot",
+    "lotNumber": "214 B",
+    "totalSpaces": "6",
+    "times": [
+      "17% Full",
+      "0% Full",
+      "100% Full",
+      "83% Full"
+    ]
+  },
+  {
+    "lotName": "The 5 B Lot",
+    "lotNumber": "221 A",
+    "totalSpaces": "24",
+    "times": [
+      "82% Full",
+      "92% Full",
+      "97% Full",
+      "90% Full"
+    ]
+  },
+  {
+    "lotName": "Cogen Lot",
+    "lotNumber": "301 A",
+    "totalSpaces": "26",
+    "times": [
+      "80% Full",
+      "62% Full",
+      "69% Full",
+      "65% Full"
+    ]
+  },
+  {
+    "lotName": "Electrical Engineering B Lot",
+    "lotNumber": "304 A",
+    "totalSpaces": "117",
+    "times": [
+      "20% Full",
+      "88% Full",
+      "84% Full",
+      "63% Full"
+    ]
+  },
+  {
+    "lotName": "Facility Services Lot (Fieldhouse Dr.)",
+    "lotNumber": "304 C",
+    "totalSpaces": "75",
+    "times": [
+      "100% Full",
+      "91% Full",
+      "99% Full",
+      "92% Full"
+    ]
+  },
+  {
+    "lotName": "Sturgis Hall B Lot (312A)",
+    "lotNumber": "312 B",
+    "totalSpaces": "70",
+    "times": [
+      "99% Full",
+      "97% Full",
+      "99% Full",
+      "97% Full"
+    ]
+  },
+  {
+    "lotName": "E.B. Doran Hall Lot",
+    "lotNumber": "312 D",
+    "totalSpaces": "44",
+    "times": [
+      "32% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "ECE B Lot",
+    "lotNumber": "402 B",
+    "totalSpaces": "60",
+    "times": [
+      "3% Full",
+      "8% Full",
+      "7% Full",
+      "5% Full"
+    ]
+  },
+  {
+    "lotName": "E.B Doran Hall (Gravel) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "19",
+    "times": [
+      "20% Full",
+      "80% Full",
+      "90% Full",
+      "75% Full"
+    ]
+  },
+  {
+    "lotName": "South Quad B (Gravel) Lot",
+    "lotNumber": "403 A",
+    "totalSpaces": "55",
+    "times": [
+      "16% Full",
+      "78% Full",
+      "95% Full",
+      "33% Full"
+    ]
+  },
+  {
+    "lotName": "Engineering Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "56",
+    "times": [
+      "14% Full",
+      "28% Full",
+      "39% Full",
+      "23% Full"
+    ]
+  },
+  {
+    "lotName": "Fieldhouse Dr. (Alaska St.) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "19",
+    "times": [
+      "84% Full",
+      "94% Full",
+      "89% Full",
+      "89% Full"
+    ]
+  },
+  {
+    "lotName": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "45",
+    "times": [
+      "95% Full",
+      "97% Full",
+      "93% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Forestry Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "15",
+    "times": [
+      "46% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "Hospital Ln. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "16",
+    "times": [
+      "66% Full",
+      "100% Full",
+      "50% Full",
+      "50% Full"
+    ]
+  },
+  {
+    "lotName": "Infirmary Rd. Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "38",
+    "times": [
+      "47% Full",
+      "60% Full",
+      "76% Full",
+      "68% Full"
+    ]
+  },
+  {
+    "lotName": "Tower Dr. B Lot",
+    "lotNumber": "On Street",
+    "totalSpaces": "58",
+    "times": [
+      "70% Full",
+      "75% Full",
+      "85% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Parade Grounds North Lot",
+    "lotNumber": "On street",
+    "totalSpaces": "40",
+    "times": [
+      "57% Full",
+      "80% Full",
+      "90% Full",
+      "85% Full"
+    ]
+  },
+  {
+    "lotName": "Parade Grounds South Lot",
+    "lotNumber": "On street",
+    "totalSpaces": "61",
+    "times": [
+      "53% Full",
+      "100% Full",
+      "100% Full",
+      "100% Full"
+    ]
+  },
+  {
+    "lotName": "North Stadium Dr. Lot",
+    "lotNumber": "On street",
+    "totalSpaces": "27",
+    "times": [
+      "22% Full",
+      "85% Full",
+      "93% Full",
+      "93% Full"
+    ]
+  },
+  {
+    "lotName": "Parker Coliseum B Lot",
+    "lotNumber": "On street",
+    "totalSpaces": "37",
+    "times": [
+      "20% Full",
+      "92% Full",
+      "100% Full",
+      "92% Full"
+    ]
+  }
+]
