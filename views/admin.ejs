@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/style.css"> <!-- Link to your CSS file -->
+    <title>Admin Page</title>
+</head>
+<body>
+
+    <header>
+        <h1>Admin Page</h1>
+    </header>
+
+    <main>
+        <h2>Add Parking Entry</h2>
+        <form action="/add-entry" method="post">
+            <!-- Your form fields for adding entries -->
+            <label for="lotName">Lot Name:</label>
+            <input type="text" id="lotName" name="lotName" required>
+
+            <label for="lotNumber">Lot Number:</label>
+            <input type="text" id="lotNumber" name="lotNumber" required>
+
+            <label for="totalSpaces">Total Spaces:</label>
+            <input type="number" id="totalSpaces" name="totalSpaces" required>
+
+            <label for="availability">Availability:</label>
+            <input type="text" id="availability" name="availability" required>
+
+            <button type="submit">Add Entry</button>
+        </form>
+
+        <hr>
+
+        <h2>Delete Parking Entry</h2>
+        <form action="/delete-entry" method="post">
+            <!-- Your form fields for deleting entries -->
+            <label for="lotNumberDelete">Lot Number to Delete:</label>
+            <input type="text" id="lotNumberDelete" name="lotNumberDelete" required>
+
+            <button type="submit">Delete Entry</button>
+        </form>
+    </main>
+
+    <footer>
+        <!-- Your footer content -->
+    </footer>
+
+</body>
+</html>
