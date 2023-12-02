@@ -2,8 +2,21 @@
 
 const express = require('express');
 const app = express();
+const mongoose = require('mongoose');
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+
+const mongoString = process.env.DATABASE_URL;
+mongoose.connect(mongoString);
+const database = mongoose.connection;
+
+database.on('error', (error) => {
+    console.log(error)
+})
+
+database.once('connected', () => {
+    console.log('Database Connected');
+})
 
 // Use EJS as the view engine
 app.set('view engine', 'ejs');
