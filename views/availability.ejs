@@ -30,14 +30,18 @@
   <div class="container mt-4">
     <h2>Parking Availability</h2>
     <!-- Display parking availability data here -->
-    <% parkingData.forEach((lot) => { %>
-      <div>
-        <p><strong>Lot Name:</strong> <%= lot.lotName %></p>
-        <p><strong>Lot Number:</strong> <%= lot.lotNumber %></p>
-        <p><strong>Total Spaces:</strong> <%= lot.totalSpaces %></p>
-        <p><strong>Times:</strong> <%= lot.times.join(', ') %></p>
-      </div>
-    <% }); %>
+    <% if (parkingData && parkingData.length > 0) { %>
+      <% parkingData.forEach((lot) => { %>
+        <div>
+          <p><strong>Lot Name:</strong> <%= lot.lotName %></p>
+          <p><strong>Lot Number:</strong> <%= lot.lotNumber %></p>
+          <p><strong>Total Spaces:</strong> <%= lot.totalSpaces %></p>
+          <p><strong>Times:</strong> <%= lot.times.join(', ') %></p>
+        </div>
+      <% }); %>
+    <% } else { %>
+      <p>No parking data available.</p>
+    <% } %>
   </div>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

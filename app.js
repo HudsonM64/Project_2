@@ -29,14 +29,21 @@ app.use(express.static(__dirname + '/public'));
 
 // Your existing code for getting parking data
 async function getParkingData() {
+
 }
 
 // Render the "Availability" page
 app.get('/availability', async (req, res) => {
+
   try {
-    const parkingData = await getParkingData();
+    // Read the JSON file synchronously (you might want to use asynchronous methods in production)
+    const rawdata = fs.readFileSync('./parkingData.json', 'utf-8');
+    const parkingData = JSON.parse(rawdata);
+    // Render the template with the fetched data
+    console.log('Fetched parking data:', parkingData);
     res.render('availability', { parkingData });
   } catch (error) {
+    console.error('Error reading JSON file:', error.message);
     res.status(500).send('Internal Server Error');
   }
 });
