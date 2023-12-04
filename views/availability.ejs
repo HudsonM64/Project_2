@@ -27,9 +27,9 @@
   </nav>
 
   <!-- Availability page content -->
-  <div class="container mt-4">
-    <h2>Parking Availability</h2>
-    <!-- Display parking availability data here -->
+  <div class="container mt-4" id="availability-container">
+    <!-- Content will be dynamically updated here -->
+    <% const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']; %>
     <% if (parkingData && parkingData.length > 0) { %>
       <% parkingData.forEach((lot) => { %>
         <div>

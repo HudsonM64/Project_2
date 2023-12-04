@@ -3,8 +3,9 @@ require('dotenv').config();
 const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
-const puppeteer = require('puppeteer');
-const fs = require('fs');
+const bodyParser = require('body-parser');
+const fs = require('fs').promises;
+
 
 const mongoString = process.env.DATABASE_URL;
 
@@ -31,23 +32,26 @@ app.use(express.static(__dirname + '/public'));
 async function getParkingData() {
 
 }
+// Add body-parser middleware
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
 
 // Render the "Availability" page
 app.get('/availability', async (req, res) => {
-
   try {
-    // Read the JSON file synchronously (you might want to use asynchronous methods in production)
-    const rawdata = fs.readFileSync('./parkingData.json', 'utf-8');
-    const parkingData = JSON.parse(rawdata);
-    // Render the template with the fetched data
-    console.log('Fetched parking data:', parkingData);
-    res.render('availability', { parkingData });
+      // Read the JSON file asynchronously
+      const rawdata = await fs.readFile('./parkingData.json', 'utf-8');
+      const parkingData = JSON.parse(rawdata);
+
+      console.log('Fetched parking data:', parkingData);
+
+      // Render the template with the fetched data
+      res.render('availability', { parkingData });
   } catch (error) {
-    console.error('Error reading JSON file:', error.message);
-    res.status(500).send('Internal Server Error');
+      console.error('Error reading JSON file:', error.message);
+      res.status(500).send('Internal Server Error');
   }
 });
-
 // Render the "Admin" page
 app.get('/admin', (req, res) => {
   res.render('admin');
@@ -64,7 +68,7 @@ app.get('/', (req, res) => {
        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
    </head>
    <body>
-       <nav class="navbar navbar-expand-lg navbar-light bg-light">
+       <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background color: #ADD8E6;">
            <a class="navbar-brand" href="/">Parking App</a>
            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                <span class="navbar-toggler-icon"></span>
@@ -90,56 +94,70 @@ res.send(homepageHtml);
 });
 // Handle form submission for adding parking entries
 app.post('/add-entry', async (req, res) => {
-  // Replace this with your logic to add the entry to the parking database
-  const { lotName, lotNumber, totalSpaces, availability } = req.body;
-  // Save the data to MongoDB
-  const ParkingLot = mongoose.model('ParkingLot', {
-    lotName,
-    lotNumber,
-    totalSpaces,
-    availability,
-  });
+ // Replace this with your logic to add the entry to the parking database
+ const { lotName, lotNumber, totalSpaces, availability, times } = req.body;
 
-  try {
-    const parkingLot = new ParkingLot({
-      lotName,
-      lotNumber,
-      totalSpaces,
-      availability,
-    });
-    await parkingLot.save();
-    console.log('Parking entry added to MongoDB');
-  } catch (error) {
-    console.error('Error saving parking entry to MongoDB:', error.message);
-  }
-  res.redirect('/admin'); // Redirect back to the Admin page
+ const ParkingLot = mongoose.model('ParkingLot', {
+   lotName: String,
+   lotNumber: String,
+   totalSpaces: Number,
+   availability: String,
+   times: [String],
+ });
+
+ try {
+   const parkingLot = new ParkingLot({
+     lotName,
+     lotNumber,
+     totalSpaces,
+     availability,
+   });
+
+   await parkingLot.save();
+   console.log('Parking entry added to MongoDB');
+
+   // Send a success alert to the browser
+   res.send('<script>alert("Parking lot successfully added!"); window.location.href = "/admin";</script>');
+ } catch (error) {
+   console.error('Error saving parking entry to MongoDB:', error.message);
+
+   // Send an error alert to the browser
+   res.send('<script>alert("Error adding parking lot. Please try again."); window.location.href = "/admin";</script>');
+ }
 });
-
 app.post('/delete-entry', async (req, res) => {
-    try {
+  try {
       const { lotNumberDelete } = req.body;
-  
+
       if (!lotNumberDelete) {
-        throw new Error('Lot Number to Delete is missing in the request');
+          throw new Error('Lot Number to Delete is missing in the request');
       }
-  
-      // Delete the data from MongoDB
-      const ParkingLot = mongoose.model('ParkingLot', {
-        lotName: String,
-        lotNumber: String,
-        totalSpaces: String,
-        availability: String,
-      });
-  
-      await ParkingLot.deleteOne({ lotNumber: lotNumberDelete });
-      console.log('Parking entry deleted from MongoDB');
-      res.redirect('/admin'); // Redirect back to the Admin page
+
+      // Read the existing parking data from the JSON file
+      const rawdata = await fs.readFile('./parkingData.json', 'utf-8');
+      const parkingData = JSON.parse(rawdata);
+
+      // Find the index of the lot to be deleted
+      const lotIndex = parkingData.findIndex((lot) => lot.lotNumber === lotNumberDelete);
+
+      if (lotIndex === -1) {
+          throw new Error('Lot not found with the given lot number');
+      }
+
+      // Remove the lot from the array
+      const deletedLot = parkingData.splice(lotIndex, 1)[0];
+
+      // Save the updated data back to the JSON file
+      await fs.writeFile('./parkingData.json', JSON.stringify(parkingData, null, 2), 'utf-8');
+
+      console.log('Parking entry deleted from JSON file:', deletedLot);
+
+        // Send an alert to the browser
+        res.send('<script>alert("Parking lot successfully deleted!"); window.location.href = "/admin";</script>');
     } catch (error) {
-      console.error('Error deleting parking entry from MongoDB:', error.message);
-      res.status(400).send('Bad Request');
+        console.error('Error deleting parking entry from JSON file:', error.message);
+        res.status(400).send('Bad Request');
     }
-  
-    res.redirect('/admin'); // Redirect back to the Admin page
   });
 // Start the server
 const port = process.env.PORT || 3000;

@@ -11,7 +11,7 @@
 <body>
 
     <header>
-        <h1>Admin Page</h1>
+        <title>Admin Page</title>
     </header>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="/">Parking App</a>
@@ -37,7 +37,7 @@
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.1/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <main>
-        <h2>Add Parking Entry</h2>
+        <h1>Add Parking Entry</h1>
         <form action="/add-entry" method="post">
             <!-- Your form fields for adding entries -->
             <label for="lotName">Lot Name:</label>
@@ -48,16 +48,12 @@
 
             <label for="totalSpaces">Total Spaces:</label>
             <input type="number" id="totalSpaces" name="totalSpaces" required>
-
-            <label for="availability">Availability:</label>
-            <input type="text" id="availability" name="availability" required>
-
             <button type="submit">Add Entry</button>
         </form>
 
         <hr>
 
-        <h2>Delete Parking Entry</h2>
+        <h1>Delete Parking Entry</h1>
         <form action="/delete-entry" method="POST">
             <label for="lotNumberDelete">Lot Number to Delete:</label>
             <input type="text" id="lotNumberDelete" name="lotNumberDelete" required>
