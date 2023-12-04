@@ -1,5084 +1,6008 @@
 [
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "West Stadium Lot",
     "lotNumber": "101",
     "totalSpaces": "221",
-    "times": [
-      "80% Full",
-      "88% Full",
-      "89% Full",
-      "79% Full"
-    ]
+    "occupancy": {
+      "7am": "80% Full",
+      "11am": "88% Full",
+      "2pm": "89% Full",
+      "4pm": "79% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Bernie Moore Lot",
     "lotNumber": "104",
     "totalSpaces": "191",
-    "times": [
-      "25% Full",
-      "28% Full",
-      "22% Full",
-      "25% Full"
-    ]
+    "occupancy": {
+      "7am": "25% Full",
+      "11am": "28% Full",
+      "2pm": "22% Full",
+      "4pm": "25% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Natatorium Lot",
     "lotNumber": "105",
     "totalSpaces": "315",
-    "times": [
-      "1% Full",
-      "48% Full",
-      "46% Full",
-      "40% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "48% Full",
+      "2pm": "46% Full",
+      "4pm": "40% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Touchdown Village West Lot",
     "lotNumber": "314",
     "totalSpaces": "1364",
-    "times": [
-      "58% Full",
-      "95% Full",
-      "99% Full",
-      "77% Full"
-    ]
+    "occupancy": {
+      "7am": "58% Full",
+      "11am": "95% Full",
+      "2pm": "99% Full",
+      "4pm": "77% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Touchdown Village East Lot",
     "lotNumber": "315",
     "totalSpaces": "1221",
-    "times": [
-      "99% Full",
-      "100% Full",
-      "100% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "West Parker Blvd. Lot",
     "lotNumber": "316",
     "totalSpaces": "206",
-    "times": [
-      "5% Full",
-      "15% Full",
-      "13% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "5% Full",
+      "11am": "15% Full",
+      "2pm": "13% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "South Stadium East Lot",
     "lotNumber": "401",
     "totalSpaces": "328",
-    "times": [
-      "6% Full",
-      "98% Full",
-      "98% Full",
-      "11% Full"
-    ]
+    "occupancy": {
+      "7am": "6% Full",
+      "11am": "98% Full",
+      "2pm": "98% Full",
+      "4pm": "11% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "South Stadium West Lot",
     "lotNumber": "401",
     "totalSpaces": "529",
-    "times": [
-      "3% Full",
-      "98% Full",
-      "99% Full",
-      "7% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "98% Full",
+      "2pm": "99% Full",
+      "4pm": "7% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "South Quad Dr. West Lot",
     "lotNumber": "403",
     "totalSpaces": "441",
-    "times": [
-      "1% Full",
-      "28% Full",
-      "22% Full",
-      "7% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "28% Full",
+      "2pm": "22% Full",
+      "4pm": "7% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Skip Bertman Dr. East Lot",
     "lotNumber": "404",
     "totalSpaces": "641",
-    "times": [
-      "1% Full",
-      "28% Full",
-      "22% Full",
-      "7% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "28% Full",
+      "2pm": "22% Full",
+      "4pm": "7% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "East Parker Blvd. Lot",
     "lotNumber": "604",
     "totalSpaces": "504",
-    "times": [
-      "100% Full",
-      "100% Full",
-      "99% Full",
-      "99% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "100% Full",
+      "2pm": "99% Full",
+      "4pm": "99% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "ECE West Lot",
     "lotNumber": "402",
     "totalSpaces": "285",
-    "times": [
-      "15% Full",
-      "87% Full",
-      "86% Full",
-      "36% Full"
-    ]
+    "occupancy": {
+      "7am": "15% Full",
+      "11am": "87% Full",
+      "2pm": "86% Full",
+      "4pm": "36% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Parker Coliseum Lot",
     "lotNumber": "600",
     "totalSpaces": "494",
-    "times": [
-      "32% Full",
-      "38% Full",
-      "95% Full",
-      "96% Full"
-    ]
+    "occupancy": {
+      "7am": "32% Full",
+      "11am": "38% Full",
+      "2pm": "95% Full",
+      "4pm": "96% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "West Stadium Lot",
     "lotNumber": "101",
     "totalSpaces": "221",
-    "times": [
-      "27% Full",
-      "16% Full",
-      "17% Full",
-      "30% Full"
-    ]
+    "occupancy": {
+      "7am": "27% Full",
+      "11am": "16% Full",
+      "2pm": "17% Full",
+      "4pm": "30% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Bernie Moore Lot",
     "lotNumber": "104",
     "totalSpaces": "191",
-    "times": [
-      "6% Full",
-      "14% Full",
-      "15% Full",
-      "3% Full"
-    ]
+    "occupancy": {
+      "7am": "6% Full",
+      "11am": "14% Full",
+      "2pm": "15% Full",
+      "4pm": "3% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Natatorium Lot",
     "lotNumber": "105",
     "totalSpaces": "315",
-    "times": [
-      "1% full",
-      "40% Full",
-      "40% Full",
-      "2% Full"
-    ]
+    "occupancy": {
+      "7am": "1% full",
+      "11am": "40% Full",
+      "2pm": "40% Full",
+      "4pm": "2% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Touchdown Village West Lot",
     "lotNumber": "314",
     "totalSpaces": "1364",
-    "times": [
-      "16% Full",
-      "93% Full",
-      "93% Full",
-      "71% Full"
-    ]
+    "occupancy": {
+      "7am": "16% Full",
+      "11am": "93% Full",
+      "2pm": "93% Full",
+      "4pm": "71% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Touchdown Village East Lot",
     "lotNumber": "315",
     "totalSpaces": "1221",
-    "times": [
-      "12% Full",
-      "92% Full",
-      "92% Full",
-      "30% Full"
-    ]
+    "occupancy": {
+      "7am": "12% Full",
+      "11am": "92% Full",
+      "2pm": "92% Full",
+      "4pm": "30% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "West Parker Blvd. Lot",
     "lotNumber": "316",
     "totalSpaces": "206",
-    "times": [
-      "12% Full",
-      "16% Full",
-      "10% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "12% Full",
+      "11am": "16% Full",
+      "2pm": "10% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "South Stadium East Lot",
     "lotNumber": "401",
     "totalSpaces": "328",
-    "times": [
-      "5% Full",
-      "96% Full",
-      "97% Full",
-      "6% Full"
-    ]
+    "occupancy": {
+      "7am": "5% Full",
+      "11am": "96% Full",
+      "2pm": "97% Full",
+      "4pm": "6% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "South Stadium West Lot",
     "lotNumber": "401",
     "totalSpaces": "529",
-    "times": [
-      "4% Full",
-      "98% Full",
-      "98% Full",
-      "6% Full"
-    ]
+    "occupancy": {
+      "7am": "4% Full",
+      "11am": "98% Full",
+      "2pm": "98% Full",
+      "4pm": "6% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "South Quad Dr. West Lot",
     "lotNumber": "403",
     "totalSpaces": "441",
-    "times": [
-      "5% Full",
-      "96% Full",
-      "97% Full",
-      "6% Full"
-    ]
+    "occupancy": {
+      "7am": "5% Full",
+      "11am": "96% Full",
+      "2pm": "97% Full",
+      "4pm": "6% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Skip Bertman Dr. East Lot",
     "lotNumber": "404",
     "totalSpaces": "641",
-    "times": [
-      "2% Full",
-      "28% Full",
-      "25% Full",
-      "20% Full"
-    ]
+    "occupancy": {
+      "7am": "2% Full",
+      "11am": "28% Full",
+      "2pm": "25% Full",
+      "4pm": "20% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "East Parker Blvd. Lot",
     "lotNumber": "604",
     "totalSpaces": "504",
-    "times": [
-      "13% Full",
-      "47% Full",
-      "42% Full",
-      "16% Full"
-    ]
+    "occupancy": {
+      "7am": "13% Full",
+      "11am": "47% Full",
+      "2pm": "42% Full",
+      "4pm": "16% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "ECE West Lot",
     "lotNumber": "402",
     "totalSpaces": "285",
-    "times": [
-      "15% Full",
-      "87% Full",
-      "86% Full",
-      "36% Full"
-    ]
+    "occupancy": {
+      "7am": "15% Full",
+      "11am": "87% Full",
+      "2pm": "86% Full",
+      "4pm": "36% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Parker Coliseum Lot",
     "lotNumber": "600",
     "totalSpaces": "494",
-    "times": [
-      "28% Full",
-      "100% Full",
-      "97% Full",
-      "72% Full"
-    ]
+    "occupancy": {
+      "7am": "28% Full",
+      "11am": "100% Full",
+      "2pm": "97% Full",
+      "4pm": "72% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "West Stadium Lot",
     "lotNumber": "101",
     "totalSpaces": "221",
-    "times": [
-      "19% Full",
-      "82% Full",
-      "79% Full",
-      "74% Full"
-    ]
+    "occupancy": {
+      "7am": "19% Full",
+      "11am": "82% Full",
+      "2pm": "79% Full",
+      "4pm": "74% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Bernie Moore Lot",
     "lotNumber": "104",
     "totalSpaces": "191",
-    "times": [
-      "4% Full",
-      "89% Full",
-      "67% Full",
-      "21% Full"
-    ]
+    "occupancy": {
+      "7am": "4% Full",
+      "11am": "89% Full",
+      "2pm": "67% Full",
+      "4pm": "21% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Natatorium Lot",
     "lotNumber": "105",
     "totalSpaces": "315",
-    "times": [
-      "27% Full",
-      "32% Full",
-      "35% Full",
-      "42% Full"
-    ]
+    "occupancy": {
+      "7am": "27% Full",
+      "11am": "32% Full",
+      "2pm": "35% Full",
+      "4pm": "42% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Touchdown Village West Lot",
     "lotNumber": "314",
     "totalSpaces": "1364",
-    "times": [
-      "2% Full",
-      "96% Full",
-      "92% Full",
-      "65% Full"
-    ]
+    "occupancy": {
+      "7am": "2% Full",
+      "11am": "96% Full",
+      "2pm": "92% Full",
+      "4pm": "65% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Touchdown Village East Lot",
     "lotNumber": "315",
     "totalSpaces": "1221",
-    "times": [
-      "1% Full",
-      "47% Full",
-      "41% Full",
-      "21% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "47% Full",
+      "2pm": "41% Full",
+      "4pm": "21% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "West Parker Blvd. Lot",
     "lotNumber": "316",
     "totalSpaces": "206",
-    "times": [
-      "6% Full",
-      "16% Full",
-      "10% Full",
-      "3% Full"
-    ]
+    "occupancy": {
+      "7am": "6% Full",
+      "11am": "16% Full",
+      "2pm": "10% Full",
+      "4pm": "3% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "South Stadium East Lot",
     "lotNumber": "401",
     "totalSpaces": "328",
-    "times": [
-      "4% Full",
-      "99% Full",
-      "99% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "4% Full",
+      "11am": "99% Full",
+      "2pm": "99% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "South Stadium West Lot",
     "lotNumber": "401",
     "totalSpaces": "529",
-    "times": [
-      "3% Full",
-      "99% Full",
-      "99% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "99% Full",
+      "2pm": "99% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "South Quad Dr. West Lot",
     "lotNumber": "403",
     "totalSpaces": "441",
-    "times": [
-      "3% Full",
-      "97% Full",
-      "98% Full",
-      "96% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "97% Full",
+      "2pm": "98% Full",
+      "4pm": "96% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Skip Bertman Dr. East Lot",
     "lotNumber": "404",
     "totalSpaces": "641",
-    "times": [
-      "3% Full",
-      "26% Full",
-      "24% Full",
-      "18% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "26% Full",
+      "2pm": "24% Full",
+      "4pm": "18% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "East Parker Blvd. Lot",
     "lotNumber": "604",
     "totalSpaces": "504",
-    "times": [
-      "16% Full",
-      "48% Full",
-      "42% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "16% Full",
+      "11am": "48% Full",
+      "2pm": "42% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "ECE West Lot",
     "lotNumber": "402",
     "totalSpaces": "285",
-    "times": [
-      "20% Full",
-      "17% Full",
-      "86% Full",
-      "41% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "17% Full",
+      "2pm": "86% Full",
+      "4pm": "41% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Parker Coliseum Lot",
     "lotNumber": "600",
     "totalSpaces": "494",
-    "times": [
-      "36% Full",
-      "99% Full",
-      "91% Full",
-      "73% Full"
-    ]
+    "occupancy": {
+      "7am": "36% Full",
+      "11am": "99% Full",
+      "2pm": "91% Full",
+      "4pm": "73% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "West Stadium Lot",
     "lotNumber": "101",
     "totalSpaces": "221",
-    "times": [
-      "19% Full",
-      "82% Full",
-      "79% Full",
-      "74% Full"
-    ]
+    "occupancy": {
+      "7am": "19% Full",
+      "11am": "82% Full",
+      "2pm": "79% Full",
+      "4pm": "74% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Bernie Moore Lot",
     "lotNumber": "104",
     "totalSpaces": "191",
-    "times": [
-      "4% Full",
-      "89% Full",
-      "67% Full",
-      "21% Full"
-    ]
+    "occupancy": {
+      "7am": "4% Full",
+      "11am": "89% Full",
+      "2pm": "67% Full",
+      "4pm": "21% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Natatorium Lot",
     "lotNumber": "105",
     "totalSpaces": "315",
-    "times": [
-      "27% Full",
-      "32% Full",
-      "35% Full",
-      "42% Full"
-    ]
+    "occupancy": {
+      "7am": "27% Full",
+      "11am": "32% Full",
+      "2pm": "35% Full",
+      "4pm": "42% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Touchdown Village West Lot",
     "lotNumber": "314",
     "totalSpaces": "1364",
-    "times": [
-      "2% Full",
-      "96% Full",
-      "92% Full",
-      "65% Full"
-    ]
+    "occupancy": {
+      "7am": "2% Full",
+      "11am": "96% Full",
+      "2pm": "92% Full",
+      "4pm": "65% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Touchdown Village East Lot",
     "lotNumber": "315",
     "totalSpaces": "1221",
-    "times": [
-      "1% Full",
-      "47% Full",
-      "41% Full",
-      "21% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "47% Full",
+      "2pm": "41% Full",
+      "4pm": "21% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "West Parker Blvd. Lot",
     "lotNumber": "316",
     "totalSpaces": "206",
-    "times": [
-      "6% Full",
-      "16% Full",
-      "10% Full",
-      "3% Full"
-    ]
+    "occupancy": {
+      "7am": "6% Full",
+      "11am": "16% Full",
+      "2pm": "10% Full",
+      "4pm": "3% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "South Stadium East Lot",
     "lotNumber": "401",
     "totalSpaces": "328",
-    "times": [
-      "4% Full",
-      "99% Full",
-      "99% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "4% Full",
+      "11am": "99% Full",
+      "2pm": "99% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "South Stadium West Lot",
     "lotNumber": "401",
     "totalSpaces": "529",
-    "times": [
-      "3% Full",
-      "99% Full",
-      "99% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "99% Full",
+      "2pm": "99% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "South Quad Dr. West Lot",
     "lotNumber": "403",
     "totalSpaces": "441",
-    "times": [
-      "3% Full",
-      "97% Full",
-      "98% Full",
-      "96% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "97% Full",
+      "2pm": "98% Full",
+      "4pm": "96% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Skip Bertman Dr. East Lot",
     "lotNumber": "404",
     "totalSpaces": "641",
-    "times": [
-      "3% Full",
-      "26% Full",
-      "24% Full",
-      "18% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "26% Full",
+      "2pm": "24% Full",
+      "4pm": "18% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "East Parker Blvd. Lot",
     "lotNumber": "604",
     "totalSpaces": "504",
-    "times": [
-      "10% Full",
-      "41% Full",
-      "43% Full",
-      "1% Full"
-    ]
+    "occupancy": {
+      "7am": "10% Full",
+      "11am": "41% Full",
+      "2pm": "43% Full",
+      "4pm": "1% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "ECE West Lot",
     "lotNumber": "402",
     "totalSpaces": "285",
-    "times": [
-      "20% Full",
-      "17% Full",
-      "86% Full",
-      "41% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "17% Full",
+      "2pm": "86% Full",
+      "4pm": "41% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Parker Coliseum Lot",
     "lotNumber": "600",
     "totalSpaces": "494",
-    "times": [
-      "33% Full",
-      "90% Full",
-      "89% Full",
-      "65% Full"
-    ]
+    "occupancy": {
+      "7am": "33% Full",
+      "11am": "90% Full",
+      "2pm": "89% Full",
+      "4pm": "65% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "West Stadium Lot",
     "lotNumber": "101",
     "totalSpaces": "221",
-    "times": [
-      "80% Full",
-      "88% Full",
-      "89% Full",
-      "79% Full"
-    ]
+    "occupancy": {
+      "7am": "80% Full",
+      "11am": "88% Full",
+      "2pm": "89% Full",
+      "4pm": "79% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Bernie Moore Lot",
     "lotNumber": "104",
     "totalSpaces": "191",
-    "times": [
-      "15% Full",
-      "8% Full",
-      "12% Full",
-      "14% Full"
-    ]
+    "occupancy": {
+      "7am": "15% Full",
+      "11am": "8% Full",
+      "2pm": "12% Full",
+      "4pm": "14% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Natatorium Lot",
     "lotNumber": "105",
     "totalSpaces": "191",
-    "times": [
-      "1% Full",
-      "48% Full",
-      "46% Full",
-      "40% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "48% Full",
+      "2pm": "46% Full",
+      "4pm": "40% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Touchdown Village West Lot",
     "lotNumber": "314",
     "totalSpaces": "1364",
-    "times": [
-      "58% Full",
-      "95% Full",
-      "99% Full",
-      "57% Full"
-    ]
+    "occupancy": {
+      "7am": "58% Full",
+      "11am": "95% Full",
+      "2pm": "99% Full",
+      "4pm": "57% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Touchdown Village East Lot",
     "lotNumber": "315",
     "totalSpaces": "1221",
-    "times": [
-      "99% Full",
-      "100% Full",
-      "100% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "West Parker Blvd. Lot",
     "lotNumber": "316",
     "totalSpaces": "206",
-    "times": [
-      "5% Full",
-      "15% Full",
-      "13% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "5% Full",
+      "11am": "15% Full",
+      "2pm": "13% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "South Stadium East Lot",
     "lotNumber": "401",
     "totalSpaces": "328",
-    "times": [
-      "6% Full",
-      "98% Full",
-      "98% Full",
-      "11% Full"
-    ]
+    "occupancy": {
+      "7am": "6% Full",
+      "11am": "98% Full",
+      "2pm": "98% Full",
+      "4pm": "11% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "South Stadium West Lot",
     "lotNumber": "401",
     "totalSpaces": "529",
-    "times": [
-      "3% Full",
-      "98% Full",
-      "99% Full",
-      "7% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "98% Full",
+      "2pm": "99% Full",
+      "4pm": "7% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "South Quad Dr. West Lot",
     "lotNumber": "403",
     "totalSpaces": "441",
-    "times": [
-      "86% Full",
-      "90% Full",
-      "88% Full",
-      "87% Full"
-    ]
+    "occupancy": {
+      "7am": "86% Full",
+      "11am": "90% Full",
+      "2pm": "88% Full",
+      "4pm": "87% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Skip Bertman Dr. East Lot",
     "lotNumber": "404",
     "totalSpaces": "641",
-    "times": [
-      "1% Full",
-      "28% Full",
-      "22% Full",
-      "7% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "28% Full",
+      "2pm": "22% Full",
+      "4pm": "7% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "East Parker Blvd. Lot",
     "lotNumber": "604",
     "totalSpaces": "504",
-    "times": [
-      "9% Full",
-      "46% Full",
-      "48% Full",
-      "16% Full"
-    ]
+    "occupancy": {
+      "7am": "9% Full",
+      "11am": "46% Full",
+      "2pm": "48% Full",
+      "4pm": "16% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "ECE West Lot",
     "lotNumber": "402",
     "totalSpaces": "285",
-    "times": [
-      "7% Full",
-      "79% Full",
-      "83% Full",
-      "39% Full"
-    ]
+    "occupancy": {
+      "7am": "7% Full",
+      "11am": "79% Full",
+      "2pm": "83% Full",
+      "4pm": "39% Full"
+    }
   },
   {
+    "permitType": "Commuter Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Parker Coliseum Lot",
     "lotNumber": "600",
     "totalSpaces": "494",
-    "times": [
-      "20% Full",
-      "93% Full",
-      "73% Full",
-      "54% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "93% Full",
+      "2pm": "73% Full",
+      "4pm": "54% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Canal Hall North Lot",
     "lotNumber": "111",
     "totalSpaces": "85",
-    "times": [
-      "96% Full",
-      "99% Full",
-      "76% Full",
-      "69% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "99% Full",
+      "2pm": "76% Full",
+      "4pm": "69% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Nicholson Gateway North Lot",
     "lotNumber": "112",
     "totalSpaces": "423",
-    "times": [
-      "98% Full",
-      "93% Full",
-      "90% Full",
-      "88% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "93% Full",
+      "2pm": "90% Full",
+      "4pm": "88% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Beach Volleyball Lot",
     "lotNumber": "206",
     "totalSpaces": "121",
-    "times": [
-      "97% Full",
-      "100% Full",
-      "100% Full",
-      "96% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "96% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Spruce Hall Lot",
     "lotNumber": "210",
     "totalSpaces": "125",
-    "times": [
-      "96% Full",
-      "96% Full",
-      "96% Full",
-      "95% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "96% Full",
+      "2pm": "96% Full",
+      "4pm": "95% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Alaska Street Lot (WCA West)",
     "lotNumber": "211",
     "totalSpaces": "427",
-    "times": [
-      "56% Full",
-      "56% Full",
-      "57% Full",
-      "55% Full"
-    ]
+    "occupancy": {
+      "7am": "56% Full",
+      "11am": "56% Full",
+      "2pm": "57% Full",
+      "4pm": "55% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Kirby Smith Hall Lot",
     "lotNumber": "211",
     "totalSpaces": "189",
-    "times": [
-      "58% Full",
-      "59% Full",
-      "59% Full",
-      "62% Full"
-    ]
+    "occupancy": {
+      "7am": "58% Full",
+      "11am": "59% Full",
+      "2pm": "59% Full",
+      "4pm": "62% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "North Kirby Smith Hall Lot (WCA North)",
     "lotNumber": "211",
     "totalSpaces": "219",
-    "times": [
-      "3% Full",
-      "17% Full",
-      "15% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "17% Full",
+      "2pm": "15% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Aster Street West Lot",
     "lotNumber": "212",
     "totalSpaces": "176",
-    "times": [
-      "14% Full",
-      "15% Full",
-      "13% Full",
-      "11% Full"
-    ]
+    "occupancy": {
+      "7am": "14% Full",
+      "11am": "15% Full",
+      "2pm": "13% Full",
+      "4pm": "11% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Aster Street East Lot",
     "lotNumber": "213",
     "totalSpaces": "200",
-    "times": [
-      "63% Full",
-      "66% Full",
-      "68% Full",
-      "62% Full"
-    ]
+    "occupancy": {
+      "7am": "63% Full",
+      "11am": "66% Full",
+      "2pm": "68% Full",
+      "4pm": "62% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Alaska Street East Lot (Cypress Dr. North)",
     "lotNumber": "219",
     "totalSpaces": "266",
-    "times": [
-      "92% Full",
-      "92% Full",
-      "100% Full",
-      "92% Full"
-    ]
+    "occupancy": {
+      "7am": "92% Full",
+      "11am": "92% Full",
+      "2pm": "100% Full",
+      "4pm": "92% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Broussard Circle Lot",
     "lotNumber": "220",
     "totalSpaces": "19",
-    "times": [
-      "96% Full",
-      "100% Full",
-      "98% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "100% Full",
+      "2pm": "98% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Pentagon Lot",
     "lotNumber": "220",
     "totalSpaces": "65",
-    "times": [
-      "97% Full",
-      "99% Full",
-      "97% Full",
-      "90% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "99% Full",
+      "2pm": "97% Full",
+      "4pm": "90% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Broussard Lot",
     "lotNumber": "221",
     "totalSpaces": "73",
-    "times": [
-      "97% Full",
-      "99% Full",
-      "97% Full",
-      "90% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "99% Full",
+      "2pm": "97% Full",
+      "4pm": "90% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Acadian Lot",
     "lotNumber": "506",
     "totalSpaces": "141",
-    "times": [
-      "92% Full",
-      "92% Full",
-      "95% Full",
-      "96% Full"
-    ]
+    "occupancy": {
+      "7am": "92% Full",
+      "11am": "92% Full",
+      "2pm": "95% Full",
+      "4pm": "96% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Blake Hall Lot",
     "lotNumber": "507",
     "totalSpaces": "93",
-    "times": [
-      "98% Full",
-      "98% Full",
-      "98% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "98% Full",
+      "2pm": "98% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Campus Lake Gravel Lot",
     "lotNumber": "508",
     "totalSpaces": "134",
-    "times": [
-      "90% Full",
-      "97% Full",
-      "97% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "90% Full",
+      "11am": "97% Full",
+      "2pm": "97% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Herget Hall Lot",
     "lotNumber": "508",
     "totalSpaces": "230",
-    "times": [
-      "98% Full",
-      "99% Full",
-      "99% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "99% Full",
+      "2pm": "99% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Miller Hall Lot",
     "lotNumber": "508",
     "totalSpaces": "177",
-    "times": [
-      "99% Full",
-      "99% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "99% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Hill Farm Student Lot",
     "lotNumber": "515",
     "totalSpaces": "298",
-    "times": [
-      "91% Full",
-      "94% Full",
-      "96% Full",
-      "87% Full"
-    ]
+    "occupancy": {
+      "7am": "91% Full",
+      "11am": "94% Full",
+      "2pm": "96% Full",
+      "4pm": "87% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Student Rec West Lot",
     "lotNumber": "517",
     "totalSpaces": "100",
-    "times": [
-      "84% Full",
-      "80% Full",
-      "91% Full",
-      "91% Full"
-    ]
+    "occupancy": {
+      "7am": "84% Full",
+      "11am": "80% Full",
+      "2pm": "91% Full",
+      "4pm": "91% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Parker Coliseum Lot",
     "lotNumber": "600",
     "totalSpaces": "494",
-    "times": [
-      "32% Full",
-      "38% Full",
-      "95% Full",
-      "96% Full"
-    ]
+    "occupancy": {
+      "7am": "32% Full",
+      "11am": "38% Full",
+      "2pm": "95% Full",
+      "4pm": "96% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "South Stadium Dr. East Lot",
     "lotNumber": "601",
     "totalSpaces": "125",
-    "times": [
-      "0% Full",
-      "97% Full",
-      "70% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "97% Full",
+      "2pm": "70% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Nicholson Gateway Garage (Level 1)",
     "lotNumber": "701",
     "totalSpaces": "134",
-    "times": [
-      "1% Full",
-      "6% Full",
-      "6% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "6% Full",
+      "2pm": "6% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Nicholson Gateway Garage (Level 2)",
     "lotNumber": "701",
     "totalSpaces": "146",
-    "times": [
-      "54% Full",
-      "55% Full",
-      "69% Full",
-      "60% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "55% Full",
+      "2pm": "69% Full",
+      "4pm": "60% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Nicholson Gateway Garage (Level 3)",
     "lotNumber": "701",
     "totalSpaces": "170",
-    "times": [
-      "19% Full",
-      "21% Full",
-      "22% Full",
-      "25% Full"
-    ]
+    "occupancy": {
+      "7am": "19% Full",
+      "11am": "21% Full",
+      "2pm": "22% Full",
+      "4pm": "25% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Nicholson Gateway Garage (Level 4)",
     "lotNumber": "701",
     "totalSpaces": "171",
-    "times": [
-      "6% Full",
-      "10% Full",
-      "5% Full",
-      "5% Full"
-    ]
+    "occupancy": {
+      "7am": "6% Full",
+      "11am": "10% Full",
+      "2pm": "5% Full",
+      "4pm": "5% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Nicholson Gateway Garage (Level 5)",
     "lotNumber": "701",
     "totalSpaces": "178",
-    "times": [
-      "6% Full",
-      "9% Full",
-      "5% Full",
-      "5% Full"
-    ]
+    "occupancy": {
+      "7am": "6% Full",
+      "11am": "9% Full",
+      "2pm": "5% Full",
+      "4pm": "5% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "East Campus Apartments (East Lot)",
     "lotNumber": "504 A",
     "totalSpaces": "191",
-    "times": [
-      "95% Full",
-      "97% Full",
-      "96% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "95% Full",
+      "11am": "97% Full",
+      "2pm": "96% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "East Campus Apartments (West Lot)",
     "lotNumber": "504 B",
     "totalSpaces": "218",
-    "times": [
-      "100% Full",
-      "100% Full",
-      "99% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "100% Full",
+      "2pm": "99% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Corporate Canal South Lot",
     "lotNumber": "518 B",
     "totalSpaces": "81",
-    "times": [
-      "85% Full",
-      "74% Full",
-      "89% Full",
-      "91% Full"
-    ]
+    "occupancy": {
+      "7am": "85% Full",
+      "11am": "74% Full",
+      "2pm": "89% Full",
+      "4pm": "91% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Campus Lake - South Campus Lot (McVoy Hall)",
     "lotNumber": "Street",
     "totalSpaces": "18",
-    "times": [
-      "100% Full",
-      "94% Full",
-      "94% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "94% Full",
+      "2pm": "94% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "South Campus Street (Bridge) Lot",
     "lotNumber": "Street",
     "totalSpaces": "105",
-    "times": [
-      "91% Full",
-      "96% Full",
-      "90% Full",
-      "94% Full"
-    ]
+    "occupancy": {
+      "7am": "91% Full",
+      "11am": "96% Full",
+      "2pm": "90% Full",
+      "4pm": "94% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "South Stadium / East Parker / Highland Rd. (Street) Lot",
     "lotNumber": "Street",
     "totalSpaces": "172",
-    "times": [
-      "23% Full",
-      "61% Full",
-      "56% Full",
-      "54% Full"
-    ]
+    "occupancy": {
+      "7am": "23% Full",
+      "11am": "61% Full",
+      "2pm": "56% Full",
+      "4pm": "54% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Canal Hall North Lot",
     "lotNumber": "111",
     "totalSpaces": "85",
-    "times": [
-      "98% Full",
-      "93% Full",
-      "89% Full",
-      "87% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "93% Full",
+      "2pm": "89% Full",
+      "4pm": "87% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Nicholson Gateway North Lot",
     "lotNumber": "112",
     "totalSpaces": "423",
-    "times": [
-      "99% Full",
-      "97% Full",
-      "93% Full",
-      "94% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "97% Full",
+      "2pm": "93% Full",
+      "4pm": "94% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Beach Volleyball Lot",
     "lotNumber": "206",
     "totalSpaces": "121",
-    "times": [
-      "98% Full",
-      "100% Full",
-      "100% Full",
-      "91% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "91% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Spruce Hall Lot",
     "lotNumber": "210",
     "totalSpaces": "125",
-    "times": [
-      "98% Full",
-      "98% Full",
-      "99% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "98% Full",
+      "2pm": "99% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Alaska Street Lot (WCA West)",
     "lotNumber": "211",
     "totalSpaces": "427",
-    "times": [
-      "84% Full",
-      "85% Full",
-      "87% Full",
-      "82% Full"
-    ]
+    "occupancy": {
+      "7am": "84% Full",
+      "11am": "85% Full",
+      "2pm": "87% Full",
+      "4pm": "82% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Kirby Smith Hall Lot",
     "lotNumber": "211",
     "totalSpaces": "189",
-    "times": [
-      "99% Full",
-      "98% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "98% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "North Kirby Smith Hall Lot (WCA North)",
     "lotNumber": "211",
     "totalSpaces": "219",
-    "times": [
-      "33% Full",
-      "42% Full",
-      "36% Full",
-      "26% Full"
-    ]
+    "occupancy": {
+      "7am": "33% Full",
+      "11am": "42% Full",
+      "2pm": "36% Full",
+      "4pm": "26% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Aster Street West Lot",
     "lotNumber": "212",
     "totalSpaces": "176",
-    "times": [
-      "2% Full",
-      "19% Full",
-      "23% Full",
-      "5% Full"
-    ]
+    "occupancy": {
+      "7am": "2% Full",
+      "11am": "19% Full",
+      "2pm": "23% Full",
+      "4pm": "5% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Aster Street East Lot",
     "lotNumber": "213",
     "totalSpaces": "200",
-    "times": [
-      "11% Full",
-      "10% Full",
-      "9% Full",
-      "5% Full"
-    ]
+    "occupancy": {
+      "7am": "11% Full",
+      "11am": "10% Full",
+      "2pm": "9% Full",
+      "4pm": "5% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Alaska Street East Lot (Cypress Dr. North)",
     "lotNumber": "219",
     "totalSpaces": "266",
-    "times": [
-      "65% Full",
-      "67% Full",
-      "69% Full",
-      "63% Full"
-    ]
+    "occupancy": {
+      "7am": "65% Full",
+      "11am": "67% Full",
+      "2pm": "69% Full",
+      "4pm": "63% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Broussard Circle Lot",
     "lotNumber": "220",
     "totalSpaces": "19",
-    "times": [
-      "95% Full",
-      "90% Full",
-      "84% Full",
-      "95% Full"
-    ]
+    "occupancy": {
+      "7am": "95% Full",
+      "11am": "90% Full",
+      "2pm": "84% Full",
+      "4pm": "95% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Pentagon Lot",
     "lotNumber": "220",
     "totalSpaces": "65",
-    "times": [
-      "97% Full",
-      "100% Full",
-      "98% Full",
-      "91% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "100% Full",
+      "2pm": "98% Full",
+      "4pm": "91% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Acadian Lot",
     "lotNumber": "506",
     "totalSpaces": "141",
-    "times": [
-      "96% Full",
-      "100% Full",
-      "100% Full",
-      "99% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "99% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Blake Hall Lot",
     "lotNumber": "507",
     "totalSpaces": "93",
-    "times": [
-      "99% Full",
-      "98% Full",
-      "98% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "98% Full",
+      "2pm": "98% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Campus Lake Gravel Lot",
     "lotNumber": "508",
     "totalSpaces": "134",
-    "times": [
-      "93% Full",
-      "99% Full",
-      "98% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "93% Full",
+      "11am": "99% Full",
+      "2pm": "98% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Herget Hall Lot",
     "lotNumber": "508",
     "totalSpaces": "230",
-    "times": [
-      "98% Full",
-      "99% Full",
-      "99% Full",
-      "99% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "99% Full",
+      "2pm": "99% Full",
+      "4pm": "99% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Miller Hall Lot",
     "lotNumber": "508",
     "totalSpaces": "177",
-    "times": [
-      "99% Full",
-      "99% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "99% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Hill Farm Student Lot",
     "lotNumber": "515",
     "totalSpaces": "298",
-    "times": [
-      "0% Full",
-      "0% Full",
-      "2% Full",
-      "5% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "0% Full",
+      "2pm": "2% Full",
+      "4pm": "5% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Student Rec West Lot",
     "lotNumber": "517",
     "totalSpaces": "100",
-    "times": [
-      "96% Full",
-      "94% Full",
-      "98% Full",
-      "96% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "94% Full",
+      "2pm": "98% Full",
+      "4pm": "96% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Parker Coliseum Lot",
     "lotNumber": "600",
     "totalSpaces": "494",
-    "times": [
-      "28% Full",
-      "100% Full",
-      "97% Full",
-      "72% Full"
-    ]
+    "occupancy": {
+      "7am": "28% Full",
+      "11am": "100% Full",
+      "2pm": "97% Full",
+      "4pm": "72% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "South Stadium Dr. East Lot",
     "lotNumber": "601",
     "totalSpaces": "125",
-    "times": [
-      "0% Full",
-      "94% Full",
-      "98% Full",
-      "0% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "94% Full",
+      "2pm": "98% Full",
+      "4pm": "0% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Nicholson Gateway Garage (Level 1)",
     "lotNumber": "701",
     "totalSpaces": "134",
-    "times": [
-      "98% Full",
-      "99% Full",
-      "89% Full",
-      "92% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "99% Full",
+      "2pm": "89% Full",
+      "4pm": "92% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Nicholson Gateway Garage (Level 2)",
     "lotNumber": "701",
     "totalSpaces": "146",
-    "times": [
-      "55% Full",
-      "56% Full",
-      "70% Full",
-      "61% Full"
-    ]
+    "occupancy": {
+      "7am": "55% Full",
+      "11am": "56% Full",
+      "2pm": "70% Full",
+      "4pm": "61% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Nicholson Gateway Garage (Level 3)",
     "lotNumber": "701",
     "totalSpaces": "170",
-    "times": [
-      "19% Full",
-      "21% Full",
-      "21% Full",
-      "24% Full"
-    ]
+    "occupancy": {
+      "7am": "19% Full",
+      "11am": "21% Full",
+      "2pm": "21% Full",
+      "4pm": "24% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Nicholson Gateway Garage (Level 4)",
     "lotNumber": "701",
     "totalSpaces": "171",
-    "times": [
-      "6% Full",
-      "9% Full",
-      "5% Full",
-      "6% Full"
-    ]
+    "occupancy": {
+      "7am": "6% Full",
+      "11am": "9% Full",
+      "2pm": "5% Full",
+      "4pm": "6% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Nicholson Gateway Garage (Level 5)",
     "lotNumber": "701",
     "totalSpaces": "178",
-    "times": [
-      "1% Full",
-      "4% Full",
-      "4% Full",
-      "2% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "4% Full",
+      "2pm": "4% Full",
+      "4pm": "2% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "East Campus Apartments (East Lot)",
     "lotNumber": "504 A",
     "totalSpaces": "191",
-    "times": [
-      "100% Full",
-      "99% Full",
-      "98% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "99% Full",
+      "2pm": "98% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "East Campus Apartments (West Lot)",
     "lotNumber": "504 B",
     "totalSpaces": "218",
-    "times": [
-      "100% Full",
-      "99% Full",
-      "96% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "99% Full",
+      "2pm": "96% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Corporate Canal South Lot",
     "lotNumber": "518 B",
     "totalSpaces": "81",
-    "times": [
-      "85% Full",
-      "74% Full",
-      "89% Full",
-      "91% Full"
-    ]
+    "occupancy": {
+      "7am": "85% Full",
+      "11am": "74% Full",
+      "2pm": "89% Full",
+      "4pm": "91% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Campus Lake - South Campus Lot (McVoy Hall)",
     "lotNumber": "Street",
     "totalSpaces": "18",
-    "times": [
-      "94% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "94% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "South Campus Street (Bridge) Lot",
     "lotNumber": "Street",
     "totalSpaces": "105",
-    "times": [
-      "93% Full",
-      "97% Full",
-      "92% Full",
-      "95% Full"
-    ]
+    "occupancy": {
+      "7am": "93% Full",
+      "11am": "97% Full",
+      "2pm": "92% Full",
+      "4pm": "95% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "South Stadium / East Parker / Highland Rd. (Street) Lot",
     "lotNumber": "Street",
     "totalSpaces": "172",
-    "times": [
-      "63% Full",
-      "67% Full",
-      "66% Full",
-      "62% Full"
-    ]
+    "occupancy": {
+      "7am": "63% Full",
+      "11am": "67% Full",
+      "2pm": "66% Full",
+      "4pm": "62% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Canal Hall North Lot",
     "lotNumber": "111",
     "totalSpaces": "85",
-    "times": [
-      "100% Full",
-      "88% Full",
-      "85% Full",
-      "75% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "88% Full",
+      "2pm": "85% Full",
+      "4pm": "75% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Nicholson Gateway North Lot",
     "lotNumber": "112",
     "totalSpaces": "423",
-    "times": [
-      "98% Full",
-      "93% Full",
-      "88% Full",
-      "86% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "93% Full",
+      "2pm": "88% Full",
+      "4pm": "86% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Beach Volleyball Lot",
     "lotNumber": "206",
     "totalSpaces": "121",
-    "times": [
-      "97% Full",
-      "98% Full",
-      "97% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "98% Full",
+      "2pm": "97% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Spruce Hall Lot",
     "lotNumber": "210",
     "totalSpaces": "125",
-    "times": [
-      "98% Full",
-      "95% Full",
-      "97% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "95% Full",
+      "2pm": "97% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Alaska Street Lot (WCA West)",
     "lotNumber": "211",
     "totalSpaces": "427",
-    "times": [
-      "85% Full",
-      "84% Full",
-      "86% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "85% Full",
+      "11am": "84% Full",
+      "2pm": "86% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Kirby Smith Hall Lot",
     "lotNumber": "211",
     "totalSpaces": "189",
-    "times": [
-      "99% Full",
-      "96% Full",
-      "99% Full",
-      "99% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "96% Full",
+      "2pm": "99% Full",
+      "4pm": "99% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "North Kirby Smith Hall Lot (WCA North)",
     "lotNumber": "211",
     "totalSpaces": "219",
-    "times": [
-      "54% Full",
-      "65% Full",
-      "53% Full",
-      "52% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "65% Full",
+      "2pm": "53% Full",
+      "4pm": "52% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Aster Street West Lot",
     "lotNumber": "212",
     "totalSpaces": "176",
-    "times": [
-      "5% Full",
-      "16% Full",
-      "20% Full",
-      "3% Full"
-    ]
+    "occupancy": {
+      "7am": "5% Full",
+      "11am": "16% Full",
+      "2pm": "20% Full",
+      "4pm": "3% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Aster Street East Lot",
     "lotNumber": "213",
     "totalSpaces": "200",
-    "times": [
-      "10% Full",
-      "10% Full",
-      "11% Full",
-      "8% Full"
-    ]
+    "occupancy": {
+      "7am": "10% Full",
+      "11am": "10% Full",
+      "2pm": "11% Full",
+      "4pm": "8% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Alaska Street East Lot (Cypress Dr. North)",
     "lotNumber": "219",
     "totalSpaces": "266",
-    "times": [
-      "65% Full",
-      "68% Full",
-      "68% Full",
-      "48% Full"
-    ]
+    "occupancy": {
+      "7am": "65% Full",
+      "11am": "68% Full",
+      "2pm": "68% Full",
+      "4pm": "48% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Broussard Circle Lot",
     "lotNumber": "220",
     "totalSpaces": "19",
-    "times": [
-      "100% Full",
-      "100% Full",
-      "95% Full",
-      "95% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "100% Full",
+      "2pm": "95% Full",
+      "4pm": "95% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Pentagon Lot",
     "lotNumber": "220",
     "totalSpaces": "65",
-    "times": [
-      "100% Full",
-      "100% Full",
-      "98% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "100% Full",
+      "2pm": "98% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Acadian Lot",
     "lotNumber": "506",
     "totalSpaces": "141",
-    "times": [
-      "96% Full",
-      "100% Full",
-      "98% Full",
-      "99% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "100% Full",
+      "2pm": "98% Full",
+      "4pm": "99% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Blake Hall Lot",
     "lotNumber": "507",
     "totalSpaces": "93",
-    "times": [
-      "99% Full",
-      "98% Full",
-      "98% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "98% Full",
+      "2pm": "98% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Campus Lake Gravel Lot",
     "lotNumber": "508",
     "totalSpaces": "134",
-    "times": [
-      "92% Full",
-      "97% Full",
-      "98% Full",
-      "94% Full"
-    ]
+    "occupancy": {
+      "7am": "92% Full",
+      "11am": "97% Full",
+      "2pm": "98% Full",
+      "4pm": "94% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Herget Hall Lot",
     "lotNumber": "508",
     "totalSpaces": "230",
-    "times": [
-      "98% Full",
-      "99% Full",
-      "98% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "99% Full",
+      "2pm": "98% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Miller Hall Lot",
     "lotNumber": "508",
     "totalSpaces": "177",
-    "times": [
-      "99% Full",
-      "98% Full",
-      "98% Full",
-      "99% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "98% Full",
+      "2pm": "98% Full",
+      "4pm": "99% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Hill Farm Student Lot",
     "lotNumber": "515",
     "totalSpaces": "298",
-    "times": [
-      "0% Full",
-      "0% Full",
-      "98% Full",
-      "90% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "0% Full",
+      "2pm": "98% Full",
+      "4pm": "90% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Student Rec West Lot",
     "lotNumber": "517",
     "totalSpaces": "100",
-    "times": [
-      "88% Full",
-      "92% Full",
-      "90% Full",
-      "94% Full"
-    ]
+    "occupancy": {
+      "7am": "88% Full",
+      "11am": "92% Full",
+      "2pm": "90% Full",
+      "4pm": "94% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Parker Coliseum Lot",
     "lotNumber": "600",
     "totalSpaces": "494",
-    "times": [
-      "36% Full",
-      "99% Full",
-      "91% Full",
-      "73% Full"
-    ]
+    "occupancy": {
+      "7am": "36% Full",
+      "11am": "99% Full",
+      "2pm": "91% Full",
+      "4pm": "73% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "South Stadium Dr. East Lot",
     "lotNumber": "601",
     "totalSpaces": "125",
-    "times": [
-      "0% Full",
-      "78% Full",
-      "90% Full",
-      "0% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "78% Full",
+      "2pm": "90% Full",
+      "4pm": "0% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Nicholson Gateway Garage (Level 1)",
     "lotNumber": "701",
     "totalSpaces": "134",
-    "times": [
-      "93% Full",
-      "96% Full",
-      "88% Full",
-      "78% Full"
-    ]
+    "occupancy": {
+      "7am": "93% Full",
+      "11am": "96% Full",
+      "2pm": "88% Full",
+      "4pm": "78% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Nicholson Gateway Garage (Level 2)",
     "lotNumber": "701",
     "totalSpaces": "146",
-    "times": [
-      "87% Full",
-      "88% Full",
-      "71% Full",
-      "55% Full"
-    ]
+    "occupancy": {
+      "7am": "87% Full",
+      "11am": "88% Full",
+      "2pm": "71% Full",
+      "4pm": "55% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Nicholson Gateway Garage (Level 3)",
     "lotNumber": "701",
     "totalSpaces": "170",
-    "times": [
-      "32% Full",
-      "30% Full",
-      "25% Full",
-      "24% Full"
-    ]
+    "occupancy": {
+      "7am": "32% Full",
+      "11am": "30% Full",
+      "2pm": "25% Full",
+      "4pm": "24% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Nicholson Gateway Garage (Level 4)",
     "lotNumber": "701",
     "totalSpaces": "171",
-    "times": [
-      "8% Full",
-      "8% Full",
-      "8% Full",
-      "6% Full"
-    ]
+    "occupancy": {
+      "7am": "8% Full",
+      "11am": "8% Full",
+      "2pm": "8% Full",
+      "4pm": "6% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Nicholson Gateway Garage (Level 5)",
     "lotNumber": "701",
     "totalSpaces": "178",
-    "times": [
-      "0% Full",
-      "2% Full",
-      "1% Full",
-      "0% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "2% Full",
+      "2pm": "1% Full",
+      "4pm": "0% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "East Campus Apartments (East Lot)",
     "lotNumber": "504 A",
     "totalSpaces": "191",
-    "times": [
-      "100% Full",
-      "99% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "99% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "East Campus Apartments (West Lot)",
     "lotNumber": "504 B",
     "totalSpaces": "218",
-    "times": [
-      "100% Full",
-      "99% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "99% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Corporate Canal South Lot",
     "lotNumber": "518 B",
     "totalSpaces": "81",
-    "times": [
-      "86% Full",
-      "70% Full",
-      "84% Full",
-      "78% Full"
-    ]
+    "occupancy": {
+      "7am": "86% Full",
+      "11am": "70% Full",
+      "2pm": "84% Full",
+      "4pm": "78% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Campus Lake - South Campus Lot (McVoy Hall)",
     "lotNumber": "Street",
     "totalSpaces": "18",
-    "times": [
-      "83% Full",
-      "83% Full",
-      "89% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "83% Full",
+      "11am": "83% Full",
+      "2pm": "89% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "South Campus Street (Bridge) Lot",
     "lotNumber": "Street",
     "totalSpaces": "105",
-    "times": [
-      "93% Full",
-      "91% Full",
-      "95% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "93% Full",
+      "11am": "91% Full",
+      "2pm": "95% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "South Stadium / East Parker / Highland Rd. (Street) Lot",
     "lotNumber": "Street",
     "totalSpaces": "172",
-    "times": [
-      "61% Full",
-      "73% Full",
-      "62% Full",
-      "60% Full"
-    ]
+    "occupancy": {
+      "7am": "61% Full",
+      "11am": "73% Full",
+      "2pm": "62% Full",
+      "4pm": "60% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Canal Hall North Lot",
     "lotNumber": "111",
     "totalSpaces": "85",
-    "times": [
-      "100% Full",
-      "96% Full",
-      "88% Full",
-      "82% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "96% Full",
+      "2pm": "88% Full",
+      "4pm": "82% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Nicholson Gateway North Lot",
     "lotNumber": "112",
     "totalSpaces": "423",
-    "times": [
-      "97% Full",
-      "95% Full",
-      "93% Full",
-      "96% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "95% Full",
+      "2pm": "93% Full",
+      "4pm": "96% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Beach Volleyball Lot",
     "lotNumber": "206",
     "totalSpaces": "121",
-    "times": [
-      "100% Full",
-      "97% Full",
-      "97% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "97% Full",
+      "2pm": "97% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Spruce Hall Lot",
     "lotNumber": "210",
     "totalSpaces": "125",
-    "times": [
-      "98% Full",
-      "95% Full",
-      "93% Full",
-      "96% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "95% Full",
+      "2pm": "93% Full",
+      "4pm": "96% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Alaska Street Lot (WCA West)",
     "lotNumber": "211",
     "totalSpaces": "427",
-    "times": [
-      "88% Full",
-      "89% Full",
-      "85% Full",
-      "87% Full"
-    ]
+    "occupancy": {
+      "7am": "88% Full",
+      "11am": "89% Full",
+      "2pm": "85% Full",
+      "4pm": "87% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Kirby Smith Hall Lot",
     "lotNumber": "211",
     "totalSpaces": "189",
-    "times": [
-      "99% Full",
-      "98% Full",
-      "98% Full",
-      "99% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "98% Full",
+      "2pm": "98% Full",
+      "4pm": "99% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "North Kirby Smith Hall Lot (WCA North)",
     "lotNumber": "211",
     "totalSpaces": "219",
-    "times": [
-      "55% Full",
-      "52% Full",
-      "52% Full",
-      "53% Full"
-    ]
+    "occupancy": {
+      "7am": "55% Full",
+      "11am": "52% Full",
+      "2pm": "52% Full",
+      "4pm": "53% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Aster Street West Lot",
     "lotNumber": "212",
     "totalSpaces": "176",
-    "times": [
-      "2% Full",
-      "7% Full",
-      "8% Full",
-      "5% Full"
-    ]
+    "occupancy": {
+      "7am": "2% Full",
+      "11am": "7% Full",
+      "2pm": "8% Full",
+      "4pm": "5% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Aster Street East Lot",
     "lotNumber": "213",
     "totalSpaces": "200",
-    "times": [
-      "10% Full",
-      "13% Full",
-      "14% Full",
-      "7% Full"
-    ]
+    "occupancy": {
+      "7am": "10% Full",
+      "11am": "13% Full",
+      "2pm": "14% Full",
+      "4pm": "7% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Alaska Street East Lot (Cypress Dr. North)",
     "lotNumber": "219",
     "totalSpaces": "266",
-    "times": [
-      "67% Full",
-      "65% Full",
-      "76% Full",
-      "69% Full"
-    ]
+    "occupancy": {
+      "7am": "67% Full",
+      "11am": "65% Full",
+      "2pm": "76% Full",
+      "4pm": "69% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Broussard Circle Lot",
     "lotNumber": "220",
     "totalSpaces": "19",
-    "times": [
-      "100% Full",
-      "100% Full",
-      "89% Full",
-      "95% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "100% Full",
+      "2pm": "89% Full",
+      "4pm": "95% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Pentagon Lot",
     "lotNumber": "220",
     "totalSpaces": "65",
-    "times": [
-      "100% Full",
-      "100% Full",
-      "94% Full",
-      "95% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "100% Full",
+      "2pm": "94% Full",
+      "4pm": "95% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Acadian Lot",
     "lotNumber": "506",
     "totalSpaces": "141",
-    "times": [
-      "99% Full",
-      "96% Full",
-      "99% Full",
-      "87% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "96% Full",
+      "2pm": "99% Full",
+      "4pm": "87% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Blake Hall Lot",
     "lotNumber": "507",
     "totalSpaces": "93",
-    "times": [
-      "99% Full",
-      "98% Full",
-      "97% Full",
-      "91% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "98% Full",
+      "2pm": "97% Full",
+      "4pm": "91% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Campus Lake Gravel Lot",
     "lotNumber": "508",
     "totalSpaces": "134",
-    "times": [
-      "96% Full",
-      "99% Full",
-      "99% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "99% Full",
+      "2pm": "99% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Herget Hall Lot",
     "lotNumber": "508",
     "totalSpaces": "230",
-    "times": [
-      "99% Full",
-      "98% Full",
-      "96% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "98% Full",
+      "2pm": "96% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Miller Hall Lot",
     "lotNumber": "508",
     "totalSpaces": "177",
-    "times": [
-      "99% Full",
-      "98% Full",
-      "95% Full",
-      "89% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "98% Full",
+      "2pm": "95% Full",
+      "4pm": "89% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Hill Farm Student Lot",
     "lotNumber": "515",
     "totalSpaces": "298",
-    "times": [
-      "1% Full",
-      "2% Full",
-      "2% Full",
-      "3% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "2% Full",
+      "2pm": "2% Full",
+      "4pm": "3% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Student Rec West Lot",
     "lotNumber": "517",
     "totalSpaces": "100",
-    "times": [
-      "86% Full",
-      "96% Full",
-      "88% Full",
-      "94% Full"
-    ]
+    "occupancy": {
+      "7am": "86% Full",
+      "11am": "96% Full",
+      "2pm": "88% Full",
+      "4pm": "94% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Parker Coliseum Lot",
     "lotNumber": "600",
     "totalSpaces": "494",
-    "times": [
-      "33% Full",
-      "90% Full",
-      "89% Full",
-      "65% Full"
-    ]
+    "occupancy": {
+      "7am": "33% Full",
+      "11am": "90% Full",
+      "2pm": "89% Full",
+      "4pm": "65% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "South Stadium Dr. East Lot",
     "lotNumber": "601",
     "totalSpaces": "125",
-    "times": [
-      "0% Full",
-      "68% Full",
-      "74% Full",
-      "0% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "68% Full",
+      "2pm": "74% Full",
+      "4pm": "0% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Nicholson Gateway Garage (Level 1)",
     "lotNumber": "701",
     "totalSpaces": "134",
-    "times": [
-      "97% Full",
-      "93% Full",
-      "85% Full",
-      "82% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "93% Full",
+      "2pm": "85% Full",
+      "4pm": "82% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Nicholson Gateway Garage (Level 2)",
     "lotNumber": "701",
     "totalSpaces": "146",
-    "times": [
-      "82% Full",
-      "86% Full",
-      "62% Full",
-      "54% Full"
-    ]
+    "occupancy": {
+      "7am": "82% Full",
+      "11am": "86% Full",
+      "2pm": "62% Full",
+      "4pm": "54% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Nicholson Gateway Garage (Level 3)",
     "lotNumber": "701",
     "totalSpaces": "170",
-    "times": [
-      "26% Full",
-      "28% Full",
-      "25% Full",
-      "21% Full"
-    ]
+    "occupancy": {
+      "7am": "26% Full",
+      "11am": "28% Full",
+      "2pm": "25% Full",
+      "4pm": "21% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Nicholson Gateway Garage (Level 4)",
     "lotNumber": "701",
     "totalSpaces": "171",
-    "times": [
-      "7% Full",
-      "7% Full",
-      "5% Full",
-      "6% Full"
-    ]
+    "occupancy": {
+      "7am": "7% Full",
+      "11am": "7% Full",
+      "2pm": "5% Full",
+      "4pm": "6% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Nicholson Gateway Garage (Level 5)",
     "lotNumber": "701",
     "totalSpaces": "178",
-    "times": [
-      "1% Full",
-      "2% Full",
-      "2% Full",
-      "1% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "2% Full",
+      "2pm": "2% Full",
+      "4pm": "1% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "East Campus Apartments (East Lot)",
     "lotNumber": "504 A",
     "totalSpaces": "191",
-    "times": [
-      "97% Full",
-      "93% Full",
-      "98% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "93% Full",
+      "2pm": "98% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "East Campus Apartments (West Lot)",
     "lotNumber": "504 B",
     "totalSpaces": "218",
-    "times": [
-      "99% Full",
-      "93% Full",
-      "96% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "93% Full",
+      "2pm": "96% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Corporate Canal South Lot",
     "lotNumber": "518 B",
     "totalSpaces": "81",
-    "times": [
-      "81% Full",
-      "72% Full",
-      "78% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "81% Full",
+      "11am": "72% Full",
+      "2pm": "78% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Campus Lake - South Campus Lot (McVoy Hall)",
     "lotNumber": "Street",
     "totalSpaces": "18",
-    "times": [
-      "89% Full",
-      "78% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "89% Full",
+      "11am": "78% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "South Campus Street (Bridge) Lot",
     "lotNumber": "Street",
     "totalSpaces": "105",
-    "times": [
-      "94% Full",
-      "90% Full",
-      "92% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "94% Full",
+      "11am": "90% Full",
+      "2pm": "92% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "South Stadium / East Parker / Highland Rd. (Street) Lot",
     "lotNumber": "Street",
     "totalSpaces": "172",
-    "times": [
-      "56% Full",
-      "65% Full",
-      "61% Full",
-      "78% Full"
-    ]
+    "occupancy": {
+      "7am": "56% Full",
+      "11am": "65% Full",
+      "2pm": "61% Full",
+      "4pm": "78% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Canal Hall North Lot",
     "lotNumber": "111",
     "totalSpaces": "85",
-    "times": [
-      "95% Full",
-      "87% Full",
-      "81% Full",
-      "73% Full"
-    ]
+    "occupancy": {
+      "7am": "95% Full",
+      "11am": "87% Full",
+      "2pm": "81% Full",
+      "4pm": "73% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Nicholson Gateway North Lot",
     "lotNumber": "112",
     "totalSpaces": "423",
-    "times": [
-      "93% Full",
-      "91% Full",
-      "88% Full",
-      "86% Full"
-    ]
+    "occupancy": {
+      "7am": "93% Full",
+      "11am": "91% Full",
+      "2pm": "88% Full",
+      "4pm": "86% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Beach Volleyball Lot",
     "lotNumber": "206",
     "totalSpaces": "121",
-    "times": [
-      "93% Full",
-      "93% Full",
-      "80% Full",
-      "79% Full"
-    ]
+    "occupancy": {
+      "7am": "93% Full",
+      "11am": "93% Full",
+      "2pm": "80% Full",
+      "4pm": "79% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Spruce Hall Lot",
     "lotNumber": "210",
     "totalSpaces": "125",
-    "times": [
-      "97% Full",
-      "95% Full",
-      "97% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "95% Full",
+      "2pm": "97% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Alaska street Lot (WCA West)",
     "lotNumber": "211",
     "totalSpaces": "427",
-    "times": [
-      "57% Full",
-      "53% Full",
-      "43% Full",
-      "36% Full"
-    ]
+    "occupancy": {
+      "7am": "57% Full",
+      "11am": "53% Full",
+      "2pm": "43% Full",
+      "4pm": "36% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Kirby Smith Hall Lot",
     "lotNumber": "211",
     "totalSpaces": "189",
-    "times": [
-      "97% Full",
-      "95% Full",
-      "97% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "95% Full",
+      "2pm": "97% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "North Kirby Smith Hall Lot",
     "lotNumber": "211",
     "totalSpaces": "219",
-    "times": [
-      "54% Full",
-      "51% Full",
-      "51% Full",
-      "52% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "51% Full",
+      "2pm": "51% Full",
+      "4pm": "52% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Aster Street West Lot",
     "lotNumber": "212",
     "totalSpaces": "176",
-    "times": [
-      "4% Full",
-      "6% Full",
-      "6% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "4% Full",
+      "11am": "6% Full",
+      "2pm": "6% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Aster Street East Lot",
     "lotNumber": "213",
     "totalSpaces": "200",
-    "times": [
-      "3% Full",
-      "8% Full",
-      "9% Full",
-      "5% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "8% Full",
+      "2pm": "9% Full",
+      "4pm": "5% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Alaska Street East Lot (Cypress Dr. North)",
     "lotNumber": "219",
     "totalSpaces": "266",
-    "times": [
-      "57% Full",
-      "48% Full",
-      "34% Full",
-      "23% Full"
-    ]
+    "occupancy": {
+      "7am": "57% Full",
+      "11am": "48% Full",
+      "2pm": "34% Full",
+      "4pm": "23% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Broussard Circle Lot",
     "lotNumber": "220",
     "totalSpaces": "19",
-    "times": [
-      "100% Full",
-      "94% Full",
-      "89% Full",
-      "78% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "94% Full",
+      "2pm": "89% Full",
+      "4pm": "78% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Pentagon Lot",
     "lotNumber": "220",
     "totalSpaces": "65",
-    "times": [
-      "98% Full",
-      "92% Full",
-      "95% Full",
-      "89% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "92% Full",
+      "2pm": "95% Full",
+      "4pm": "89% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Acadian Lot",
     "lotNumber": "506",
     "totalSpaces": "141",
-    "times": [
-      "95% Full",
-      "94% Full",
-      "89% Full",
-      "86% Full"
-    ]
+    "occupancy": {
+      "7am": "95% Full",
+      "11am": "94% Full",
+      "2pm": "89% Full",
+      "4pm": "86% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Blake Hall Lot",
     "lotNumber": "507",
     "totalSpaces": "93",
-    "times": [
-      "98% Full",
-      "95% Full",
-      "82% Full",
-      "69% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "95% Full",
+      "2pm": "82% Full",
+      "4pm": "69% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Campus Lake Gravel Lot",
     "lotNumber": "508",
     "totalSpaces": "134",
-    "times": [
-      "91% Full",
-      "94% Full",
-      "96% Full",
-      "89% Full"
-    ]
+    "occupancy": {
+      "7am": "91% Full",
+      "11am": "94% Full",
+      "2pm": "96% Full",
+      "4pm": "89% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Herget Hall Lot",
     "lotNumber": "508",
     "totalSpaces": "230",
-    "times": [
-      "96% Full",
-      "93% Full",
-      "72% Full",
-      "58% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "93% Full",
+      "2pm": "72% Full",
+      "4pm": "58% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Miller Hall Lot",
     "lotNumber": "508",
     "totalSpaces": "177",
-    "times": [
-      "96% Full",
-      "93% Full",
-      "72% Full",
-      "58% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "93% Full",
+      "2pm": "72% Full",
+      "4pm": "58% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Hill Farm Student Lot",
     "lotNumber": "515",
     "totalSpaces": "298",
-    "times": [
-      "87% Full",
-      "68% Full",
-      "63% Full",
-      "55% Full"
-    ]
+    "occupancy": {
+      "7am": "87% Full",
+      "11am": "68% Full",
+      "2pm": "63% Full",
+      "4pm": "55% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Student Rec West Lot",
     "lotNumber": "517",
     "totalSpaces": "100",
-    "times": [
-      "81% Full",
-      "91% Full",
-      "89% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "81% Full",
+      "11am": "91% Full",
+      "2pm": "89% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Parker Coliseum Lot",
     "lotNumber": "600",
     "totalSpaces": "494",
-    "times": [
-      "20% Full",
-      "93% Full",
-      "73% Full",
-      "54% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "93% Full",
+      "2pm": "73% Full",
+      "4pm": "54% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "South Stadium Dr. East Lot",
     "lotNumber": "601",
     "totalSpaces": "125",
-    "times": [
-      "10% Full",
-      "52% Full",
-      "10% Full",
-      "5% Full"
-    ]
+    "occupancy": {
+      "7am": "10% Full",
+      "11am": "52% Full",
+      "2pm": "10% Full",
+      "4pm": "5% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Nicholson Gateway Garage (Level 1)",
     "lotNumber": "701",
     "totalSpaces": "134",
-    "times": [
-      "96% Full",
-      "85% Full",
-      "67% Full",
-      "69% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "85% Full",
+      "2pm": "67% Full",
+      "4pm": "69% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Nicholson Gateway Garage (Level 2)",
     "lotNumber": "701",
     "totalSpaces": "146",
-    "times": [
-      "69% Full",
-      "60% Full",
-      "45% Full",
-      "26% Full"
-    ]
+    "occupancy": {
+      "7am": "69% Full",
+      "11am": "60% Full",
+      "2pm": "45% Full",
+      "4pm": "26% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Nicholson Gateway Garage (Level 3)",
     "lotNumber": "701",
     "totalSpaces": "170",
-    "times": [
-      "24% Full",
-      "25% Full",
-      "22% Full",
-      "9% Full"
-    ]
+    "occupancy": {
+      "7am": "24% Full",
+      "11am": "25% Full",
+      "2pm": "22% Full",
+      "4pm": "9% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Nicholson Gateway Garage (Level 4)",
     "lotNumber": "701",
     "totalSpaces": "171",
-    "times": [
-      "5% Full",
-      "2% Full",
-      "2% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "5% Full",
+      "11am": "2% Full",
+      "2pm": "2% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Nicholson Gateway Garage (Level 5)",
     "lotNumber": "701",
     "totalSpaces": "178",
-    "times": [
-      "0% Full",
-      "1% Full",
-      "0% Full",
-      "0% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "1% Full",
+      "2pm": "0% Full",
+      "4pm": "0% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "East Campus Apartments (East Lot)",
     "lotNumber": "504 A",
     "totalSpaces": "191",
-    "times": [
-      "96% Full",
-      "95% Full",
-      "80% Full",
-      "54% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "95% Full",
+      "2pm": "80% Full",
+      "4pm": "54% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "East Campus Apartments (West Lot)",
     "lotNumber": "504 B",
     "totalSpaces": "218",
-    "times": [
-      "96% Full",
-      "95% Full",
-      "80% Full",
-      "54% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "95% Full",
+      "2pm": "80% Full",
+      "4pm": "54% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Corporate Canal South Lot",
     "lotNumber": "518 B",
     "totalSpaces": "81",
-    "times": [
-      "91% Full",
-      "74% Full",
-      "81% Full",
-      "55% Full"
-    ]
+    "occupancy": {
+      "7am": "91% Full",
+      "11am": "74% Full",
+      "2pm": "81% Full",
+      "4pm": "55% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Campus Lake - South Campus Lot (McVoy Hall)",
     "lotNumber": "Street",
     "totalSpaces": "18",
-    "times": [
-      "39% Full",
-      "56% Full",
-      "11% Full",
-      "0% Full"
-    ]
+    "occupancy": {
+      "7am": "39% Full",
+      "11am": "56% Full",
+      "2pm": "11% Full",
+      "4pm": "0% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "South Campus Street (Bridge) Lot",
     "lotNumber": "Street",
     "totalSpaces": "105",
-    "times": [
-      "92% Full",
-      "87% Full",
-      "80% Full",
-      "75% Full"
-    ]
+    "occupancy": {
+      "7am": "92% Full",
+      "11am": "87% Full",
+      "2pm": "80% Full",
+      "4pm": "75% Full"
+    }
   },
   {
+    "permitType": "Residential Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "South Stadium / East Parker / Highland Rd. (Street) Lot",
     "lotNumber": "Street",
     "totalSpaces": "172",
-    "times": [
-      "47% Full",
-      "86% Full",
-      "90% Full",
-      "75% Full"
-    ]
+    "occupancy": {
+      "7am": "47% Full",
+      "11am": "86% Full",
+      "2pm": "90% Full",
+      "4pm": "75% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Fraternity Circle Lot",
     "lotNumber": "501",
     "totalSpaces": "94",
-    "times": [
-      "79% Full",
-      "90% Full",
-      "97% Full",
-      "92% Full"
-    ]
+    "occupancy": {
+      "7am": "79% Full",
+      "11am": "90% Full",
+      "2pm": "97% Full",
+      "4pm": "92% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Greek Row Central Lot",
     "lotNumber": "521",
     "totalSpaces": "203",
-    "times": [
-      "48% Full",
-      "38% Full",
-      "44% Full",
-      "36% Full"
-    ]
+    "occupancy": {
+      "7am": "48% Full",
+      "11am": "38% Full",
+      "2pm": "44% Full",
+      "4pm": "36% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Greek Row South Lot",
     "lotNumber": "523",
     "totalSpaces": "84",
-    "times": [
-      "77% Full",
-      "81% Full",
-      "84% Full",
-      "74% Full"
-    ]
+    "occupancy": {
+      "7am": "77% Full",
+      "11am": "81% Full",
+      "2pm": "84% Full",
+      "4pm": "74% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Greek Row North Lot",
     "lotNumber": "524",
     "totalSpaces": "141",
-    "times": [
-      "3% Full",
-      "29% Full",
-      "42% Full",
-      "19% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "29% Full",
+      "2pm": "42% Full",
+      "4pm": "19% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Fraternity Ln. Lot (Street)",
     "lotNumber": "500A",
     "totalSpaces": "25",
-    "times": [
-      "8% Full",
-      "67% Full",
-      "75% Full",
-      "67% Full"
-    ]
+    "occupancy": {
+      "7am": "8% Full",
+      "11am": "67% Full",
+      "2pm": "75% Full",
+      "4pm": "67% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Fraternity Ln. Lot",
     "lotNumber": "500A",
     "totalSpaces": "53",
-    "times": [
-      "49% Full",
-      "72% Full",
-      "96% Full",
-      "92% Full"
-    ]
+    "occupancy": {
+      "7am": "49% Full",
+      "11am": "72% Full",
+      "2pm": "96% Full",
+      "4pm": "92% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Fraternity Ln. East Lot",
     "lotNumber": "500B",
     "totalSpaces": "41",
-    "times": [
-      "71% Full",
-      "76% Ful",
-      "88% Full",
-      "88% Full"
-    ]
+    "occupancy": {
+      "7am": "71% Full",
+      "11am": "76% Ful",
+      "2pm": "88% Full",
+      "4pm": "88% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Fraternity Ln. North Lot",
     "lotNumber": "500C",
     "totalSpaces": "83",
-    "times": [
-      "63% Full",
-      "96% Full",
-      "98% Full",
-      "96% Full"
-    ]
+    "occupancy": {
+      "7am": "63% Full",
+      "11am": "96% Full",
+      "2pm": "98% Full",
+      "4pm": "96% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Greek Row West Lot",
     "lotNumber": "520",
     "totalSpaces": "84",
-    "times": [
-      "96% Full",
-      "100% Full",
-      "99% Full",
-      "95% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "100% Full",
+      "2pm": "99% Full",
+      "4pm": "95% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "West Lakeshore North Lot",
     "lotNumber": "513",
     "totalSpaces": "116",
-    "times": [
-      "97% Full",
-      "99% Full",
-      "96% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "99% Full",
+      "2pm": "96% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Fraternity Circle Lot",
     "lotNumber": "501",
     "totalSpaces": "94",
-    "times": [
-      "77% Full",
-      "87% Full",
-      "93% Full",
-      "83% Full"
-    ]
+    "occupancy": {
+      "7am": "77% Full",
+      "11am": "87% Full",
+      "2pm": "93% Full",
+      "4pm": "83% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Greek Row Central Lot",
     "lotNumber": "521",
     "totalSpaces": "203",
-    "times": [
-      "50% Full",
-      "63% Full",
-      "67% Full",
-      "43% Full"
-    ]
+    "occupancy": {
+      "7am": "50% Full",
+      "11am": "63% Full",
+      "2pm": "67% Full",
+      "4pm": "43% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Greek Row South Lot",
     "lotNumber": "523",
     "totalSpaces": "84",
-    "times": [
-      "86% Full",
-      "87% Full",
-      "82% Full",
-      "77% Full"
-    ]
+    "occupancy": {
+      "7am": "86% Full",
+      "11am": "87% Full",
+      "2pm": "82% Full",
+      "4pm": "77% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Greek Row North Lot",
     "lotNumber": "524",
     "totalSpaces": "141",
-    "times": [
-      "9% Full",
-      "33% Full",
-      "42% Full",
-      "25% Full"
-    ]
+    "occupancy": {
+      "7am": "9% Full",
+      "11am": "33% Full",
+      "2pm": "42% Full",
+      "4pm": "25% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Fraternity Ln. Lot (Street)",
     "lotNumber": "500A",
     "totalSpaces": "25",
-    "times": [
-      "52% Full",
-      "68% Full",
-      "80% Full",
-      "44% Full"
-    ]
+    "occupancy": {
+      "7am": "52% Full",
+      "11am": "68% Full",
+      "2pm": "80% Full",
+      "4pm": "44% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Fraternity Ln. Lot",
     "lotNumber": "500B",
     "totalSpaces": "53",
-    "times": [
-      "54% Full",
-      "91% Full",
-      "87% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "91% Full",
+      "2pm": "87% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Fraternity Ln. East Lot (Gravel)",
     "lotNumber": "500B",
     "totalSpaces": "41",
-    "times": [
-      "80% Full",
-      "78% Full",
-      "71% Full",
-      "66% Full"
-    ]
+    "occupancy": {
+      "7am": "80% Full",
+      "11am": "78% Full",
+      "2pm": "71% Full",
+      "4pm": "66% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Fraternity Ln. North Lot",
     "lotNumber": "500C",
     "totalSpaces": "83",
-    "times": [
-      "63% Full",
-      "96% Full",
-      "98% Full",
-      "96% Full"
-    ]
+    "occupancy": {
+      "7am": "63% Full",
+      "11am": "96% Full",
+      "2pm": "98% Full",
+      "4pm": "96% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Greek Row West Lot",
     "lotNumber": "520",
     "totalSpaces": "84",
-    "times": [
-      "96% Full",
-      "98% Full",
-      "99% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "96% Full",
+      "11am": "98% Full",
+      "2pm": "99% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "West Lakeshore North Lot",
     "lotNumber": "513",
     "totalSpaces": "116",
-    "times": [
-      "85% Full",
-      "77% Full",
-      "74% Full",
-      "59% Full"
-    ]
+    "occupancy": {
+      "7am": "85% Full",
+      "11am": "77% Full",
+      "2pm": "74% Full",
+      "4pm": "59% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Fraternity Circle Lot",
     "lotNumber": "501",
     "totalSpaces": "94",
-    "times": [
-      "77% Full",
-      "87% Full",
-      "93% Full",
-      "83% Full"
-    ]
+    "occupancy": {
+      "7am": "77% Full",
+      "11am": "87% Full",
+      "2pm": "93% Full",
+      "4pm": "83% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Greek Row Central Lot",
     "lotNumber": "521",
     "totalSpaces": "203",
-    "times": [
-      "44% Full",
-      "62% Full",
-      "69% Full",
-      "48% Full"
-    ]
+    "occupancy": {
+      "7am": "44% Full",
+      "11am": "62% Full",
+      "2pm": "69% Full",
+      "4pm": "48% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Greek Row South Lot",
     "lotNumber": "523",
     "totalSpaces": "84",
-    "times": [
-      "88% Full",
-      "95% Full",
-      "96% Full",
-      "57% Full"
-    ]
+    "occupancy": {
+      "7am": "88% Full",
+      "11am": "95% Full",
+      "2pm": "96% Full",
+      "4pm": "57% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Greek Row North Lot",
     "lotNumber": "524",
     "totalSpaces": "141",
-    "times": [
-      "0% Full",
-      "19% Full",
-      "36% Full",
-      "3% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "19% Full",
+      "2pm": "36% Full",
+      "4pm": "3% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Fraternity Ln. Lot (Street)",
     "lotNumber": "500A",
     "totalSpaces": "25",
-    "times": [
-      "52% Full",
-      "68% Full",
-      "80% Full",
-      "44% Full"
-    ]
+    "occupancy": {
+      "7am": "52% Full",
+      "11am": "68% Full",
+      "2pm": "80% Full",
+      "4pm": "44% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Fraternity Ln. Lot",
     "lotNumber": "500B",
     "totalSpaces": "53",
-    "times": [
-      "54% Full",
-      "91% Full",
-      "87% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "91% Full",
+      "2pm": "87% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Fraternity Ln. East Lot (Gravel)",
     "lotNumber": "500B",
     "totalSpaces": "41",
-    "times": [
-      "80% Full",
-      "78% Full",
-      "71% Full",
-      "66% Full"
-    ]
+    "occupancy": {
+      "7am": "80% Full",
+      "11am": "78% Full",
+      "2pm": "71% Full",
+      "4pm": "66% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Fraternity Ln. North Lot",
     "lotNumber": "500C",
     "totalSpaces": "83",
-    "times": [
-      "94% Full",
-      "96% Full",
-      "90% Full",
-      "83% Full"
-    ]
+    "occupancy": {
+      "7am": "94% Full",
+      "11am": "96% Full",
+      "2pm": "90% Full",
+      "4pm": "83% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Greek Row West Lot",
     "lotNumber": "520",
     "totalSpaces": "84",
-    "times": [
-      "98% Full",
-      "99% Full",
-      "94% Full",
-      "57% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "99% Full",
+      "2pm": "94% Full",
+      "4pm": "57% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "West Lakeshore North Lot",
     "lotNumber": "513",
     "totalSpaces": "116",
-    "times": [
-      "59% Full",
-      "81% Full",
-      "67% Full",
-      "64% Full"
-    ]
+    "occupancy": {
+      "7am": "59% Full",
+      "11am": "81% Full",
+      "2pm": "67% Full",
+      "4pm": "64% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Fraternity Circle Lot",
     "lotNumber": "501",
     "totalSpaces": "94",
-    "times": [
-      "81% Full",
-      "88% Full",
-      "91% Full",
-      "84% Full"
-    ]
+    "occupancy": {
+      "7am": "81% Full",
+      "11am": "88% Full",
+      "2pm": "91% Full",
+      "4pm": "84% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Greek Row Central Lot",
     "lotNumber": "521",
     "totalSpaces": "203",
-    "times": [
-      "47% Full",
-      "61% Full",
-      "60% Full",
-      "45% Full"
-    ]
+    "occupancy": {
+      "7am": "47% Full",
+      "11am": "61% Full",
+      "2pm": "60% Full",
+      "4pm": "45% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Greek Row South Lot",
     "lotNumber": "523",
     "totalSpaces": "84",
-    "times": [
-      "84% Full",
-      "94% Full",
-      "80% Full",
-      "41% Full"
-    ]
+    "occupancy": {
+      "7am": "84% Full",
+      "11am": "94% Full",
+      "2pm": "80% Full",
+      "4pm": "41% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Greek Row North Lot",
     "lotNumber": "524",
     "totalSpaces": "141",
-    "times": [
-      "0% Full",
-      "15% Full",
-      "17% Full",
-      "0% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "15% Full",
+      "2pm": "17% Full",
+      "4pm": "0% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Fraternity Ln. Lot (Street)",
     "lotNumber": "500A",
     "totalSpaces": "25",
-    "times": [
-      "76% Full",
-      "80% Full",
-      "84% Full",
-      "56% Full"
-    ]
+    "occupancy": {
+      "7am": "76% Full",
+      "11am": "80% Full",
+      "2pm": "84% Full",
+      "4pm": "56% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Fraternity Ln. Lot",
     "lotNumber": "500B",
     "totalSpaces": "53",
-    "times": [
-      "54% Full",
-      "75% Full",
-      "75% Full",
-      "84% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "75% Full",
+      "2pm": "75% Full",
+      "4pm": "84% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Fraternity Ln. East Lot (Gravel)",
     "lotNumber": "500B",
     "totalSpaces": "41",
-    "times": [
-      "53% Full",
-      "82% Full",
-      "87% Full",
-      "68% Full"
-    ]
+    "occupancy": {
+      "7am": "53% Full",
+      "11am": "82% Full",
+      "2pm": "87% Full",
+      "4pm": "68% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Fraternity Ln. North Lot",
     "lotNumber": "500C",
     "totalSpaces": "83",
-    "times": [
-      "90% Full",
-      "95% Full",
-      "96% Full",
-      "89% Full"
-    ]
+    "occupancy": {
+      "7am": "90% Full",
+      "11am": "95% Full",
+      "2pm": "96% Full",
+      "4pm": "89% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Greek Row West Lot",
     "lotNumber": "520",
     "totalSpaces": "84",
-    "times": [
-      "99% Full",
-      "98% Full",
-      "96% Full",
-      "76% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "98% Full",
+      "2pm": "96% Full",
+      "4pm": "76% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "West Lakeshore North Lot",
     "lotNumber": "513",
     "totalSpaces": "116",
-    "times": [
-      "67% Full",
-      "99% Full",
-      "71% Full",
-      "66% Full"
-    ]
+    "occupancy": {
+      "7am": "67% Full",
+      "11am": "99% Full",
+      "2pm": "71% Full",
+      "4pm": "66% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Fraternity Circle Lot",
     "lotNumber": "501",
     "totalSpaces": "94",
-    "times": [
-      "69% Full",
-      "84% Full",
-      "78% Full",
-      "80% Full"
-    ]
+    "occupancy": {
+      "7am": "69% Full",
+      "11am": "84% Full",
+      "2pm": "78% Full",
+      "4pm": "80% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Greek Row Central Lot",
     "lotNumber": "521",
     "totalSpaces": "203",
-    "times": [
-      "22% Full",
-      "27% Full",
-      "21% Full",
-      "12% Full"
-    ]
+    "occupancy": {
+      "7am": "22% Full",
+      "11am": "27% Full",
+      "2pm": "21% Full",
+      "4pm": "12% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Greek Row South Lot",
     "lotNumber": "523",
     "totalSpaces": "84",
-    "times": [
-      "86% Full",
-      "89% Full",
-      "42% Full",
-      "2% Full"
-    ]
+    "occupancy": {
+      "7am": "86% Full",
+      "11am": "89% Full",
+      "2pm": "42% Full",
+      "4pm": "2% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Greek Row North Lot",
     "lotNumber": "524",
     "totalSpaces": "141",
-    "times": [
-      "0% Full",
-      "0% Full",
-      "0% Full",
-      "0% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "0% Full",
+      "2pm": "0% Full",
+      "4pm": "0% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Fraternity Ln. Lot (Street)",
     "lotNumber": "500A",
     "totalSpaces": "25",
-    "times": [
-      "40% Full",
-      "68% Full",
-      "36% Full",
-      "44% Full"
-    ]
+    "occupancy": {
+      "7am": "40% Full",
+      "11am": "68% Full",
+      "2pm": "36% Full",
+      "4pm": "44% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Fraternity Ln. Lot",
     "lotNumber": "500B",
     "totalSpaces": "53",
-    "times": [
-      "60% Full",
-      "74% Full",
-      "64% Full",
-      "68% Full"
-    ]
+    "occupancy": {
+      "7am": "60% Full",
+      "11am": "74% Full",
+      "2pm": "64% Full",
+      "4pm": "68% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Fraternity Ln. East Lot (Gravel)",
     "lotNumber": "500B",
     "totalSpaces": "41",
-    "times": [
-      "66% Full",
-      "71% Full",
-      "78% Full",
-      "90% Full"
-    ]
+    "occupancy": {
+      "7am": "66% Full",
+      "11am": "71% Full",
+      "2pm": "78% Full",
+      "4pm": "90% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Fraternity Ln. North Lot",
     "lotNumber": "500C",
     "totalSpaces": "83",
-    "times": [
-      "94% Full",
-      "96% Full",
-      "90% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "94% Full",
+      "11am": "96% Full",
+      "2pm": "90% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Greek Row West Lot",
     "lotNumber": "520",
     "totalSpaces": "84",
-    "times": [
-      "67% Full",
-      "71% Full",
-      "52% Full",
-      "44% Full"
-    ]
+    "occupancy": {
+      "7am": "67% Full",
+      "11am": "71% Full",
+      "2pm": "52% Full",
+      "4pm": "44% Full"
+    }
   },
   {
+    "permitType": "Greek Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "West Lakeshore North Lot",
     "lotNumber": "513",
     "totalSpaces": "116",
-    "times": [
-      "76% Full",
-      "75% Full",
-      "62% Full",
-      "41% Full"
-    ]
+    "occupancy": {
+      "7am": "76% Full",
+      "11am": "75% Full",
+      "2pm": "62% Full",
+      "4pm": "41% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "West State St. Lot",
     "lotNumber": "218",
     "totalSpaces": "55",
-    "times": [
-      "62% Full",
-      "87% Full",
-      "67% Full",
-      "84% Full"
-    ]
+    "occupancy": {
+      "7am": "62% Full",
+      "11am": "87% Full",
+      "2pm": "67% Full",
+      "4pm": "84% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Donahue Street Lot",
     "lotNumber": "220",
     "totalSpaces": "18",
-    "times": [
-      "43% Full",
-      "79% Full",
-      "86% Full",
-      "79% Full"
-    ]
+    "occupancy": {
+      "7am": "43% Full",
+      "11am": "79% Full",
+      "2pm": "86% Full",
+      "4pm": "79% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Old Band Hall (Gravel) Lot",
     "lotNumber": "222",
     "totalSpaces": "26",
-    "times": [
-      "0% Full",
-      "4% Full",
-      "61% Full",
-      "4% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "4% Full",
+      "2pm": "61% Full",
+      "4pm": "4% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "312 A (Gravel)",
     "lotNumber": "312",
     "totalSpaces": "30",
-    "times": [
-      "60% Full",
-      "90% Full",
-      "100% Full",
-      "57% Full"
-    ]
+    "occupancy": {
+      "7am": "60% Full",
+      "11am": "90% Full",
+      "2pm": "100% Full",
+      "4pm": "57% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Public Safety Lot",
     "lotNumber": "400",
     "totalSpaces": "42",
-    "times": [
-      "57% Full",
-      "68% Full",
-      "75% Full",
-      "61% Full"
-    ]
+    "occupancy": {
+      "7am": "57% Full",
+      "11am": "68% Full",
+      "2pm": "75% Full",
+      "4pm": "61% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Hansen's Lot",
     "lotNumber": "420",
     "totalSpaces": "10",
-    "times": [
-      "10% Full",
-      "20% Full",
-      "20% Full",
-      "10% Full"
-    ]
+    "occupancy": {
+      "7am": "10% Full",
+      "11am": "20% Full",
+      "2pm": "20% Full",
+      "4pm": "10% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Vet Med East Lot",
     "lotNumber": "421",
     "totalSpaces": "170",
-    "times": [
-      "44% Full",
-      "67% Full",
-      "65% Full",
-      "83% Full"
-    ]
+    "occupancy": {
+      "7am": "44% Full",
+      "11am": "67% Full",
+      "2pm": "65% Full",
+      "4pm": "83% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Vet Med West Lot",
     "lotNumber": "422",
     "totalSpaces": "113",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Vet Ln. Lot",
     "lotNumber": "423",
     "totalSpaces": "6",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "LADDL  Lot",
     "lotNumber": "424",
     "totalSpaces": "57",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Warehouse Ln. Lot",
     "lotNumber": "425",
     "totalSpaces": "41",
-    "times": [
-      "13% Full",
-      "30% Full",
-      "20% Full",
-      "20% Full"
-    ]
+    "occupancy": {
+      "7am": "13% Full",
+      "11am": "30% Full",
+      "2pm": "20% Full",
+      "4pm": "20% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "University Stores B Lot",
     "lotNumber": "430",
     "totalSpaces": "42",
-    "times": [
-      "20% Full",
-      "20% Full",
-      "20% Full",
-      "10% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "20% Full",
+      "2pm": "20% Full",
+      "4pm": "10% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "U-High North B Lot",
     "lotNumber": "510",
     "totalSpaces": "88",
-    "times": [
-      "87% Full",
-      "98% Full",
-      "99% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "87% Full",
+      "11am": "98% Full",
+      "2pm": "99% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "U-High North B Lot",
     "lotNumber": "510",
     "totalSpaces": "88",
-    "times": [
-      "87% Full",
-      "98% Full",
-      "99% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "87% Full",
+      "11am": "98% Full",
+      "2pm": "99% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "U-High South B Lot",
     "lotNumber": "511",
     "totalSpaces": "24",
-    "times": [
-      "0% Full",
-      "21% Full",
-      "54% Full",
-      "37% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "21% Full",
+      "2pm": "54% Full",
+      "4pm": "37% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Early Learning Center B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "23",
-    "times": [
-      "54% Full",
-      "91% Full",
-      "77% Full",
-      "86% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "91% Full",
+      "2pm": "77% Full",
+      "4pm": "86% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Nelson Memorial B Lot",
     "lotNumber": "603",
     "totalSpaces": "29",
-    "times": [
-      "10% Full",
-      "52% Full",
-      "45% Full",
-      "52% Full"
-    ]
+    "occupancy": {
+      "7am": "10% Full",
+      "11am": "52% Full",
+      "2pm": "45% Full",
+      "4pm": "52% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Tiger Band Hall B Lot",
     "lotNumber": "214 B",
     "totalSpaces": "6",
-    "times": [
-      "100% Full",
-      "20% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "20% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "The 5 B Lot",
     "lotNumber": "221 A",
     "totalSpaces": "24",
-    "times": [
-      "95% Full",
-      "92% Full",
-      "95% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "95% Full",
+      "11am": "92% Full",
+      "2pm": "95% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Cogen Lot",
     "lotNumber": "301 A",
     "totalSpaces": "26",
-    "times": [
-      "54% Full",
-      "100% Full",
-      "88% Full",
-      "73% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "100% Full",
+      "2pm": "88% Full",
+      "4pm": "73% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Electrical Engineering B Lot",
     "lotNumber": "304 A",
     "totalSpaces": "117",
-    "times": [
-      "41% Full",
-      "95% Full",
-      "96% Full",
-      "73% Full"
-    ]
+    "occupancy": {
+      "7am": "41% Full",
+      "11am": "95% Full",
+      "2pm": "96% Full",
+      "4pm": "73% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Facility Services Lot (Fieldhouse Dr.)",
     "lotNumber": "304 C",
     "totalSpaces": "75",
-    "times": [
-      "80% Full",
-      "97% Full",
-      "99% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "80% Full",
+      "11am": "97% Full",
+      "2pm": "99% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Sturgis Hall B Lot (312A)",
     "lotNumber": "312 B",
     "totalSpaces": "70",
-    "times": [
-      "5% Full",
-      "92% Full",
-      "92% Full",
-      "77% Full"
-    ]
+    "occupancy": {
+      "7am": "5% Full",
+      "11am": "92% Full",
+      "2pm": "92% Full",
+      "4pm": "77% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "E.B. Doran Hall Lot",
     "lotNumber": "312 D",
     "totalSpaces": "44",
-    "times": [
-      "16% Full",
-      "100% Full",
-      "95% Full",
-      "74% Full"
-    ]
+    "occupancy": {
+      "7am": "16% Full",
+      "11am": "100% Full",
+      "2pm": "95% Full",
+      "4pm": "74% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "ECE B Lot",
     "lotNumber": "402 B",
     "totalSpaces": "60",
-    "times": [
-      "2% Full",
-      "6% Full",
-      "5% Full",
-      "8% Full"
-    ]
+    "occupancy": {
+      "7am": "2% Full",
+      "11am": "6% Full",
+      "2pm": "5% Full",
+      "4pm": "8% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "E.B Doran Hall (Gravel) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "19",
-    "times": [
-      "16% Full",
-      "100% Full",
-      "95% Full",
-      "74% Full"
-    ]
+    "occupancy": {
+      "7am": "16% Full",
+      "11am": "100% Full",
+      "2pm": "95% Full",
+      "4pm": "74% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "South Quad B (Gravel) Lot",
     "lotNumber": "403 A",
     "totalSpaces": "55",
-    "times": [
-      "1% Full",
-      "14% Full",
-      "7% Full",
-      "7% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "14% Full",
+      "2pm": "7% Full",
+      "4pm": "7% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Engineering Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "56",
-    "times": [
-      "14% Full",
-      "28% Full",
-      "39% Full",
-      "23% Full"
-    ]
+    "occupancy": {
+      "7am": "14% Full",
+      "11am": "28% Full",
+      "2pm": "39% Full",
+      "4pm": "23% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Fieldhouse Dr. (Alaska St.) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "19",
-    "times": [
-      "37% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "37% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Fieldhouse Dr. (S. Campus Dr.) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "45",
-    "times": [
-      "64% Full",
-      "96% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "64% Full",
+      "11am": "96% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Forestry Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "15",
-    "times": [
-      "86% Full",
-      "86% Full",
-      "86% Full",
-      "86% Full"
-    ]
+    "occupancy": {
+      "7am": "86% Full",
+      "11am": "86% Full",
+      "2pm": "86% Full",
+      "4pm": "86% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Hospital Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "16",
-    "times": [
-      "0% Full",
-      "0% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "0% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Infirmary Rd. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "38",
-    "times": [
-      "27% Full",
-      "100% Full",
-      "87% Full",
-      "87% Full"
-    ]
+    "occupancy": {
+      "7am": "27% Full",
+      "11am": "100% Full",
+      "2pm": "87% Full",
+      "4pm": "87% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Tower Dr. B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "58",
-    "times": [
-      "75% Full",
-      "80% Full",
-      "80% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "75% Full",
+      "11am": "80% Full",
+      "2pm": "80% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Parade Grounds North Lot",
     "lotNumber": "On Street",
     "totalSpaces": "40",
-    "times": [
-      "57% Full",
-      "95% Full",
-      "90% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "57% Full",
+      "11am": "95% Full",
+      "2pm": "90% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Parade Grounds South Lot",
     "lotNumber": "On Street",
     "totalSpaces": "61",
-    "times": [
-      "53% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "53% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "North Stadium Dr. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "27",
-    "times": [
-      "22% Full",
-      "85% Full",
-      "93% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "22% Full",
+      "11am": "85% Full",
+      "2pm": "93% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Monday",
     "lotName": "Parker Coliseum B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "37",
-    "times": [
-      "20% Full",
-      "92% Full",
-      "100% Full",
-      "92% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "92% Full",
+      "2pm": "100% Full",
+      "4pm": "92% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "West State St. Lot",
     "lotNumber": "218",
     "totalSpaces": "55",
-    "times": [
-      "69% Full",
-      "85% Full",
-      "80% Full",
-      "65% Full"
-    ]
+    "occupancy": {
+      "7am": "69% Full",
+      "11am": "85% Full",
+      "2pm": "80% Full",
+      "4pm": "65% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Donahue St. Lot",
     "lotNumber": "220",
     "totalSpaces": "18",
-    "times": [
-      "16% Full",
-      "94% Full",
-      "94% Full",
-      "77% Full"
-    ]
+    "occupancy": {
+      "7am": "16% Full",
+      "11am": "94% Full",
+      "2pm": "94% Full",
+      "4pm": "77% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Old Band Hall (Gravel) Lot",
     "lotNumber": "222",
     "totalSpaces": "26",
-    "times": [
-      "65% Full",
-      "11% Full",
-      "19% Full",
-      "11% Full"
-    ]
+    "occupancy": {
+      "7am": "65% Full",
+      "11am": "11% Full",
+      "2pm": "19% Full",
+      "4pm": "11% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "312A Gravel Lot",
     "lotNumber": "312",
     "totalSpaces": "30",
-    "times": [
-      "63% Full",
-      "100% Full",
-      "100% Full",
-      "80% Full"
-    ]
+    "occupancy": {
+      "7am": "63% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "80% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Public Safety B Lot",
     "lotNumber": "400",
     "totalSpaces": "42",
-    "times": [
-      "30% Full",
-      "45% Full",
-      "57% Full",
-      "40% Full"
-    ]
+    "occupancy": {
+      "7am": "30% Full",
+      "11am": "45% Full",
+      "2pm": "57% Full",
+      "4pm": "40% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Hansen's Lot",
     "lotNumber": "420",
     "totalSpaces": "10",
-    "times": [
-      "40% Full",
-      "40% Full",
-      "57% Full",
-      "40% Full"
-    ]
+    "occupancy": {
+      "7am": "40% Full",
+      "11am": "40% Full",
+      "2pm": "57% Full",
+      "4pm": "40% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Vet Med East Lot",
     "lotNumber": "421",
     "totalSpaces": "170",
-    "times": [
-      "21% Full",
-      "77% Full",
-      "74% Full",
-      "67% Full"
-    ]
+    "occupancy": {
+      "7am": "21% Full",
+      "11am": "77% Full",
+      "2pm": "74% Full",
+      "4pm": "67% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Vet Med West Lot",
     "lotNumber": "422",
     "totalSpaces": "113",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Vet Ln. Lot",
     "lotNumber": "423",
     "totalSpaces": "6",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "LADDL  Lot",
     "lotNumber": "424",
     "totalSpaces": "57",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Warehouse Ln. Lot",
     "lotNumber": "425",
     "totalSpaces": "41",
-    "times": [
-      "13% Full",
-      "30% Full",
-      "40% Full",
-      "30% Full"
-    ]
+    "occupancy": {
+      "7am": "13% Full",
+      "11am": "30% Full",
+      "2pm": "40% Full",
+      "4pm": "30% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "University Stores B Lot",
     "lotNumber": "430",
     "totalSpaces": "42",
-    "times": [
-      "20% Full",
-      "20% Full",
-      "30% Full",
-      "30% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "20% Full",
+      "2pm": "30% Full",
+      "4pm": "30% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "U-High North B Lot",
     "lotNumber": "510",
     "totalSpaces": "88",
-    "times": [
-      "72% Full",
-      "72% Full",
-      "72% Full",
-      "72% Full"
-    ]
+    "occupancy": {
+      "7am": "72% Full",
+      "11am": "72% Full",
+      "2pm": "72% Full",
+      "4pm": "72% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "U-High South  B Lot",
     "lotNumber": "511",
     "totalSpaces": "24",
-    "times": [
-      "100% Full",
-      "54% Full",
-      "50% Full",
-      "45% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "54% Full",
+      "2pm": "50% Full",
+      "4pm": "45% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Early Learning Center B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "23",
-    "times": [
-      "54% Full",
-      "91% Full",
-      "77% Full",
-      "86% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "91% Full",
+      "2pm": "77% Full",
+      "4pm": "86% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Nelson Memorial Lot",
     "lotNumber": "603",
     "totalSpaces": "29",
-    "times": [
-      "31% Full",
-      "52% Full",
-      "58% Full",
-      "44% Full"
-    ]
+    "occupancy": {
+      "7am": "31% Full",
+      "11am": "52% Full",
+      "2pm": "58% Full",
+      "4pm": "44% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Tiger Band Hall B Lot",
     "lotNumber": "214 B",
     "totalSpaces": "6",
-    "times": [
-      "16% Full",
-      "0% Full",
-      "16% Full",
-      "16% Full"
-    ]
+    "occupancy": {
+      "7am": "16% Full",
+      "11am": "0% Full",
+      "2pm": "16% Full",
+      "4pm": "16% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "The 5 B Lot",
     "lotNumber": "221 A",
     "totalSpaces": "24",
-    "times": [
-      "95% Full",
-      "92% Full",
-      "92% Full",
-      "65% Full"
-    ]
+    "occupancy": {
+      "7am": "95% Full",
+      "11am": "92% Full",
+      "2pm": "92% Full",
+      "4pm": "65% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Cogen Hall Lot",
     "lotNumber": "301 A",
     "totalSpaces": "26",
-    "times": [
-      "30% Full",
-      "96% Full",
-      "92% Full",
-      "65% Full"
-    ]
+    "occupancy": {
+      "7am": "30% Full",
+      "11am": "96% Full",
+      "2pm": "92% Full",
+      "4pm": "65% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Electrical Engineering Lot",
     "lotNumber": "304 C",
     "totalSpaces": "117",
-    "times": [
-      "35% Full",
-      "94% Full",
-      "93% Full",
-      "70% Full"
-    ]
+    "occupancy": {
+      "7am": "35% Full",
+      "11am": "94% Full",
+      "2pm": "93% Full",
+      "4pm": "70% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Facility Services B Lot (Fieldhouse Dr.)",
     "lotNumber": "312 B",
     "totalSpaces": "75",
-    "times": [
-      "84% Full",
-      "92% Full",
-      "89% Full",
-      "95% Full"
-    ]
+    "occupancy": {
+      "7am": "84% Full",
+      "11am": "92% Full",
+      "2pm": "89% Full",
+      "4pm": "95% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Sturgis Hall B Lot",
     "lotNumber": "312 D",
     "totalSpaces": "70",
-    "times": [
-      "15% Full",
-      "94% Full",
-      "98% Full",
-      "88% Full"
-    ]
+    "occupancy": {
+      "7am": "15% Full",
+      "11am": "94% Full",
+      "2pm": "98% Full",
+      "4pm": "88% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "E.B. Doran Hall Lot",
     "lotNumber": "402 B",
     "totalSpaces": "44",
-    "times": [
-      "16% Full",
-      "100% Full",
-      "95% Full",
-      "74% Full"
-    ]
+    "occupancy": {
+      "7am": "16% Full",
+      "11am": "100% Full",
+      "2pm": "95% Full",
+      "4pm": "74% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "ECE B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "60",
-    "times": [
-      "3% Full",
-      "10% Full",
-      "8% Full",
-      "3% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "10% Full",
+      "2pm": "8% Full",
+      "4pm": "3% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "E.B.Doran Hall (Gravel) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "19",
-    "times": [
-      "16% Full",
-      "100% Full",
-      "95% Full",
-      "74% Full"
-    ]
+    "occupancy": {
+      "7am": "16% Full",
+      "11am": "100% Full",
+      "2pm": "95% Full",
+      "4pm": "74% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "South Quad B Lot",
     "lotNumber": "403 A",
     "totalSpaces": "55",
-    "times": [
-      "1% Full",
-      "14% Full",
-      "7% Full",
-      "7% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "14% Full",
+      "2pm": "7% Full",
+      "4pm": "7% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Engineering Ln. B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "56",
-    "times": [
-      "14% Full",
-      "28% Full",
-      "39% Full",
-      "23% Full"
-    ]
+    "occupancy": {
+      "7am": "14% Full",
+      "11am": "28% Full",
+      "2pm": "39% Full",
+      "4pm": "23% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Fieldhouse Dr. (Alaska St.) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "19",
-    "times": [
-      "31% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "31% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Fieldhouse Dr. (S. Campus Dr.) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "45",
-    "times": [
-      "97% Full",
-      "100% Full",
-      "95% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "97% Full",
+      "11am": "100% Full",
+      "2pm": "95% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Forestry Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "15",
-    "times": [
-      "53% Full",
-      "66% Full",
-      "73% Full",
-      "66% Full"
-    ]
+    "occupancy": {
+      "7am": "53% Full",
+      "11am": "66% Full",
+      "2pm": "73% Full",
+      "4pm": "66% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Hospital Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "16",
-    "times": [
-      "10% Full",
-      "10% Full",
-      "80% Full",
-      "83% Full"
-    ]
+    "occupancy": {
+      "7am": "10% Full",
+      "11am": "10% Full",
+      "2pm": "80% Full",
+      "4pm": "83% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Infirmary Rd. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "38",
-    "times": [
-      "5% Full",
-      "81% Full",
-      "89% Full",
-      "81% Full"
-    ]
+    "occupancy": {
+      "7am": "5% Full",
+      "11am": "81% Full",
+      "2pm": "89% Full",
+      "4pm": "81% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Tower Dr. B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "58",
-    "times": [
-      "68% Full",
-      "74% Full",
-      "75% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "68% Full",
+      "11am": "74% Full",
+      "2pm": "75% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Parade Grounds North Lot",
     "lotNumber": "On Street",
     "totalSpaces": "40",
-    "times": [
-      "50% Full",
-      "97% Full",
-      "97% Full",
-      "92% Full"
-    ]
+    "occupancy": {
+      "7am": "50% Full",
+      "11am": "97% Full",
+      "2pm": "97% Full",
+      "4pm": "92% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Parade Grounds South Lot",
     "lotNumber": "On Street",
     "totalSpaces": "61",
-    "times": [
-      "21% Full",
-      "100% Full",
-      "98% Full",
-      "95% Full"
-    ]
+    "occupancy": {
+      "7am": "21% Full",
+      "11am": "100% Full",
+      "2pm": "98% Full",
+      "4pm": "95% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "North Stadium Dr. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "27",
-    "times": [
-      "44% Full",
-      "66% Full",
-      "81% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "44% Full",
+      "11am": "66% Full",
+      "2pm": "81% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Tuesday",
     "lotName": "Parker Coliseum B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "37",
-    "times": [
-      "5% Full",
-      "100% Full",
-      "100% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "5% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "West State St. Lot",
     "lotNumber": "218",
     "totalSpaces": "55",
-    "times": [
-      "78% Full",
-      "85% Full",
-      "76% Full",
-      "73% Full"
-    ]
+    "occupancy": {
+      "7am": "78% Full",
+      "11am": "85% Full",
+      "2pm": "76% Full",
+      "4pm": "73% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Donahue Street Lot",
     "lotNumber": "220",
     "totalSpaces": "18",
-    "times": [
-      "11% Full",
-      "100% Full",
-      "33% Full",
-      "78% Full"
-    ]
+    "occupancy": {
+      "7am": "11% Full",
+      "11am": "100% Full",
+      "2pm": "33% Full",
+      "4pm": "78% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Old Band Hall (Gravel) Lot",
     "lotNumber": "222",
     "totalSpaces": "26",
-    "times": [
-      "73% Full",
-      "15% Full",
-      "8% Full",
-      "15% Full"
-    ]
+    "occupancy": {
+      "7am": "73% Full",
+      "11am": "15% Full",
+      "2pm": "8% Full",
+      "4pm": "15% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "312 A (Gravel)",
     "lotNumber": "312",
     "totalSpaces": "30",
-    "times": [
-      "13% Full",
-      "27% Full",
-      "100% Full",
-      "73% Full"
-    ]
+    "occupancy": {
+      "7am": "13% Full",
+      "11am": "27% Full",
+      "2pm": "100% Full",
+      "4pm": "73% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Public Safety Lot",
     "lotNumber": "400",
     "totalSpaces": "42",
-    "times": [
-      "19% Full",
-      "19% Full",
-      "21% Full",
-      "21% Full"
-    ]
+    "occupancy": {
+      "7am": "19% Full",
+      "11am": "19% Full",
+      "2pm": "21% Full",
+      "4pm": "21% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Hansen's Lot",
     "lotNumber": "420",
     "totalSpaces": "10",
-    "times": [
-      "20% Full",
-      "20% Full",
-      "20% Full",
-      "10% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "20% Full",
+      "2pm": "20% Full",
+      "4pm": "10% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Vet Med East Lot",
     "lotNumber": "421",
     "totalSpaces": "170",
-    "times": [
-      "21% Full",
-      "25% Full",
-      "75% Full",
-      "61% Full"
-    ]
+    "occupancy": {
+      "7am": "21% Full",
+      "11am": "25% Full",
+      "2pm": "75% Full",
+      "4pm": "61% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Vet Med West Lot",
     "lotNumber": "422",
     "totalSpaces": "113",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Vet Ln. Lot",
     "lotNumber": "423",
     "totalSpaces": "6",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "LADDL Lot",
     "lotNumber": "424",
     "totalSpaces": "57",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Warehouse Ln. Lot",
     "lotNumber": "425",
     "totalSpaces": "41",
-    "times": [
-      "13% Full",
-      "30% Full",
-      "50% Full",
-      "60% Full"
-    ]
+    "occupancy": {
+      "7am": "13% Full",
+      "11am": "30% Full",
+      "2pm": "50% Full",
+      "4pm": "60% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "University Stores B Lot",
     "lotNumber": "430",
     "totalSpaces": "42",
-    "times": [
-      "20% Full",
-      "30% Full",
-      "30% Full",
-      "25% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "30% Full",
+      "2pm": "30% Full",
+      "4pm": "25% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "U-High North B Lot",
     "lotNumber": "510",
     "totalSpaces": "88",
-    "times": [
-      "93% Full",
-      "99% Full",
-      "99% Full",
-      "98% Full"
-    ]
+    "occupancy": {
+      "7am": "93% Full",
+      "11am": "99% Full",
+      "2pm": "99% Full",
+      "4pm": "98% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "U-High South B Lot",
     "lotNumber": "511",
     "totalSpaces": "24",
-    "times": [
-      "79% Full",
-      "71% Full",
-      "75% Full",
-      "46% Full"
-    ]
+    "occupancy": {
+      "7am": "79% Full",
+      "11am": "71% Full",
+      "2pm": "75% Full",
+      "4pm": "46% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Early Learning Center B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "23",
-    "times": [
-      "54% Full",
-      "91% Full",
-      "77% Full",
-      "86% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "91% Full",
+      "2pm": "77% Full",
+      "4pm": "86% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Nelson Memorial B Lot",
     "lotNumber": "603",
     "totalSpaces": "29",
-    "times": [
-      "31% Full",
-      "52% Full",
-      "58% Full",
-      "44% Full"
-    ]
+    "occupancy": {
+      "7am": "31% Full",
+      "11am": "52% Full",
+      "2pm": "58% Full",
+      "4pm": "44% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Tiger Band Hall B Lot",
     "lotNumber": "214 B",
     "totalSpaces": "6",
-    "times": [
-      "17% Full",
-      "0% Full",
-      "100% Full",
-      "83% Full"
-    ]
+    "occupancy": {
+      "7am": "17% Full",
+      "11am": "0% Full",
+      "2pm": "100% Full",
+      "4pm": "83% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "The 5 B Lot",
     "lotNumber": "221 A",
     "totalSpaces": "24",
-    "times": [
-      "95% Full",
-      "92% Full",
-      "95% Full",
-      "82% Full"
-    ]
+    "occupancy": {
+      "7am": "95% Full",
+      "11am": "92% Full",
+      "2pm": "95% Full",
+      "4pm": "82% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Cogen Lot",
     "lotNumber": "301 A",
     "totalSpaces": "26",
-    "times": [
-      "65% Full",
-      "88% Full",
-      "96% Full",
-      "62% Full"
-    ]
+    "occupancy": {
+      "7am": "65% Full",
+      "11am": "88% Full",
+      "2pm": "96% Full",
+      "4pm": "62% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Electrical Engineering B Lot",
     "lotNumber": "304 A",
     "totalSpaces": "117",
-    "times": [
-      "40% Full",
-      "94% Full",
-      "97% Full",
-      "76% Full"
-    ]
+    "occupancy": {
+      "7am": "40% Full",
+      "11am": "94% Full",
+      "2pm": "97% Full",
+      "4pm": "76% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Facility Services Lot (Fieldhouse Dr.)",
     "lotNumber": "304 C",
     "totalSpaces": "75",
-    "times": [
-      "67% Full",
-      "85% Full",
-      "89% Full",
-      "84% Full"
-    ]
+    "occupancy": {
+      "7am": "67% Full",
+      "11am": "85% Full",
+      "2pm": "89% Full",
+      "4pm": "84% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Sturgis Hall B Lot (312A)",
     "lotNumber": "312 B",
     "totalSpaces": "70",
-    "times": [
-      "14% Full",
-      "94% Full",
-      "97% Full",
-      "87% Full"
-    ]
+    "occupancy": {
+      "7am": "14% Full",
+      "11am": "94% Full",
+      "2pm": "97% Full",
+      "4pm": "87% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "E.B. Doran Hall Lot",
     "lotNumber": "312 D",
     "totalSpaces": "44",
-    "times": [
-      "32% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "32% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "ECE B Lot",
     "lotNumber": "402 B",
     "totalSpaces": "60",
-    "times": [
-      "32% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "32% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "E.B Doran Hall (Gravel) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "19",
-    "times": [
-      "20% Full",
-      "80% Full",
-      "90% Full",
-      "75% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "80% Full",
+      "2pm": "90% Full",
+      "4pm": "75% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "South Quad B (Gravel) Lot",
     "lotNumber": "403 A",
     "totalSpaces": "55",
-    "times": [
-      "2% Full",
-      "4% Full",
-      "5% Full",
-      "7% Full"
-    ]
+    "occupancy": {
+      "7am": "2% Full",
+      "11am": "4% Full",
+      "2pm": "5% Full",
+      "4pm": "7% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Engineering Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "56",
-    "times": [
-      "14% Full",
-      "28% Full",
-      "39% Full",
-      "23% Full"
-    ]
+    "occupancy": {
+      "7am": "14% Full",
+      "11am": "28% Full",
+      "2pm": "39% Full",
+      "4pm": "23% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Fieldhouse Dr. (Alaska St.) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "19",
-    "times": [
-      "21% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "21% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Fieldhouse Dr. (S. Campus Dr.) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "45",
-    "times": [
-      "98% Full",
-      "100% Full",
-      "98% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "98% Full",
+      "11am": "100% Full",
+      "2pm": "98% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Forestry Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "15",
-    "times": [
-      "87% Full",
-      "93% Full",
-      "93% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "87% Full",
+      "11am": "93% Full",
+      "2pm": "93% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Hospital Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "16",
-    "times": [
-      "0% Full",
-      "17% Full",
-      "83% Full",
-      "83% Full"
-    ]
+    "occupancy": {
+      "7am": "0% Full",
+      "11am": "17% Full",
+      "2pm": "83% Full",
+      "4pm": "83% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Infirmary Rd. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "38",
-    "times": [
-      "3% Full",
-      "92% Full",
-      "97% Full",
-      "95% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "92% Full",
+      "2pm": "97% Full",
+      "4pm": "95% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Tower Dr. B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "58",
-    "times": [
-      "78% Full",
-      "80% Full",
-      "95% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "78% Full",
+      "11am": "80% Full",
+      "2pm": "95% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Parade Grounds North Lot",
     "lotNumber": "On Street",
     "totalSpaces": "40",
-    "times": [
-      "50% Full",
-      "100% Full",
-      "98% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "50% Full",
+      "11am": "100% Full",
+      "2pm": "98% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Parade Grounds South Lot",
     "lotNumber": "On Street",
     "totalSpaces": "61",
-    "times": [
-      "31% Full",
-      "100% Full",
-      "100% Full",
-      "90% Full"
-    ]
+    "occupancy": {
+      "7am": "31% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "90% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "North Stadium Dr. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "27",
-    "times": [
-      "67% Full",
-      "74% Full",
-      "56% Full",
-      "41% Full"
-    ]
+    "occupancy": {
+      "7am": "67% Full",
+      "11am": "74% Full",
+      "2pm": "56% Full",
+      "4pm": "41% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Wednesday",
     "lotName": "Parker Coliseum B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "37",
-    "times": [
-      "76% Full",
-      "100% Full",
-      "100% Full",
-      "87% Full"
-    ]
+    "occupancy": {
+      "7am": "76% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "87% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "West State St. Lot",
     "lotNumber": "218",
     "totalSpaces": "55",
-    "times": [
-      "71% Full",
-      "80% Full",
-      "78% Full",
-      "69% Full"
-    ]
+    "occupancy": {
+      "7am": "71% Full",
+      "11am": "80% Full",
+      "2pm": "78% Full",
+      "4pm": "69% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Donahue Street Lot",
     "lotNumber": "220",
     "totalSpaces": "18",
-    "times": [
-      "39% Full",
-      "94% Full",
-      "78% Full",
-      "56% Full"
-    ]
+    "occupancy": {
+      "7am": "39% Full",
+      "11am": "94% Full",
+      "2pm": "78% Full",
+      "4pm": "56% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Old Band Hall (Gravel) Lot",
     "lotNumber": "222",
     "totalSpaces": "26",
-    "times": [
-      "23% Full",
-      "100% Full",
-      "88% Full",
-      "50% Full"
-    ]
+    "occupancy": {
+      "7am": "23% Full",
+      "11am": "100% Full",
+      "2pm": "88% Full",
+      "4pm": "50% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "312 A (Gravel)",
     "lotNumber": "312",
     "totalSpaces": "30",
-    "times": [
-      "53% Full",
-      "73% Full",
-      "100% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "53% Full",
+      "11am": "73% Full",
+      "2pm": "100% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Public Safety Lot",
     "lotNumber": "400",
     "totalSpaces": "42",
-    "times": [
-      "19% Full",
-      "19% Full",
-      "21% Full",
-      "21% Full"
-    ]
+    "occupancy": {
+      "7am": "19% Full",
+      "11am": "19% Full",
+      "2pm": "21% Full",
+      "4pm": "21% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Hansen's Lot",
     "lotNumber": "420",
     "totalSpaces": "10",
-    "times": [
-      "30% Full",
-      "50% Full",
-      "40% Full",
-      "20% Full"
-    ]
+    "occupancy": {
+      "7am": "30% Full",
+      "11am": "50% Full",
+      "2pm": "40% Full",
+      "4pm": "20% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Vet Med East Lot",
     "lotNumber": "421",
     "totalSpaces": "170",
-    "times": [
-      "24% Full",
-      "77% Full",
-      "75% Full",
-      "68% Full"
-    ]
+    "occupancy": {
+      "7am": "24% Full",
+      "11am": "77% Full",
+      "2pm": "75% Full",
+      "4pm": "68% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Vet Med West Lot",
     "lotNumber": "422",
     "totalSpaces": "113",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Vet Ln. Lot",
     "lotNumber": "423",
     "totalSpaces": "6",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "LADDL Lot",
     "lotNumber": "424",
     "totalSpaces": "57",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Warehouse Ln. Lot",
     "lotNumber": "425",
     "totalSpaces": "41",
-    "times": [
-      "13% Full",
-      "30% Full",
-      "52% Full",
-      "20% Full"
-    ]
+    "occupancy": {
+      "7am": "13% Full",
+      "11am": "30% Full",
+      "2pm": "52% Full",
+      "4pm": "20% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "University Stores B Lot",
     "lotNumber": "430",
     "totalSpaces": "42",
-    "times": [
-      "20% Full",
-      "30% Full",
-      "52% Full",
-      "20% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "30% Full",
+      "2pm": "52% Full",
+      "4pm": "20% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "U-High North B Lot",
     "lotNumber": "510",
     "totalSpaces": "88",
-    "times": [
-      "92% Full",
-      "97% Full",
-      "97% Full",
-      "95% Full"
-    ]
+    "occupancy": {
+      "7am": "92% Full",
+      "11am": "97% Full",
+      "2pm": "97% Full",
+      "4pm": "95% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "U-High South B Lot",
     "lotNumber": "511",
     "totalSpaces": "24",
-    "times": [
-      "20% Full",
-      "50% Full",
-      "58% Full",
-      "79% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "50% Full",
+      "2pm": "58% Full",
+      "4pm": "79% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Early Learning Center B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "23",
-    "times": [
-      "54% Full",
-      "91% Full",
-      "77% Full",
-      "86% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "91% Full",
+      "2pm": "77% Full",
+      "4pm": "86% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Nelson Memorial B Lot",
     "lotNumber": "603",
     "totalSpaces": "29",
-    "times": [
-      "10% Full",
-      "52% Full",
-      "45% Full",
-      "52% Full"
-    ]
+    "occupancy": {
+      "7am": "10% Full",
+      "11am": "52% Full",
+      "2pm": "45% Full",
+      "4pm": "52% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Tiger Band Hall B Lot",
     "lotNumber": "214 B",
     "totalSpaces": "6",
-    "times": [
-      "100% Full",
-      "20% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "20% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "The 5 B Lot",
     "lotNumber": "221 A",
     "totalSpaces": "24",
-    "times": [
-      "82% Full",
-      "92% Full",
-      "97% Full",
-      "90% Full"
-    ]
+    "occupancy": {
+      "7am": "82% Full",
+      "11am": "92% Full",
+      "2pm": "97% Full",
+      "4pm": "90% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Cogen Lot",
     "lotNumber": "301 A",
     "totalSpaces": "26",
-    "times": [
-      "46% Full",
-      "76% Full",
-      "76% Full",
-      "61% Full"
-    ]
+    "occupancy": {
+      "7am": "46% Full",
+      "11am": "76% Full",
+      "2pm": "76% Full",
+      "4pm": "61% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Electrical Engineering B Lot",
     "lotNumber": "304 A",
     "totalSpaces": "117",
-    "times": [
-      "35% Full",
-      "88% Full",
-      "88% Full",
-      "76% Full"
-    ]
+    "occupancy": {
+      "7am": "35% Full",
+      "11am": "88% Full",
+      "2pm": "88% Full",
+      "4pm": "76% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Facility Services Lot (Fieldhouse Dr.)",
     "lotNumber": "304 C",
     "totalSpaces": "75",
-    "times": [
-      "70% Full",
-      "76% Full",
-      "65% Full",
-      "74% Full"
-    ]
+    "occupancy": {
+      "7am": "70% Full",
+      "11am": "76% Full",
+      "2pm": "65% Full",
+      "4pm": "74% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Sturgis Hall B Lot (312A)",
     "lotNumber": "312 B",
     "totalSpaces": "70",
-    "times": [
-      "15% Full",
-      "100% Full",
-      "25% Full",
-      "25% Full"
-    ]
+    "occupancy": {
+      "7am": "15% Full",
+      "11am": "100% Full",
+      "2pm": "25% Full",
+      "4pm": "25% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "E.B. Doran Hall Lot",
     "lotNumber": "312 D",
     "totalSpaces": "44",
-    "times": [
-      "25% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "25% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "ECE B Lot",
     "lotNumber": "402 B",
     "totalSpaces": "60",
-    "times": [
-      "1% Full",
-      "6% Full",
-      "3% Full",
-      "1% Full"
-    ]
+    "occupancy": {
+      "7am": "1% Full",
+      "11am": "6% Full",
+      "2pm": "3% Full",
+      "4pm": "1% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "E.B Doran Hall (Gravel) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "19",
-    "times": [
-      "10% Full",
-      "25% Full",
-      "20% Full",
-      "20% Full"
-    ]
+    "occupancy": {
+      "7am": "10% Full",
+      "11am": "25% Full",
+      "2pm": "20% Full",
+      "4pm": "20% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "South Quad B (Gravel) Lot",
     "lotNumber": "403 A",
     "totalSpaces": "55",
-    "times": [
-      "10% Full",
-      "25% Full",
-      "20% Full",
-      "20% Full"
-    ]
+    "occupancy": {
+      "7am": "10% Full",
+      "11am": "25% Full",
+      "2pm": "20% Full",
+      "4pm": "20% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Engineering Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "56",
-    "times": [
-      "14% Full",
-      "28% Full",
-      "39% Full",
-      "23% Full"
-    ]
+    "occupancy": {
+      "7am": "14% Full",
+      "11am": "28% Full",
+      "2pm": "39% Full",
+      "4pm": "23% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Fieldhouse Dr. (Alaska St.) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "19",
-    "times": [
-      "84% Full",
-      "94% Full",
-      "89% Full",
-      "89% Full"
-    ]
+    "occupancy": {
+      "7am": "84% Full",
+      "11am": "94% Full",
+      "2pm": "89% Full",
+      "4pm": "89% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Fieldhouse Dr. (S. Campus Dr.) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "45",
-    "times": [
-      "95% Full",
-      "97% Full",
-      "93% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "95% Full",
+      "11am": "97% Full",
+      "2pm": "93% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Forestry Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "15",
-    "times": [
-      "46% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "46% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Hospital Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "16",
-    "times": [
-      "66% Full",
-      "100% Full",
-      "50% Full",
-      "50% Full"
-    ]
+    "occupancy": {
+      "7am": "66% Full",
+      "11am": "100% Full",
+      "2pm": "50% Full",
+      "4pm": "50% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Infirmary Rd. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "38",
-    "times": [
-      "47% Full",
-      "60% Full",
-      "76% Full",
-      "68% Full"
-    ]
+    "occupancy": {
+      "7am": "47% Full",
+      "11am": "60% Full",
+      "2pm": "76% Full",
+      "4pm": "68% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Tower Dr. B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "58",
-    "times": [
-      "70% Full",
-      "75% Full",
-      "85% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "70% Full",
+      "11am": "75% Full",
+      "2pm": "85% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Parade Grounds North Lot",
     "lotNumber": "On Street",
     "totalSpaces": "40",
-    "times": [
-      "57% Full",
-      "85% Full",
-      "93% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "57% Full",
+      "11am": "85% Full",
+      "2pm": "93% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Parade Grounds South Lot",
     "lotNumber": "On Street",
     "totalSpaces": "61",
-    "times": [
-      "53% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "53% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "North Stadium Dr. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "27",
-    "times": [
-      "22% Full",
-      "85% Full",
-      "93% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "22% Full",
+      "11am": "85% Full",
+      "2pm": "93% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Thursday",
     "lotName": "Parker Coliseum B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "37",
-    "times": [
-      "20% Full",
-      "92% Full",
-      "100% Full",
-      "92% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "92% Full",
+      "2pm": "100% Full",
+      "4pm": "92% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "West State St. Lot",
     "lotNumber": "218",
     "totalSpaces": "55",
-    "times": [
-      "75% Full",
-      "78% Full",
-      "85% Full",
-      "71% Full"
-    ]
+    "occupancy": {
+      "7am": "75% Full",
+      "11am": "78% Full",
+      "2pm": "85% Full",
+      "4pm": "71% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Donahue Street Lot",
     "lotNumber": "220",
     "totalSpaces": "18",
-    "times": [
-      "39% Full",
-      "94% Full",
-      "67% Full",
-      "39% Full"
-    ]
+    "occupancy": {
+      "7am": "39% Full",
+      "11am": "94% Full",
+      "2pm": "67% Full",
+      "4pm": "39% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Old Band Hall (Gravel) Lot",
     "lotNumber": "222",
     "totalSpaces": "26",
-    "times": [
-      "35% Full",
-      "100% Full",
-      "100% Full",
-      "73% Full"
-    ]
+    "occupancy": {
+      "7am": "35% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "73% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "312 A (Gravel)",
     "lotNumber": "312",
     "totalSpaces": "30",
-    "times": [
-      "90% Full",
-      "83% Full",
-      "77% Full",
-      "70% Full"
-    ]
+    "occupancy": {
+      "7am": "90% Full",
+      "11am": "83% Full",
+      "2pm": "77% Full",
+      "4pm": "70% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Public Safety Lot",
     "lotNumber": "400",
     "totalSpaces": "42",
-    "times": [
-      "19% Full",
-      "19% Full",
-      "21% Full",
-      "21% Full"
-    ]
+    "occupancy": {
+      "7am": "19% Full",
+      "11am": "19% Full",
+      "2pm": "21% Full",
+      "4pm": "21% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Hansen's Lot",
     "lotNumber": "420",
     "totalSpaces": "10",
-    "times": [
-      "20% Full",
-      "20% Full",
-      "10% Full",
-      "10% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "20% Full",
+      "2pm": "10% Full",
+      "4pm": "10% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Vet Med East Lot",
     "lotNumber": "421",
     "totalSpaces": "170",
-    "times": [
-      "19% Full",
-      "70% Full",
-      "70% Full",
-      "62% Full"
-    ]
+    "occupancy": {
+      "7am": "19% Full",
+      "11am": "70% Full",
+      "2pm": "70% Full",
+      "4pm": "62% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Vet Med West Lot",
     "lotNumber": "422",
     "totalSpaces": "113",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Vet Ln. Lot",
     "lotNumber": "423",
     "totalSpaces": "6",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "LADDL Lot",
     "lotNumber": "424",
     "totalSpaces": "57",
-    "times": [
-      "No Data",
-      "No Data",
-      "No Data",
-      "No Data"
-    ]
+    "occupancy": {
+      "7am": "No Data",
+      "11am": "No Data",
+      "2pm": "No Data",
+      "4pm": "No Data"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Warehouse Ln. Lot",
     "lotNumber": "425",
     "totalSpaces": "41",
-    "times": [
-      "13% Full",
-      "30% Full",
-      "45% Full",
-      "30% Full"
-    ]
+    "occupancy": {
+      "7am": "13% Full",
+      "11am": "30% Full",
+      "2pm": "45% Full",
+      "4pm": "30% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "University Stores B Lot",
     "lotNumber": "430",
     "totalSpaces": "42",
-    "times": [
-      "20% Full",
-      "30% Full",
-      "45% Full",
-      "30% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "30% Full",
+      "2pm": "45% Full",
+      "4pm": "30% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "U-High North B Lot",
     "lotNumber": "510",
     "totalSpaces": "88",
-    "times": [
-      "92% Full",
-      "94% Full",
-      "93% Full",
-      "94% Full"
-    ]
+    "occupancy": {
+      "7am": "92% Full",
+      "11am": "94% Full",
+      "2pm": "93% Full",
+      "4pm": "94% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "U-High South B Lot",
     "lotNumber": "511",
     "totalSpaces": "24",
-    "times": [
-      "25% Full",
-      "46% Full",
-      "67% Full",
-      "50% Full"
-    ]
+    "occupancy": {
+      "7am": "25% Full",
+      "11am": "46% Full",
+      "2pm": "67% Full",
+      "4pm": "50% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Early Learning Center B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "23",
-    "times": [
-      "54% Full",
-      "91% Full",
-      "77% Full",
-      "86% Full"
-    ]
+    "occupancy": {
+      "7am": "54% Full",
+      "11am": "91% Full",
+      "2pm": "77% Full",
+      "4pm": "86% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Nelson Memorial B Lot",
     "lotNumber": "603",
     "totalSpaces": "29",
-    "times": [
-      "31% Full",
-      "52% Full",
-      "58% Full",
-      "44% Full"
-    ]
+    "occupancy": {
+      "7am": "31% Full",
+      "11am": "52% Full",
+      "2pm": "58% Full",
+      "4pm": "44% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Tiger Band Hall B Lot",
     "lotNumber": "214 B",
     "totalSpaces": "6",
-    "times": [
-      "17% Full",
-      "0% Full",
-      "100% Full",
-      "83% Full"
-    ]
+    "occupancy": {
+      "7am": "17% Full",
+      "11am": "0% Full",
+      "2pm": "100% Full",
+      "4pm": "83% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "The 5 B Lot",
     "lotNumber": "221 A",
     "totalSpaces": "24",
-    "times": [
-      "82% Full",
-      "92% Full",
-      "97% Full",
-      "90% Full"
-    ]
+    "occupancy": {
+      "7am": "82% Full",
+      "11am": "92% Full",
+      "2pm": "97% Full",
+      "4pm": "90% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Cogen Lot",
     "lotNumber": "301 A",
     "totalSpaces": "26",
-    "times": [
-      "80% Full",
-      "62% Full",
-      "69% Full",
-      "65% Full"
-    ]
+    "occupancy": {
+      "7am": "80% Full",
+      "11am": "62% Full",
+      "2pm": "69% Full",
+      "4pm": "65% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Electrical Engineering B Lot",
     "lotNumber": "304 A",
     "totalSpaces": "117",
-    "times": [
-      "20% Full",
-      "88% Full",
-      "84% Full",
-      "63% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "88% Full",
+      "2pm": "84% Full",
+      "4pm": "63% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Facility Services Lot (Fieldhouse Dr.)",
     "lotNumber": "304 C",
     "totalSpaces": "75",
-    "times": [
-      "100% Full",
-      "91% Full",
-      "99% Full",
-      "92% Full"
-    ]
+    "occupancy": {
+      "7am": "100% Full",
+      "11am": "91% Full",
+      "2pm": "99% Full",
+      "4pm": "92% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Sturgis Hall B Lot (312A)",
     "lotNumber": "312 B",
     "totalSpaces": "70",
-    "times": [
-      "99% Full",
-      "97% Full",
-      "99% Full",
-      "97% Full"
-    ]
+    "occupancy": {
+      "7am": "99% Full",
+      "11am": "97% Full",
+      "2pm": "99% Full",
+      "4pm": "97% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "E.B. Doran Hall Lot",
     "lotNumber": "312 D",
     "totalSpaces": "44",
-    "times": [
-      "32% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "32% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "ECE B Lot",
     "lotNumber": "402 B",
     "totalSpaces": "60",
-    "times": [
-      "3% Full",
-      "8% Full",
-      "7% Full",
-      "5% Full"
-    ]
+    "occupancy": {
+      "7am": "3% Full",
+      "11am": "8% Full",
+      "2pm": "7% Full",
+      "4pm": "5% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "E.B Doran Hall (Gravel) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "19",
-    "times": [
-      "20% Full",
-      "80% Full",
-      "90% Full",
-      "75% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "80% Full",
+      "2pm": "90% Full",
+      "4pm": "75% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "South Quad B (Gravel) Lot",
     "lotNumber": "403 A",
     "totalSpaces": "55",
-    "times": [
-      "16% Full",
-      "78% Full",
-      "95% Full",
-      "33% Full"
-    ]
+    "occupancy": {
+      "7am": "16% Full",
+      "11am": "78% Full",
+      "2pm": "95% Full",
+      "4pm": "33% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Engineering Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "56",
-    "times": [
-      "14% Full",
-      "28% Full",
-      "39% Full",
-      "23% Full"
-    ]
+    "occupancy": {
+      "7am": "14% Full",
+      "11am": "28% Full",
+      "2pm": "39% Full",
+      "4pm": "23% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Fieldhouse Dr. (Alaska St.) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "19",
-    "times": [
-      "84% Full",
-      "94% Full",
-      "89% Full",
-      "89% Full"
-    ]
+    "occupancy": {
+      "7am": "84% Full",
+      "11am": "94% Full",
+      "2pm": "89% Full",
+      "4pm": "89% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Fieldhouse Dr. (S. Campus Dr.) Lot",
     "lotNumber": "On Street",
     "totalSpaces": "45",
-    "times": [
-      "95% Full",
-      "97% Full",
-      "93% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "95% Full",
+      "11am": "97% Full",
+      "2pm": "93% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Forestry Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "15",
-    "times": [
-      "46% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "46% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Hospital Ln. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "16",
-    "times": [
-      "66% Full",
-      "100% Full",
-      "50% Full",
-      "50% Full"
-    ]
+    "occupancy": {
+      "7am": "66% Full",
+      "11am": "100% Full",
+      "2pm": "50% Full",
+      "4pm": "50% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Infirmary Rd. Lot",
     "lotNumber": "On Street",
     "totalSpaces": "38",
-    "times": [
-      "47% Full",
-      "60% Full",
-      "76% Full",
-      "68% Full"
-    ]
+    "occupancy": {
+      "7am": "47% Full",
+      "11am": "60% Full",
+      "2pm": "76% Full",
+      "4pm": "68% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Tower Dr. B Lot",
     "lotNumber": "On Street",
     "totalSpaces": "58",
-    "times": [
-      "70% Full",
-      "75% Full",
-      "85% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "70% Full",
+      "11am": "75% Full",
+      "2pm": "85% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Parade Grounds North Lot",
     "lotNumber": "On street",
     "totalSpaces": "40",
-    "times": [
-      "57% Full",
-      "80% Full",
-      "90% Full",
-      "85% Full"
-    ]
+    "occupancy": {
+      "7am": "57% Full",
+      "11am": "80% Full",
+      "2pm": "90% Full",
+      "4pm": "85% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Parade Grounds South Lot",
     "lotNumber": "On street",
     "totalSpaces": "61",
-    "times": [
-      "53% Full",
-      "100% Full",
-      "100% Full",
-      "100% Full"
-    ]
+    "occupancy": {
+      "7am": "53% Full",
+      "11am": "100% Full",
+      "2pm": "100% Full",
+      "4pm": "100% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "North Stadium Dr. Lot",
     "lotNumber": "On street",
     "totalSpaces": "27",
-    "times": [
-      "22% Full",
-      "85% Full",
-      "93% Full",
-      "93% Full"
-    ]
+    "occupancy": {
+      "7am": "22% Full",
+      "11am": "85% Full",
+      "2pm": "93% Full",
+      "4pm": "93% Full"
+    }
   },
   {
+    "permitType": "B Permit Parking",
+    "dayOfWeek": "Friday",
     "lotName": "Parker Coliseum B Lot",
     "lotNumber": "On street",
     "totalSpaces": "37",
-    "times": [
-      "20% Full",
-      "92% Full",
-      "100% Full",
-      "92% Full"
-    ]
+    "occupancy": {
+      "7am": "20% Full",
+      "11am": "92% Full",
+      "2pm": "100% Full",
+      "4pm": "92% Full"
+    }
   }
 ]
