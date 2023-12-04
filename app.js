@@ -53,8 +53,41 @@ app.get('/admin', (req, res) => {
   res.render('admin');
 });
 app.get('/', (req, res) => {
-    res.send('Welcome to the Parking App!'); // You can also redirect to another page if needed
-  });
+   // Send HTML with a navbar linking to /admin and /availability
+   const homepageHtml = `
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Parking App</title>
+       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+   </head>
+   <body>
+       <nav class="navbar navbar-expand-lg navbar-light bg-light">
+           <a class="navbar-brand" href="/">Parking App</a>
+           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+               <span class="navbar-toggler-icon"></span>
+           </button>
+           <div class="collapse navbar-collapse" id="navbarNav">
+               <ul class="navbar-nav">
+                   <li class="nav-item active">
+                       <a class="nav-link" href="/availability">Availability</a>
+                   </li>
+                   <li class="nav-item">
+                       <a class="nav-link" href="/admin">Admin</a>
+                   </li>
+               </ul>
+           </div>
+       </nav>
+       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+       <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.1/dist/umd/popper.min.js"></script>
+       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+   </body>
+   </html>
+`;
+res.send(homepageHtml);
+});
 // Handle form submission for adding parking entries
 app.post('/add-entry', async (req, res) => {
   // Replace this with your logic to add the entry to the parking database
