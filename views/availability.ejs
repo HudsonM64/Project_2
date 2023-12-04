@@ -30,17 +30,29 @@
   <div class="container mt-4" id="availability-container">
     <!-- Content will be dynamically updated here -->
     <% const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']; %>
-    <% if (parkingData && parkingData.length > 0) { %>
-      <% parkingData.forEach((lot) => { %>
-        <div>
-          <p><strong>Lot Name:</strong> <%= lot.lotName %></p>
-          <p><strong>Lot Number:</strong> <%= lot.lotNumber %></p>
-          <p><strong>Total Spaces:</strong> <%= lot.totalSpaces %></p>
-          <p><strong>Times:</strong> <%= lot.times.join(', ') %></p>
-        </div>
-      <% }); %>
-    <% } else { %>
-      <p>No parking data available.</p>
+  <% if (parkingData && parkingData.length > 0) { %>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Lot Name</th>
+          <th>Lot Number</th>
+          <th>Total Spaces</th>
+          <th>Times</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% parkingData.forEach((lot) => { %>
+          <tr>
+            <td><%= lot.lotName %></td>
+            <td><%= lot.lotNumber %></td>
+            <td><%= lot.totalSpaces %></td>
+            <td><%= lot.times.join(', ') %></td>
+          </tr>
+        <% }); %>
+      </tbody>
+    </table>
+  <% } else { %>
+    <p>No parking data available.</p>
     <% } %>
   </div>
 
