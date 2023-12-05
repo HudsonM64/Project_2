@@ -11,59 +11,103 @@
 <body>
 
     <header>
-        <title>Admin Page</title>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="/">Parking App</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/availability">Availability</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/admin">Admin</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
     </header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="/">Parking App</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-              <li class="nav-item active">
-                  <a class="nav-link" href="/availability">Availability</a>
-              </li>
-              <li class="nav-item">
-                  <a class="nav-link" href="/admin">Admin</a>
-              </li>
-          </ul>
-      </div>
-  </nav>
-      </li>
-    </ul>
-  </div>
-</nav>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.1/dist/umd/popper.min.js"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <main>
+
+    <main class="container mt-4">
         <h1>Add Parking Entry</h1>
         <form action="/add-entry" method="post">
             <!-- Your form fields for adding entries -->
-            <label for="lotName">Lot Name:</label>
-            <input type="text" id="lotName" name="lotName" required>
-
-            <label for="lotNumber">Lot Number:</label>
-            <input type="text" id="lotNumber" name="lotNumber" required>
-
-            <label for="totalSpaces">Total Spaces:</label>
-            <input type="number" id="totalSpaces" name="totalSpaces" required>
-            <button type="submit">Add Entry</button>
+            <div class="form-group">
+                <label for="permitType">Permit Type:</label>
+                <input type="text" class="form-control" id="permitType" name="permitType" required>
+            </div>
+            <div class="form-group">
+                <label for="dayoftheWeek">Day of the Week:</label>
+                <input type="text" class="form-control" id="dayoftheWeek" name="dayoftheWeek" required>
+            </div>
+            <div class="form-group">
+                <label for="lotName">Lot Name:</label>
+                <input type="text" class="form-control" id="lotName" name="lotName" required>
+            </div>
+            <div class="form-group">
+                <label for="lotNumber">Lot Number:</label>
+                <input type="text" class="form-control" id="lotNumber" name="lotNumber" required>
+            </div>
+            <div class="form-group">
+                <label for="totalSpaces">Total Spaces:</label>
+                <input type="number" class="form-control" id="totalSpaces" name="totalSpaces" required>
+            </div>
+            <div class="form-group">
+                <label for="times">Times:</label>
+                <input type="text" class="form-control" id="times" name="times">
+            </div>
+            <button type="submit" class="btn btn-primary">Add Entry</button>
         </form>
 
         <hr>
 
-        <h1>Delete Parking Entry</h1>
-        <form action="/delete-entry" method="POST">
-            <label for="lotNumberDelete">Lot Number to Delete:</label>
-            <input type="text" id="lotNumberDelete" name="lotNumberDelete" required>
-            <button type="submit">Delete</button>
-          </form>
+        <h1>Delete Parking Spots</h1>
+        <% if (parkingData && parkingData.length > 0) { %>
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Permit Type</th>
+                <th>Day of The Week</th>
+                <th>Lot Name</th>
+                <th>Lot Number</th>
+                <th>Total Spaces</th>
+                <th>Times</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% parkingData.forEach((lot) => { %>
+                <tr class="permitType-<%= lot.permitType %>">
+                  <td><%= lot.permitType %></td>
+                  <td><%= lot.dayOfWeek %></td>
+                  <td><%= lot.lotName %></td>
+                  <td><%= lot.lotNumber %></td>
+                  <td><%= lot.totalSpaces %></td>
+                  <td><%= Object.values(lot.occupancy).join(', ') %></td>
+                  <td>
+                    <!-- Add a delete button with a form for each entry -->
+                    <form action="/delete-entry" method="post">
+                      <input type="hidden" name="lotNumberDelete" value="<%= lot.lotNumber %>">
+                      <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                  </td>
+                </tr>
+              <% }); %>
+            </tbody>
+          </table>
+        <% } else { %>
+          <p>No parking data available.</p>
+        <% } %>
     </main>
 
     <footer>
         <!-- Your footer content -->
     </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 </body>
 </html>

@@ -43,7 +43,7 @@ app.get('/availability', async (req, res) => {
     const parkingData = JSON.parse(rawdata);
 
     // Define permitTypes array
-    const permitTypes = ['Commuter', 'Residential', 'Greek', 'B Permit',];
+    const permitTypes = ['Commuter', 'Residential', 'Greek', 'B '];
 
     console.log('Fetched parking data:', parkingData);
 
@@ -55,8 +55,18 @@ app.get('/availability', async (req, res) => {
   }
 });
 // Render the "Admin" page
-app.get('/admin', (req, res) => {
-  res.render('admin');
+app.get('/admin', async (req, res) => {
+  try {
+    // Read the JSON file asynchronously
+    const rawdata = await fs.readFile('./parkingData.json', 'utf-8');
+    const parkingData = JSON.parse(rawdata);
+
+    // Render the template with the fetched data
+    res.render('admin', { parkingData });
+  } catch (error) {
+    console.error('Error reading JSON file:', error.message);
+    res.status(500).send('Internal Server Error');
+  }
 });
 app.get('/', (req, res) => {
    // Send HTML with a navbar linking to /admin and /availability

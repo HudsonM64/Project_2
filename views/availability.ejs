@@ -54,8 +54,7 @@
       </thead>
       <tbody>
         <% parkingData.forEach((lot) => { %>
-          <tr>
-            <tr class="permitType-<%= lot.permitType %>"></tr>
+          <tr class="permitType-<%= lot.permitType %>">
             <td><%= lot.permitType %></td>
             <td><%= lot.dayOfWeek %></td>
             <td><%= lot.lotName %></td>
@@ -71,37 +70,24 @@
     <% } %>
   </div>
   <script>
-    function filterByPermitType(selectedPermitType) {
-      // Construct the URL with the selected permit type
-      const url = `/availability?permitType=${encodeURIComponent(selectedPermitType)}`;
-      
-      // Redirect to the new URL
-      window.location.href = url;
-    }
-  
-    // Retrieve the selected permit type from the query parameter and set it in the dropdown
-    const urlParams = new URLSearchParams(window.location.search);
-    const selectedPermitType = urlParams.get('permitType');
-    document.getElementById('permitTypeDropdown').value = selectedPermitType;
-  
-    // Hide/show rows based on the selected permit type
-    function updateTableVisibility() {
-      const rows = document.querySelectorAll('.table tbody tr');
-      const selectedPermitType = document.getElementById('permitTypeDropdown').value;
-  
-      rows.forEach((row) => {
-        const permitType = row.querySelector('td:first-child').textContent.trim();
-        if (selectedPermitType === '' || permitType === selectedPermitType) {
-          row.style.display = ''; // Show the row
-        } else {
-          row.style.display = 'none'; // Hide the row
-        }
-      });
-    }
-  
-    // Call the function on page load and when the dropdown changes
-    document.addEventListener('DOMContentLoaded', updateTableVisibility);
-    document.getElementById('permitTypeDropdown').addEventListener('change', updateTableVisibility);
+  // Function to initialize the dropdown and handle redirecting
+function initializeDropdown() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const selectedPermitType = urlParams.get('permitType');
+
+  const dropdown = document.getElementById('permitTypeDropdown');
+  dropdown.value = selectedPermitType || '';
+
+  dropdown.addEventListener('change', function () {
+    const selectedPermitType = dropdown.value;
+    const url = `/availability?permitType=${encodeURIComponent(selectedPermitType)}`;
+    window.location.href = url;
+  });
+}
+// Call the function on page load
+document.addEventListener('DOMContentLoaded', initializeDropdown);
+</script>
+
   </script>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.1/dist/umd/popper.min.js"></script>
