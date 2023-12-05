@@ -28,12 +28,24 @@
 
   <!-- Availability page content -->
   <div class="container mt-4" id="availability-container">
+    <!-- Dropdown for Permit Types -->
+    <div class="form-group">
+      <label for="permitTypeDropdown">Select Permit Type:</label>
+      <select class="form-control" id="permitTypeDropdown" onchange="filterByPermitType(this.value)">
+        <option value="">All Permit Types</option>
+        <% permitTypes.forEach((permitType) => { %>
+          <option value="<%= permitType %>"><%= permitType %></option>
+        <% }); %>
+      </select>
+    </div>
     <!-- Content will be dynamically updated here -->
-    <% const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']; %>
+    <% const daysOfWeek = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']%>
   <% if (parkingData && parkingData.length > 0) { %>
     <table class="table">
       <thead>
         <tr>
+          <th> Permit Type</th>
+          <th> Day of The Week</th>
           <th>Lot Name</th>
           <th>Lot Number</th>
           <th>Total Spaces</th>
@@ -43,10 +55,13 @@
       <tbody>
         <% parkingData.forEach((lot) => { %>
           <tr>
+            <tr class="permitType-<%= lot.permitType %>"></tr>
+            <td><%= lot.permitType %></td>
+            <td><%= lot.dayOfWeek %></td>
             <td><%= lot.lotName %></td>
             <td><%= lot.lotNumber %></td>
             <td><%= lot.totalSpaces %></td>
-            <td><%= lot.times.join(', ') %></td>
+            <td><%= Object.values(lot.occupancy).join(', ') %></td>
           </tr>
         <% }); %>
       </tbody>
@@ -55,7 +70,39 @@
     <p>No parking data available.</p>
     <% } %>
   </div>
-
+  <script>
+    function filterByPermitType(selectedPermitType) {
+      // Construct the URL with the selected permit type
+      const url = `/availability?permitType=${encodeURIComponent(selectedPermitType)}`;
+      
+      // Redirect to the new URL
+      window.location.href = url;
+    }
+  
+    // Retrieve the selected permit type from the query parameter and set it in the dropdown
+    const urlParams = new URLSearchParams(window.location.search);
+    const selectedPermitType = urlParams.get('permitType');
+    document.getElementById('permitTypeDropdown').value = selectedPermitType;
+  
+    // Hide/show rows based on the selected permit type
+    function updateTableVisibility() {
+      const rows = document.querySelectorAll('.table tbody tr');
+      const selectedPermitType = document.getElementById('permitTypeDropdown').value;
+  
+      rows.forEach((row) => {
+        const permitType = row.querySelector('td:first-child').textContent.trim();
+        if (selectedPermitType === '' || permitType === selectedPermitType) {
+          row.style.display = ''; // Show the row
+        } else {
+          row.style.display = 'none'; // Hide the row
+        }
+      });
+    }
+  
+    // Call the function on page load and when the dropdown changes
+    document.addEventListener('DOMContentLoaded', updateTableVisibility);
+    document.getElementById('permitTypeDropdown').addEventListener('change', updateTableVisibility);
+  </script>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.1/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

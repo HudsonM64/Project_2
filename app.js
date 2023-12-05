@@ -36,20 +36,22 @@ async function getParkingData() {
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-// Render the "Availability" page
 app.get('/availability', async (req, res) => {
   try {
-      // Read the JSON file asynchronously
-      const rawdata = await fs.readFile('./parkingData.json', 'utf-8');
-      const parkingData = JSON.parse(rawdata);
+    // Read the JSON file asynchronously
+    const rawdata = await fs.readFile('./parkingData.json', 'utf-8');
+    const parkingData = JSON.parse(rawdata);
 
-      console.log('Fetched parking data:', parkingData);
+    // Define permitTypes array
+    const permitTypes = ['Commuter', 'Residential', 'Greek', 'B Permit',];
 
-      // Render the template with the fetched data
-      res.render('availability', { parkingData });
+    console.log('Fetched parking data:', parkingData);
+
+    // Render the template with the fetched data and permitTypes
+    res.render('availability', { parkingData, permitTypes });
   } catch (error) {
-      console.error('Error reading JSON file:', error.message);
-      res.status(500).send('Internal Server Error');
+    console.error('Error reading JSON file:', error.message);
+    res.status(500).send('Internal Server Error');
   }
 });
 // Render the "Admin" page
@@ -159,6 +161,7 @@ app.post('/delete-entry', async (req, res) => {
         res.status(400).send('Bad Request');
     }
   });
+  
 // Start the server
 const port = process.env.PORT || 3000;
 // Add a simple route to print a message when the server starts
